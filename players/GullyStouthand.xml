@@ -1,0 +1,746 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1060972792562'
+   sPlayerName='Don'
+   sCharacter='Gully Stouthand'
+   sFamilyClan=''
+   sHomeland='NA'
+   sGawd=''
+   sPatron=''
+   sAppearance=''
+   sBirthDate=''
+   sFamilyHistory=''
+   sHairColour='red'
+   sEyeColour='green'
+   sSpecialAbilities=''
+   sMiscInfo=''
+   sRace='dwarf'
+   jPlayerLog=''
+   nBirthRank='1'
+   nAge='55'
+   nHeight='51'
+   nWeight='159'
+   nSocialClassIndex='5'
+   nNumberSiblings='1'
+   nHandIndex='2'
+   nAlignementIndex='6'
+   nSexIndex='0'
+   nAIP='0'
+   AC_NORMAL='2'
+   AC_REAR='3'
+   AC_SHIELDLESS='3'
+   AC_SUPRISED='6'
+   jHealthMax='26'
+   jHealthLabel='26'
+   jMove='4'
+   jHonor='18'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='15'
+         jAdjPercent='22'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='86'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='185'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='9'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='9%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='17'
+         jAdjPercent='18'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='-3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='+4'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='15'
+         jAdjPercent='15'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='+2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='90%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='94%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='-45%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='Nil / 1 HP every day'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='11'
+         jAdjPercent='21'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='5th'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='45%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='7'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='10%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='12'
+         jAdjPercent='39'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='5%-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='05%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='11'
+         jAdjPercent='2'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='13'
+         jAdjPercent='8'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Plain looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Cleric'
+         nClassindex='1'
+         nClassID='1'
+         nSaveAs='1'
+         nFightAs='1'
+         jLevel='1'
+         jEXP='597'
+          >
+         </Class>
+         <Class
+         sName='Fighter'
+         nClassindex='0'
+         nClassID='0'
+         nSaveAs='0'
+         nFightAs='0'
+         jLevel='1'
+         jEXP='597'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='10'
+         jSave='10'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='13'
+         jSave='13'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='16'
+         jSave='16'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='1'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='3'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='1'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='20'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+         <Gear
+         sName='clothing:belt (M)'
+         sDesc='belt'
+         sLoc='waist'
+         nCount='1'
+         dWeight='0.5'
+         nGearID='8'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:boots,riding (M)'
+         sDesc='riding boots'
+         sLoc='feet'
+         nCount='1'
+         dWeight='2.5'
+         nGearID='9'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:breeches (M)'
+         sDesc='breeches'
+         sLoc='legs'
+         nCount='1'
+         dWeight='0.5'
+         nGearID='10'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:cloak, good cloth (M)'
+         sDesc='simple cloak'
+         sLoc='back'
+         nCount='1'
+         dWeight='3.0'
+         nGearID='11'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:garments,common (M)'
+         sDesc='belt'
+         sLoc=''
+         nCount='1'
+         dWeight='3.0'
+         nGearID='12'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:shirt,wool (M)'
+         sDesc='wool shirt'
+         sLoc=''
+         nCount='1'
+         dWeight='0.5'
+         nGearID='14'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:sword scabbard, hander, baldric (M)'
+         sDesc='belt'
+         sLoc=''
+         nCount='1'
+         dWeight='3.0'
+         nGearID='15'
+          >
+         </Gear>
+         <Gear
+         sName='container:backpack'
+         sDesc='backpack'
+         sLoc='back'
+         nCount='1'
+         dWeight='2.0'
+         nGearID='3'
+          >
+         </Gear>
+         <Gear
+         sName='provisions:wineskin'
+         sDesc='wineskin, 1 gallon of liquid'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='1.0'
+         nGearID='7'
+          >
+         </Gear>
+         <Gear
+         sName='container:belt pouch, large'
+         sDesc='backpack'
+         sLoc='belt'
+         nCount='1'
+         dWeight='1.0'
+         nGearID='16'
+          >
+         </Gear>
+         <Gear
+         sName='container:scroll case'
+         sDesc='scroll case'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='0.5'
+         nGearID='17'
+          >
+         </Gear>
+         <Gear
+         sName='torch'
+         sDesc='torch has radius of 15ft and lasts for 30 minutes'
+         sLoc='backpack'
+         nCount='5'
+         dWeight='1.0'
+         nGearID='0'
+          >
+         </Gear>
+         <Gear
+         sName='provisions:rations, dry (1 week)'
+         sDesc='rations, dry'
+         sLoc=''
+         nCount='1'
+         dWeight='65.0'
+         nGearID='19'
+          >
+         </Gear>
+         <Gear
+         sName='provisions:rations, dry (1 week)'
+         sDesc='rations, dry'
+         sLoc=''
+         nCount='1'
+         dWeight='65.0'
+         nGearID='19'
+          >
+         </Gear>
+         <Gear
+         sName='equipment:rope, silk 50&apos;'
+         sDesc='50 foot of silk rope'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='8.0'
+         nGearID='20'
+          >
+         </Gear>
+         <Gear
+         sName='equipment:tent, small'
+         sDesc='small tent'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='10.0'
+         nGearID='21'
+          >
+         </Gear>
+         <Gear
+         sName='equipment:winter blanket'
+         sDesc='winter blanket'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='3.0'
+         nGearID='23'
+          >
+         </Gear>
+         <Gear
+         sName='tools:flint and steel'
+         sDesc='flint and steel'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='0.1'
+         nGearID='24'
+          >
+         </Gear>
+         <Gear
+         sName='tools:surgeon&apos;s kit'
+         sDesc='surgeon&apos;s kit'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='20.0'
+         nGearID='25'
+          >
+         </Gear>
+         <Gear
+         sName='tools:whetstone'
+         sDesc='whetstone'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='1.0'
+         nGearID='26'
+          >
+         </Gear>
+         <Gear
+         sName='religious items:symbol, holy silver (M)'
+         sDesc='silver holy symbol'
+         sLoc=''
+         nCount='1'
+         dWeight='1.0'
+         nGearID='27'
+          >
+         </Gear>
+         <Gear
+         sName='tack and harness:bit bridle'
+         sDesc='bit and bridle'
+         sLoc='horse'
+         nCount='1'
+         dWeight='3.0'
+         nGearID='28'
+          >
+         </Gear>
+         <Gear
+         sName='tack and harness:halter'
+         sDesc='halter'
+         sLoc='horse'
+         nCount='1'
+         dWeight='0.1'
+         nGearID='29'
+          >
+         </Gear>
+         <Gear
+         sName='tack and harness:horseshoes &amp; shoeing'
+         sDesc='horse shoes'
+         sLoc='horse'
+         nCount='1'
+         dWeight='10.0'
+         nGearID='30'
+          >
+         </Gear>
+         <Gear
+         sName='tack and harness:saddle bags, large'
+         sDesc='saddle bags, large'
+         sLoc='horse'
+         nCount='1'
+         dWeight='8.0'
+         nGearID='31'
+          >
+         </Gear>
+         <Gear
+         sName='weapon:battle axe'
+         sDesc='battle axe'
+         sLoc='right hand'
+         nCount='1'
+         dWeight='7.0'
+         nGearID='32'
+          >
+         </Gear>
+         <Gear
+         sName='weapon:dagger'
+         sDesc='dagger'
+         sLoc='scabbard'
+         nCount='1'
+         dWeight='2.0'
+         nGearID='34'
+          >
+         </Gear>
+         <Skills
+         sName='tasks:mundane:armor maintenance'
+         sDesc='able to perform basic maintenance on armor'
+         jSkillSpinner='100'
+         nSkillID='13'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:mundane:weapon maintenance'
+         sDesc='able to perform basic maintenance on weapons'
+         jSkillSpinner='100'
+         nSkillID='14'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='launguage:dwarven'
+         sDesc='skilled speaking dwarvish'
+         jSkillSpinner='100'
+         nSkillID='10'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='launguage:common'
+         sDesc='skilled speaking common'
+         jSkillSpinner='43'
+         nSkillID='12'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:swimming: dogpaddle'
+         sDesc='able to dog paddle'
+         jSkillSpinner='24'
+         nSkillID='15'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:botany'
+         sDesc='fill in description'
+         jSkillSpinner='23'
+         nSkillID='25'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:brewing'
+         sDesc='fill in description'
+         jSkillSpinner='20'
+         nSkillID='27'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:first aid suite'
+         sDesc='fill in description'
+         jSkillSpinner='25'
+         nSkillID='26'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='dwarf:orc and goblinoid attack bonus'
+         sDesc='+1 to attack versus orcs, half orcs goblins and hobgoblins'
+         jSkillSpinner='1'
+         nSkillID='28'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='infra vision, 60ft'
+         sDesc='see in the infra spectrum for 60ft.'
+         jSkillSpinner='1'
+         nSkillID='3'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='dwarf:defense bonus versus giants'
+         sDesc='Giants, trolls, ogres, ogre magi, and titans suffer -4 to hit dwarves'
+         jSkillSpinner='1'
+         nSkillID='29'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='dwarf:stone/underground abilities'
+         sDesc='detect grade or slope in passage 1-5 on d6\ndetect new tunnel/passage construction 1-5 on d6\ndetect sliding/shifting walls or rooms 1-4 on d6\ndetect stonework traps, pits and deadfalls 1-3 on d6\ndetermine approximate depth underground 1-3 on d6\n'
+         jSkillSpinner='1'
+         nSkillID='30'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='dwarf:magic failure'
+         sDesc='20% chance for failure of magic item when using anything but weapons, armor, shields '
+         jSkillSpinner='1'
+         nSkillID='31'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='axe bonus'
+         sDesc='+1 with any axe'
+         jSkillSpinner='1'
+         nSkillID='0'
+         nSkillType='1'
+          >
+         </Skills>
+         <Quirks
+         sName='minor personality:loud boor'
+         sDesc='look up description and update'
+         nQuirkID='12'
+          >
+         </Quirks>
+         <Quirks
+         sName='major:personality:truthful'
+         sDesc='look up description and update'
+         nQuirkID='13'
+          >
+         </Quirks>
+  </Player>
+</PlayerFile>

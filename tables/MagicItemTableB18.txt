@@ -1,0 +1,7 @@
+10:free action
+20:feather falling
+35:invisibility
+50:jumping
+60:swimming
+80:warmth
+100:water walking

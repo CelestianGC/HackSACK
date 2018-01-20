@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='210. OCTAGONAL CHAMBER'
+   jRoomDescPlayer='Illumination in this large octagonal room seems to come from everywhere — ceiling, walls, floor — a milky radiance which gives a dim and eerie glow to the whole scene. The floor of this place is 15 &apos; below the level of the normal dungeon floor, with short broad stairways leading to it. The ceiling vaults to a height of 40 feet. The walls and floor of the room are of polished gray stone with whorls of glittering mica; the floor is partially obscured by swirling, eddying, softly glowing mist. In the center of the area is a great pierced square of bronze, ten feet on a side. A dome is pierced in the northern ceiling, a circular shaft some 20 feet wide opening directly over a pit of the same diameter and five feet depth. Immediately to the south of the pit is a block of alabaster two feet wide, four feet high, and eight feet long. Atop it are two knives and a bowl of finest crystal. Ranking the pit are two crystal braziers, suspended from tripods by chains of silver. Each emits a faint sickly-sweet perfumed smoke. The doors to the north are bronze, sealed with iron, chained, barred, and bear a warning inscription in runes of some sort.\n'
+   jRoomDescDM='If the bronze doors in area 145 (Dungeon Level One) are sundered, the stairs therein descend south to this room. However, entry is blocked by another set of like doors, set in the north wall of this area. \n\nThe altar stone and crystal service pieces are protected by a special glyph of warding suitable to the place. They cannot be safely touched unless the symbol of the Air Temple is worn and the glyph name, whah-duh, is spoken. Failure in either requirement causes a whirlwind to suddenly form and spin from the pit to the altar, inflicting 12 points of damage to each creature within ten feet of its path (save vs. spells to take half damage). This also triggers an alarm; the whole area gives off an evil-sounding chiming and tinkling, and the guardian (see area 210a) is summoned. The two crystal knives are worth 250 gp each; the bowl, 1, 250 gp. If the braziers are disturbed, they begin pouring out clouds of dense, choking smoke which fills 20, 000 cubic feet of volume each round, continuing for 11-20 rounds. This vapor is heavier than air, and thus builds from the floor upwards. Treat it as a wall of fog, though each victim within it takes 5-8 points of damage per round from smoke inhalation. After ten rounds of outpouring smoke, any creature within the pit is teleported to the Air Cavern (area 526). \n\nIf holy water is poured into a brazier, a Type I demon is instantly summoned and attacks everyone within the room. (Note that, with two braziers, two demons may be summoned. ) Pouring any other sort of liquid into a brazier causes the smoke to be twice as voluminous and twice as harmful for one round (after which output and toxicity return to normal). Each brazier is worth 10, 000 gp, and functions in perfectly normal manner once removed from this Air Temple. The secret door to the west opens to a flight of steps to area 301 (Dungeon Level Three).\n\nThe doors to the north bear the familiar runes of antipathy. Anyone failing any prior saving throw against the effect (found also in the main Temple entrance aboveground, as well as certain areas within the dungeon) cannot approach the doors; anyone making all prior saving throws must again, when approaching within ten feet, make a saving throw vs. spell, (with a -2 penalty) to avoid this effect.\n'
+   >
+  </BSInfo>
+  <BSInfo
+   jName='210a. GUARDIAN'
+   jRoomDescPlayer='Player Area Description...'
+   jRoomDescDM='This area quarters a drelb, the guardian of\nthe Air Temple. (See Appendix A, New\nMonsters, for a full description. ) The room\nis otherwise empty — but a careful search\nreveals that a section of floor is movable,\nbeing a secret trap door. The small space\nunderneath holds a censer of controlling air\nelementals.\nDrelb guardian: AC 2, MV 6 &quot;, HD 5 + 3, hp\n24, #AT 1, D 3-12, SA appears as wraith,\nshrinks while attacking (90% seems\nretreating), touch chills (victim hit drops\nitems, cannot function the round thereafter),\nSD hit only by magic weapons,\nreflects psionic attacks; XP 944'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='Drelb'
+   nAC='2'
+   nACBase='2'
+   jACMod='0'
+   jHitPointLabel='45'
+   jClassSelect='4'
+   nEXP='975'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='45'
+   nLevel='6'
+   nToHitRank='7'
+   jNotePad=''
+   sDescription='HOB 2, pg. 110\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='294'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='3'
+       jDiceSides='6'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

@@ -1,0 +1,671 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1092201710531'
+   sPlayerName='Celestian'
+   sCharacter='Grim Blackaxe'
+   sFamilyClan='null'
+   sHomeland='null'
+   sGawd=''
+   sPatron='null'
+   sAppearance='null'
+   sBirthDate='null'
+   sFamilyHistory='null'
+   sHairColour='null'
+   sEyeColour='null'
+   sSpecialAbilities='null'
+   sMiscInfo='null'
+   sRace='Human'
+   jPlayerLog=''
+   nBirthRank='0'
+   nAge='16'
+   nHeight='67'
+   nWeight='0'
+   nSocialClassIndex='0'
+   nNumberSiblings='0'
+   nHandIndex='2'
+   nAlignementIndex='4'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='2'
+   AC_NORMAL='-15'
+   AC_REAR='2'
+   AC_SHIELDLESS='-10'
+   AC_SUPRISED='2'
+   jHealthMax='44'
+   jHealthLabel='44'
+   jMove='12'
+   jHonor='20'
+   nTemporalHonor='0'
+  jCoinWeightIncluded='1'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='15'
+         jAdjPercent='71'
+          >
+             <AbilityMods
+             sName='Hit Adj'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Dam Adj'
+             nMod='-1'
+             jMod='3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='91'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='190'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='9'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='BB/LG'
+             nMod='-1'
+             jMod='10%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='25'
+         jAdjPercent='24'
+          >
+             <AbilityMods
+             sName='Def Adj'
+             nMod='-1'
+             jMod='-8'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adj'
+             nMod='-1'
+             jMod='+9'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adj'
+             nMod='-1'
+             jMod='+9'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='17'
+         jAdjPercent='88'
+          >
+             <AbilityMods
+             sName='HP Adj'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='SS'
+             nMod='-1'
+             jMod='97%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='RS'
+             nMod='-1'
+             jMod='98%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immun Disease/Alchohol'
+             nMod='-1'
+             jMod='-55%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regen'
+             nMod='-1'
+             jMod='Nil / 1 HP every day'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='9'
+         jAdjPercent='34'
+          >
+             <AbilityMods
+             sName='# Lang'
+             nMod='-1'
+             jMod='2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='4th'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='35%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells/Level'
+             nMod='-1'
+             jMod='6'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immun'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Mishap'
+             nMod='-1'
+             jMod='20%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='10'
+         jAdjPercent='4'
+          >
+             <AbilityMods
+             sName='Magical Adj'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Failure'
+             nMod='-1'
+             jMod='15%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immun'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Improve Skill'
+             nMod='-1'
+             jMod='05%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='10'
+         jAdjPercent='78'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adj'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Mod'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Mod'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='10'
+         jAdjPercent='24'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Plain looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Barbarian'
+         nClassindex='0'
+         nClassID='6'
+         nSaveAs='0'
+         nFightAs='0'
+         jLevel='2'
+         jEXP='9001'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='16'
+         jSave='16'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='18'
+         jSave='18'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='18'
+         jSave='18'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='17'
+         jSave='17'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='7'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='1'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='1'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='16'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='1'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='12'
+          >
+         </Coins>
+         <Gear
+         sName='Clothing:Belt (M)'
+         sDesc='Item created by import.\nClothing:Belt (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='0.5'
+         nGearID='132'
+          >
+         </Gear>
+         <Gear
+         sName='Clothing:Boots, Soft (M)'
+         sDesc='Item created by import.\nClothing:Boots, Soft (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='2.0'
+         nGearID='166'
+          >
+         </Gear>
+         <Gear
+         sName='Clothing:Breeches (M)'
+         sDesc='Item created by import.\nClothing:Breeches (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='0.5'
+         nGearID='133'
+          >
+         </Gear>
+         <Gear
+         sName='Clothing:Cloak, Good cloth (M)'
+         sDesc='Item created by import.\nClothing:Cloak, Good cloth (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='3.0'
+         nGearID='134'
+          >
+         </Gear>
+         <Gear
+         sName='Clothing:Gloves (M)'
+         sDesc='Item created by import.\nClothing:Gloves (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='0.5'
+         nGearID='135'
+          >
+         </Gear>
+         <Gear
+         sName='Clothing:Sword scabbard, hanger, baldric (M)'
+         sDesc='Item created by import.\nClothing:Sword scabbard, hanger, baldric (M)'
+         sLoc=''
+         nCount='2'
+         dWeight='3.0'
+         nGearID='159'
+          >
+         </Gear>
+         <Gear
+         sName='Clothing:Tunic (M)'
+         sDesc='Item created by import.\nClothing:Tunic (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='1.0'
+         nGearID='138'
+          >
+         </Gear>
+         <Gear
+         sName='Containers: Packs, Bags, Bottles, etc.:Backpack'
+         sDesc='Item created by import.\nContainers: Packs, Bags, Bottles, etc.:Backpack'
+         sLoc=''
+         nCount='1'
+         dWeight='2.0'
+         nGearID='139'
+          >
+         </Gear>
+         <Gear
+         sName='Containers: Packs, Bags, Bottles, etc.:Quiver'
+         sDesc='Item created by import.\nContainers: Packs, Bags, Bottles, etc.:Quiver'
+         sLoc='NOT-CARRIED'
+         nCount='3'
+         dWeight='0.5'
+         nGearID='170'
+          >
+         </Gear>
+         <Gear
+         sName='Containers: Packs, Bags, Bottles, etc.:Wineskin'
+         sDesc='Item created by import.\nContainers: Packs, Bags, Bottles, etc.:Wineskin'
+         sLoc=''
+         nCount='2'
+         dWeight='1.0'
+         nGearID='141'
+          >
+         </Gear>
+         <Gear
+         sName='Light Sources:Torch'
+         sDesc='Item created by import.\nLight Sources:Torch'
+         sLoc=''
+         nCount='3'
+         dWeight='1.0'
+         nGearID='142'
+          >
+         </Gear>
+         <Gear
+         sName='Provisions: Rations:Sausage, Sailor&apos;s (1 week&apos;s rations)'
+         sDesc='Item created by import.\nProvisions: Rations:Sausage, Sailor&apos;s (1 week&apos;s rations)'
+         sLoc='NOT-CARRIED'
+         nCount='1'
+         dWeight='15.0'
+         nGearID='265'
+          >
+         </Gear>
+         <Gear
+         sName='Tools:Flint and steel'
+         sDesc='Item created by import.\nTools:Flint and steel'
+         sLoc=''
+         nCount='1'
+         dWeight='0.1'
+         nGearID='144'
+          >
+         </Gear>
+         <Gear
+         sName='Armor and Related Items:Armor, Studded leather (M)'
+         sDesc='Item created by import.\nArmor and Related Items:Armor, Studded leather (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='25.0'
+         nGearID='615'
+          >
+         </Gear>
+         <Gear
+         sName='Armor and Related Items:Helmet, Basinet (M)'
+         sDesc='Item created by import.\nArmor and Related Items:Helmet, Basinet (M)'
+         sLoc=''
+         nCount='1'
+         dWeight='5.0'
+         nGearID='155'
+          >
+         </Gear>
+         <Gear
+         sName='Armor and Related Items:Shield, Body'
+         sDesc='Item created by import.\nArmor and Related Items:Shield, Body'
+         sLoc=''
+         nCount='1'
+         dWeight='25.0'
+         nGearID='625'
+          >
+         </Gear>
+         <Gear
+         sName='Weapons:Battle axe'
+         sDesc='Weapon created by import.\nWeapons:Battle axe'
+         sLoc=''
+         nCount='1'
+         dWeight='7.0'
+         nGearID='567'
+          >
+         </Gear>
+         <Gear
+         sName='Weapons:Long bow'
+         sDesc='Item created by import.\nWeapons:Long bow'
+         sLoc='NOT-CARRIED'
+         nCount='1'
+         dWeight='3.0'
+         nGearID='530'
+          >
+         </Gear>
+         <Gear
+         sName='Weapons: Ammo:Arrow, Flight (12)'
+         sDesc='Item created by import.\nWeapons: Ammo:Arrow, Flight (12)'
+         sLoc='NOT-CARRIED'
+         nCount='1'
+         dWeight='1.2'
+         nGearID='533'
+          >
+         </Gear>
+         <Gear
+         sName='Weapons: Ammo:Arrow, Sheaf (6)'
+         sDesc='Item created by import.\nWeapons: Ammo:Arrow, Sheaf (6)'
+         sLoc='NOT-CARRIED'
+         nCount='2'
+         dWeight='0.6'
+         nGearID='394'
+          >
+         </Gear>
+         <Skills
+         sName='Human:Can rise to any level in chosen class.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='292'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Human:Can choose any character class.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='293'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Human:Must be purchased.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='294'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Battle axe'
+         sDesc='Skill created by import.\nBattle axe'
+         jSkillSpinner='100'
+         nSkillID='342'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Bow: Long'
+         sDesc='Skill created by import.\nBow: Long'
+         jSkillSpinner='100'
+         nSkillID='356'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Spear    '
+         sDesc='Skill created by import.\nSpear    '
+         jSkillSpinner='100'
+         nSkillID='297'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Sword: Long'
+         sDesc='Skill created by import.\nSword: Long'
+         jSkillSpinner='100'
+         nSkillID='357'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Acrobatic Skill Suite'
+         sDesc='Skill created by import.\nAcrobatic Skill Suite'
+         jSkillSpinner='1'
+         nSkillID='299'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='Endurance'
+         sDesc='Skill created by import.\nEndurance'
+         jSkillSpinner='1'
+         nSkillID='346'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='Swimming      '
+         sDesc='Skill created by import.\nSwimming      '
+         jSkillSpinner='37'
+         nSkillID='317'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Swimming: Dog Paddle'
+         sDesc='Skill created by import.\nSwimming: Dog Paddle'
+         jSkillSpinner='57'
+         nSkillID='318'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Language, Modern: Common'
+         sDesc='Skill created by import.\nLanguage, Modern: Common'
+         jSkillSpinner='100'
+         nSkillID='325'
+         nSkillType='0'
+          >
+         </Skills>
+         <Quirks
+         sName='Tone Deaf'
+         sDesc='Quirk/Flaw created by import.\nTone Deaf'
+         nQuirkID='74'
+          >
+         </Quirks>
+         <Quirks
+         sName='Depression (Minor)'
+         sDesc='Quirk/Flaw created by import.\nDepression (Minor)'
+         nQuirkID='89'
+          >
+         </Quirks>
+         <Quirks
+         sName='Misguided'
+         sDesc='Quirk/Flaw created by import.\nMisguided'
+         nQuirkID='197'
+          >
+         </Quirks>
+         <Quirks
+         sName='Socially Awkward'
+         sDesc='Quirk/Flaw created by import.\nSocially Awkward'
+         nQuirkID='68'
+          >
+         </Quirks>
+  </Player>
+</PlayerFile>

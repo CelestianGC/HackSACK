@@ -1,0 +1,278 @@
+0:spell dissolves in a harmles spuff of smoke
+1:spell dissolves in a harmles spuff of smoke
+295:ears turn 7G for 7F
+307:ears turn 7G permanent
+327:nose turns 7G for 7F
+339:nose turns 7G permanent
+359:neck turns 7G for 7F
+371:neck turns 7G permanent
+391:hands turn 7G for 7F
+403:hands turn 7G permanent
+453:eyes turn 7G for 7F
+503:hair turns 7G for 7F
+554:skin turns 7G for 7F
+578:biting fingernails
+593:hair grows {1d4} feet
+611:chews own hair
+636:burst of soot in face
+686:affected by random cantrip
+711:becomes chronic nagger
+771:skin complaint (unpleasant rash) for 7F
+801:skin complain (unplesant rash) permanent
+851:suffer 1 point of damage
+931:1 random memorized spell goes off
+996:choke for {1d4} rounds
+1028:rash (-1 dex) for 7F
+1068:suffer {1d4-2} points of damage
+1083:lose sense of tyouch in fingers for 7F
+1095:arm goes numb ({1d100}) 1-50 left, 51=100 right for 7F
+1121:leg goes numb ({1d100}) 1-50 left, 51=100 right 1/3 movement for 7F
+1145:constantly gasping for air (slows speech by half, doubles cast times)
+1195:personal cloudburst
+1235:2 random memorized spells go off simultaneously
+1270:suffer {1d4} points of damage
+1295:loss of one spell slot for 7F
+1325:suffer {1d6+1} points of damage
+1375:spell dissolves in minor explosion {1d6-2} points of damage in a 5 foot radius
+1408:loss of two spell slots for 7F
+1468:cannot memorize that spell again for 7F
+1493:eyes turn 7G permanent
+1518:hair turns 7G permanent
+1554:polymorphed into amphibian for 7F
+1589:skin covered with large blotches (-3 comeliness) for 7F
+1600:skin covered with large blotches (-3 comeliness) permanent
+1680:now talks to self
+1710:fingernails turn 7G for 7F
+1724:fingernails turn 7G permanent
+1799:tingling in fingers (+25% spell mishap for somatic components) for 7F
+1839:ringing in ears for 7F
+1859:nacissism
+1899:contracts the flu
+1919:becomes convinced he is a clone of his original self
+1932:Tinnitus permanent ringing in ears
+1972:vision blurred (reduced 50%) for 7F
+2012:amnesia back 1 day
+2043:amnesia back 2 days
+2072:enlarge random object (as spell)
+2092:reduce random object (as spell)
+2132:enlarge self
+2152:reduce self
+2877:roll once on PHB table 6F for 7F
+3177:roll once on PHB table 6F permanent
+3277:sibling (or parent) rolls on PHB 6F for 7F
+3322:sibling (or parent) rolls PHB 6F permanent
+4047:roll once on PHB 6H for 7F
+4347:roll once on PHB 6H permanent
+4447:sibling (or parent) rolls PHB 6H for 7F
+4492:sibling (or parent) rolls PHB 6H permanent
+4792:roll PHB 6G for 7F
+4942:roll PHB 6G permanent
+4982:sibling (or parent) roll 6G for 7F
+5002:sibling (or parent) roll 6G permanent
+5302:roll PHB 6I for 7F
+5452:roll PHB 6I permanent
+5522:sibling (or parent) roll PHB 6I for 7F
+5552:sibling (or parent) roll PHB 6I permanent
+5582:wandering eye for 7F
+5602:gain 1 alignment infraction point
+5652:blinks (as per spell)
+5677:unquenchable thirst for 7F
+5702:entire body flows as per light spell
+5711:continual light spell on tongue
+5721:gain 2 alignment infraction points
+5757:emit unpleasant odor (-1 to reaction rolls) for 7F
+5779:emit vile odor (-3 to reaction rolls) for 7F
+5801:sibling (or parent) emits unpleasant odor (-1 reaction rolls) for 7F
+5819:sibling (or parent) emits vile odor (-3 reaction rolls) for 7F
+5832:must memorize all spells as if they were one level higher than actual
+5834:compulsion to become a mime for 7F
+5854:teleport 5 feet in random direction
+5869:teleport 10 feet in random direction
+5879:teleport 50 feet in random direction
+5894:wandering eye permanent
+5944:cannot memorize that spell again permanent
+5994:becomes center of stinking cloud spell
+6194:roll PHB 6B for 7F
+6284:roll PHB 6B permanent
+6484:roll PHB 6C for 7F
+6574:roll PHB 6C permanent
+6774:roll PHB 6D for 7F
+6899:roll PHB 6D permanent
+6919:teleport 5 feet straight up
+6928:teleport 10 feet straight up
+6936:teleport 50 feet straight up
+6958:needs 1 extra hour of sleep for 7F
+6968:lose all tattoos for 7F
+6978:lose all tattoos permanent
+6983:shaking (-1 to-hit, -1 to damage, +3 segments to cast times for spells with somatic components) for 7F
+6998:needs 2 extra hours of sleep for 7F
+7016:conversations with self (thinks others respond for 7F
+7031:is convinced he has a long lost sibling
+7037:polymorphed to primate for 7F
+7062:suffer {1d6} damage
+7073:suffer loss of 1 hit point permanent
+7077:constant thirst (must drink 3 times normal per day) permanent
+7088:emits unpleasant odor (-1 to reaction) permanent
+7095:emits vile odor (-3 reaction roll) permanent
+7185:roll PHB 6E 7E
+7275:roll PHB 6E permanent
+7295:immediate alignment audit
+7305:summon monsters (as Monster summoning I, hostile to caster or party member as applicable)
+7314:summon monsters (as Monster summoning II, hostile to caster or party member as applicable)
+7356:struck by lightning bolt from above
+7368:switch gender for 7F
+7383:change rances ({1d10}) 1=dwarf, 2=elf, 3=half-elf, 4=halfling, 5=half-ogre, 6=half-orc, 7=human, 8=gnome, 9=gnomeling, 10=pixie fairy for 7F
+7385:shaking (-1 to-hit, -1 to damage, +3 segments to casting times for spells with somatic components) permanent
+7397:uncontrollable falling down at random (1d100 minute) intervals for 7F
+7402:uncontrollable falling down at random (1d100 minute) intervals permanent
+7427:enters hackfrenzy immediately (needs {2d20} points of damage)
+7447:enters hacklust immediately (needs {2d20} points of damage)
+7547:becomes misanthrope for 7F
+7555:lose one talent for 7F
+7559:lose two talents for 7F
+7579:suffer {2d6} points of damage
+7587:summon monsters (as Monster summoning III, hostile to caster or party member as applicable)
+7607:lower temperature 10 degrees in 5-foot radius
+7617:lower temperature 25 degrees in 5-foot radius
+7622:lower temperature 50 degrees in 5-foot radius
+7642:raise temperature 10 degrees in 5-foot radius
+7652:raise temperature 25 degrees in 5-foot radius
+7657:raise temperature 50 degrees in 5-foot radius
+7664:summon monsters (as Monster summoning IV, hostile to caster or party member as applicable)
+7684:lose one class-specific ability for 7F
+7689:lose two class-specific abilities for 7F
+7695:sibling (or parent) contracts the flu
+7698:sibling (or parent) contracts leprosy
+7714:introversion
+7729:suffer {3d10} points of damage
+7739:suffer {2d20} points of damage
+7764:slowed as per spell
+7774:hasted as per spell
+7804:-1 to-hit for 7F
+7832:-1 to damage for 7F
+7842:hatred of one gender ({1d100}) 1-50 female, 51-100 male
+7856:-2 to-hit for 7F
+7880:-1 to all rolls for 7F
+7886:summon monsters (as Monster summoning V, hostile to caster or party member as applicable)
+7895:suffer loss of 2 hit points permanent
+7900:switch gender permanent
+7902:sibling (or parent) contracts malaria
+7908:compulsion to become a mime permanent
+7916:-2 to damage rolls for 7F
+7956:-1 point of honor
+7988:-2 points of honor
+8063:age 1 day
+8075:-2 to all rolls for 7F
+8091:-{1d4} points of honor
+8099:-{1d6} points of honor
+8129:becomes center of fireball spell
+8199:age {2d6} days
+8264:age {1d4} weeks
+8324:age {1d3} months
+8379:age {1d6} months
+8427:age {2d6} months
+8463:age 1 year
+8487:age {1d4} years
+8499:age {2d4} years
+8505:age {2d6} years
+8530:tingling in fingers (+25% chance of spell mishap for somatic components) permanent
+8546:rash (-2 dex) permanent
+8555:lose ability to cast spells for 7F
+8569:-1 to damage rolls permanent
+8584:-1 to-hit permanent
+8588:-2 to damage rolls permanent
+8591:drug addiction (gm choice)
+8639:-50 fractional points to random ability score=({1d7}) 1=str, 2=con, 3=dex, 4=int, 5=wis, 6=charisma, 7=comliness for 7F
+8663:-1 to random ability score=({1d7}) 1=str, 2=con, 3=dex, 4=int, 5=wis, 6=charisma, 7=comliness for 7F
+8675:-2 random ability score=({1d7}) 1=str, 2=con, 3=dex, 4=int, 5=wis, 6=charisma, 7=comliness for 7F
+8695:-50 fractional points to each fractional ability score for 7F
+8715:-1 to each ability score for 7F
+8735:-2 to each ability score for 7F
+8742:-2 to-hit permanent
+8792:all memorized spells go off simultaneously
+8797:summon monsters (as Monster summoning VI, hostile to caster or party member as applicable)
+8801:summon monsters (as Monster summoning VII, hostile to caster or party member as applicable)
+8808:lose sense of touch in fingers (x3 casting time -4 to-hit) permanent
+8813:arm goes numb ({1d100}) 1-50 left, 51-100 right) becoming useless permanent
+8820:leg goes numb ({1d100}) 1-50 left, 51-100 right) permanent
+8834:loss of one random spell permanent
+8846:-1 to all rolls permanent
+8856:loss of one spell slot permanent
+8886:aphasia (speeks random meaningless phrases instead of desired words)
+8895:contracts leprosy
+8900:contracts malaria
+8906:-2 to all rolls permanent
+8919:loss of two spell slots permanent
+8929:alighment change to ({1d100}) 1-50=chaotic 51-100=lawful axis 1 step
+8939:alighment change to ({1d100}) 1-50=good 51-100=evil axis 1 step
+9039:becomes misanthrope permanent
+9050:sibling (or parent) emits unpleasant odor (-1 reaction rolls) permanent
+9059:sibling (or parent) emits vile odor (-3 reaction roll) permanent
+9074:needs 1 extra hour of sleep permanent
+9081:needs 2 extra hours of sleep permanent
+9091:conversations with self (thinks others respond) permanent
+9101:vision blurred (reduced 50%) permanent
+9105:lose one talent permanent
+9107:lose two talents permanent
+9114:suffer loss of {1d6+1} hit points permanent
+9116:gain enmity of a nefarion
+9123:is Harmed (per speel)
+9128:polymorphed to amphibian permanent
+9215:7H
+9235:now hates one sibling (or parent)
+9245:now hated bvy one sibling (or parent)
+9252:changes race ({1d10}) 1=dwarf, 2=elf, 3=half-elf, 4= halfling, 5=half-ogre, 6=half-orc, 7=human, 8=gnome, 9=gnomeling, 10=pixie fairy permanent
+9256:becomes {1d4*10} years younger
+9260:-{1d8} points of honor
+9262:-{2d4} points of honor
+9272:enervated loss of 1 experience level for 7F
+9277:enervated loss of 2 experience levels for 7F
+9302:amnesia back 1 week
+9322:amnesia back 1 month
+9358:-{1d20}% to one skill (random) permanent
+9376:-{1d100}% to one skill (random) permanent
+9385:suffer loss of {1d4} hit points permanent
+9405:dyslexia (x3 times to read anything) for 7F
+9445:-{1d20}% to one skill (random) for 7F
+9470:-{1d100}% to one skill (random) for 7F
+9484:lethargy (2 to-hit, -2 to damage, double all initiative times, movement halved) for 7F
+9504:amnesia back 6 months
+9514:amnesia back 1 year
+9519:amnesia back 2 years
+9521:amnesia back 5 years
+9522:amnesia back 10 years
+9547:decides he must switch classes
+9577:unable to sleep for 7F
+9617:uncontrollable weight gain (1 pound per week) for 7F
+9641:bulimia for 7F
+9656:unable to sleep permanent
+9663:lethargy (-2 to-hit, -2 to damage, double all initiative times, movement is halved) permanent
+9688:-50 fractional points to random ability score=({1d7}) 1=str, 2=con, 3=dex, 4=int, 5=wis, 6=charisma, 7=comliness permanent
+9708:-1 to random ability score=({1d7}) 1=str, 2=con, 3=dex, 4=int, 5=wis, 6=charisma, 7=comliness permanent
+9713:-2 to random ability score=({1d7}) 1=str, 2=con, 3=dex, 4=int, 5=wis, 6=charisma, 7=comliness permanent
+9723:spontaneous combustion, burst into flame and suffer {6d8} points of damage
+9743:sibling (or parent) suffers uncontrollable weight gain (1 pound per week) for 7F
+9763:gains appearance of undead (-15 comeliness, -5 charisma for 7F
+9773:sibling (or parent) sufferes uncontrollable weight gain (1 pound per week) permanent
+9793:uncontrollable weight gain (1 pound per week) permanent
+9796:-50 fractional points to each fractional ability score permanent
+9798:-1 to each ability score permanent
+9799:-2 to each ability score permanent
+9805:suffer loss of {2d6} hit points permanent
+9814:anorezia (lose 1-2 pounds per week) permanent (till cured or death)
+9817:polymorphed into primate permanent
+9827:bulimia permanent
+9832:suffer loss of {3d6} hit points permanent
+9842:dyslexia (x3 time to read anything) permanent
+9848:enters coma for 7F
+9858:lose one class-specific ability permanent
+9861:lose two class-specific abilities permanent
+9871:lose ability to cast spells permanent
+9873:all magic items on person are disjoined (as per Hyptor's Disjunction spell)
+9876:enters coma permanent
+9886:gains appearance of undead (-15 comeliness, -5 charisma) permanent
+9893:lose 1 level
+9898:lose 2 levels
+9899:spontaneous combustion, burst into flame and immediately dies
+9900:chokes to death in 1 round
+10000:roll twice more*

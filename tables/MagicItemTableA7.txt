@@ -1,0 +1,24 @@
+3:Aneurisms:3000:25000:238
+7:Conjuration:3000:30000:238
+15:Earth and Stone:500:5000:238
+21:Enemy Detection:1000:10000:238
+27:Fear:750:10000:238
+30:Fire:1000:15000:238
+36:Flame Extinguishing:750:5000:238
+39:Frost:3000:20000:238
+43:Illumination:1000:15000:238
+48:Illusion:1500:15000:239
+53:Lighting:2000:25000:239
+57:Magic Detection:1000:20000:239
+60:Magic Missiles:2000:25000:239
+66:Metal and Mineral Detection:750:15000:239
+70:Negation:1500:25000:239
+74:Paralyzation:1500:25000:239
+78:Polymorphing:1500:25000:239
+82:Repel Attack:3500:30000:239
+85:Scrying:2000:40000:239
+88:Secret Door and Trap Location:1000:25000:239
+91:Size Alteration:1500:20000:239
+94:Volcanic Fire:5000:50000:239
+98:Wonder:3500:40000:240
+100:GM's Choice:0:0:0

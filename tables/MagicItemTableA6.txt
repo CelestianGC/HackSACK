@@ -1,0 +1,21 @@
+5:Command:3000:15000:235
+12:Curing:4000:15000:236
+14:Staff of the Dark Mage:5000:50000:236
+18:Devastation:3000:40000:236
+20:Hail and Brimstone:4000:45000:236
+27:Indignation:2000:15000:236
+32:Lordship:3000:20000:236
+38:Mace-Staff:500:4000:236
+40:Staff of the Magi:5000:45000:236
+44:Phantasmal Fireballs:4000:25000:236
+51:Power:5000:25000:237
+57:Serpent:3000:15000:237
+63:Slinging:1000:5000:237
+68:Spear-Staff:500:4000:237
+75:Striking:3000:20000:237
+82:Swarming Insects:100:2000:237
+86:Thunder and Lighting:4000:40000:237
+90:Weather Control:2000:28500:237
+94:Withering:4000:35000:238
+98:Woodlands:4000:30000:238
+100:GM's Choice:0:0:0

@@ -1,0 +1,10 @@
+-100:Others are repulsed and will attempt to destroy such an ugly creature.
+-15:Others display disgust and have nothing to do with them unless they are evil.
+-8:Others will evidence aversion and desire to be away from such an ugly creature.
+1:Others will be uneasy near such an ugly individual.
+7:Homely looking.
+10:Plain looking.
+14:Those close like to view such an individual. Reaction adjustment +Comeliness as a percent.
+18:Hearts will race at the beauty of such a creature. +150% reaction adjustment. Opposite sex facinated (PHB p21)
+22:Hearts will race at the beauty of such a creature. +150% reaction adjustment. Opposite sex facinated (PHB p21), people will flock around the individual
+26:Reaction adjustment is double comeliness score. Facination (PHB p21)

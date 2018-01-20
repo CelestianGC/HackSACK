@@ -1,0 +1,20 @@
+5:Absent Minded:9
+8:Acrophobia(fear of heights):10
+11:Agoraphobia (fear of open spaces):10
+17:Alcoholic:8
+22:Animal Phobia:9
+28:Chronic Nightmares:6
+32: Claustrophobia (fear of closed spaces):8
+35:Delusional(Minor):10
+41:Depression(minor):8
+47:Gambling Addiction:8
+53:Inappropriate Sense of Humor:7
+56:Kleptomaniac(compelled to steal:10
+59:Obsessive Compulsive:10
+70:Nagging Conscience:5
+73:Paranoid:10
+79:Short Term Memory Loss:8
+82:Superstitous:10
+90:Temper:7
+95:Roll again on this table and on Table 6G
+100: Roll again on this table and on Table 6H

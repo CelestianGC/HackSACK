@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>152. TORTURE CHAMBER</jName>
+      <jRoomDescPlayer>Lurid light from a flaming cresset and a glowing brazier full of charcoal reveals a 30 &amp;apos;x 20&amp;apos; chamber containing a rack, iron maiden, cage, and all the other unspeakable devices common to a torture chamber. Two adjacent 10&amp;apos; square alcoves, one to the south and one east, are barred, their doors held fast by chain and padlock. Two prisoners are in each, obviously here to await the tender mercies of the torturers. Two female humans are in the south alcove, and two ores in the east. \n</jRoomDescPlayer>
+      <jRoomDescDM>The solid door to this area is not locked, and can be opened easily and quietly if care is taken. The turnkey and his bugbear assistant are here busily engaged in torturing a human on a rack, and will therefore probably be surprised (1-4 on 1d6) by careful and quiet invaders.\n\nTurnkey: AC 2, MV 9&amp;quot;, Level 5 Fighter, hp 30, #AT 1, D 2-9 (battle axe); XP 240 \n\nBugbear: AC 3, MV 9&amp;quot;, HD 3 + 1, hp 22, #AT 1, D 1-8 (flail); XP 223\n\nThe turnkey is wearing chain mail armor, and has 16 Strength and 17 Dexterity (the damage and AC bonuses for which are included in the statistics above). He wears a bronze ring with a triangular setting of jet (worth 50 gp), and has 23 gp in his purse. Inside a hidden pocket in his surcoat are four tourmalines (worth 100 gp each). The bugbear is wearing a chain mail shirt and leather jack with metal plates. In its purse are 1-6 sp, 1-6 ep, 1-6 pp, and a rock crystal (worth 50 gp). Their victim is a man-at-arms, who was recently taken in a raid which netted other captives (see below). He refused to join the Temple fighters, and so is to be slowly killed here and then fed to the gnolls. \n\nVictim: AC 10, Level 0, hp 3 (originally 6); XP 13\n\nThe humans are mere country folk, taken in a recent raid. They ask to be shown an exit from the dungeon so that they may return to their homes. The orcs join and fight with the party if given arms (being Lawful and opposed to the Temple followers, despite their evil natures) though they desert in any tough situation. They know a way to get to the level below (area 153) and the route to stairs up (near the south end of the level map, east and west sides). \n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Bugbear#1</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>34</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>144</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>175</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>34</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>5</nToHitRank>
+    <sDescription>damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts\nwill not hesitate to belch this information to their brethren and fetch\nreinforcements. Bugbear combat is tactically sound, beginning with\na war howl to distract opponents, followed by a volley of missiles and\nthen the charge into melee. Bugbears are not above a tactical retreat.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Bugbear#2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>35</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>144</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>175</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>35</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>5</nToHitRank>
+    <sDescription>damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts\nwill not hesitate to belch this information to their brethren and fetch\nreinforcements. Bugbear combat is tactically sound, beginning with\na war howl to distract opponents, followed by a volley of missiles and\nthen the charge into melee. Bugbears are not above a tactical retreat.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Turnkey</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>45</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>0</jClassSelect>
+    <nCreatureID>1528</nCreatureID>
+    <nAC>2</nAC>
+    <nACBase>2</nACBase>
+    <nEXP>550</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>45</nHitPoints>
+    <nLevel>5</nLevel>
+    <nToHitRank>6</nToHitRank>
+    <sDescription>Description: \nchain mail &amp;amp; shield\nLevel 5 Fighter; \n#AT 1; D by weapon: each has battle axe (D 2d4), dagger (1-4), light crossbow and 30 quarrels (1-4)\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>2</nBASEAlignmentIndex>
+    <nBASEHackFactor>6</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>1</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

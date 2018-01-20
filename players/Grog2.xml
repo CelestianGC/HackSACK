@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1060970809968'
+   sPlayerName='Tony'
+   sCharacter='Grog'
+   sFamilyClan=''
+   sHomeland='NA'
+   sGawd='NA'
+   sPatron='NA'
+   sAppearance=''
+   sBirthDate=''
+   sFamilyHistory='Celeb Parent, both alive'
+   sHairColour='none'
+   sEyeColour=''
+   sSpecialAbilities=''
+   sMiscInfo=''
+   sRace='half-ogre'
+   jPlayerLog='Saturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2261 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2262 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2263 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2264 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Fighter class for a total of 2288 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2289 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2290 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2291 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2292 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2293 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2294 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2295 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2296 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2297 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2298 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2299 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2300 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2301 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2302 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2303 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2304 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2305 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2306 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2307 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2308 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2309 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2310 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2311 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2312 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Fighter class for a total of 2313 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2326 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2339 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2352 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2365 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2378 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2391 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2404 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 2417 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2452 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2487 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2522 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2557 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2592 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2627 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2662 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2697 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2732 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2767 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2802 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2837 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2872 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2907 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2942 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 2977 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 3012 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 3047 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 3082 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3095 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3108 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3121 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Fighter class for a total of 3145 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Fighter class for a total of 3169 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 3204 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Fighter class for a total of 3239 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3252 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3265 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3278 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Fighter class for a total of 3302 experience.\nSaturday, August 16, 2003:Received EXP award of 130 points to the Fighter class for a total of 3432 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3445 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3458 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Fighter class for a total of 3471 experience.\nSaturday, August 16, 2003:Received EXP award of 200 points to the Fighter class for a total of 3671 experience.\nSaturday, August 16, 2003:Awarded 200 EXP for Fighter:Precision Cutting, DETAILS: Individual EXP award for Grog crit hit by grog 2 on rats.\nSaturday, August 16, 2003:Received EXP award of 250 points to the Fighter class for a total of 3921 experience.\nSaturday, August 16, 2003:Awarded 250 EXP for General:Most Damage Dealt in Single Blow, DETAILS: Individual EXP award for Grog grog hit for 19.\nSaturday, August 16, 2003:Received EXP award of 1000 points to the Fighter class for a total of 4921 experience.\nSaturday, August 16, 2003:Awarded 1000 EXP for General:Generic, DETAILS: 1000 exp for magic detect wand.\nSaturday, August 16, 2003:Received EXP award of 6750 points to the Fighter class for a total of 11671 experience.\nSaturday, August 16, 2003:Awarded 6750 EXP for General:Generic, DETAILS: treasure gold/magic exp.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Fighter class for a total of 11771 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for Fighter:CriticalHit suffered, DETAILS: serverity 10.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Fighter class for a total of 11871 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for Fighter:CriticalHit suffered, DETAILS: conrad sev 10.\nSaturday, August 16, 2003:Received EXP award of 200 points to the Fighter class for a total of 12071 experience.\nSaturday, August 16, 2003:Awarded 200 EXP for General:Role Play Award (average), DETAILS: everyone.\nSaturday, August 16, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#10 defeated:gully.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#9 defeated:grog,sucking.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,conrad.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#16 defeated:conrad.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#20 defeated:liam,lorum,grog.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#4 defeated:liam,conrad.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#5 defeated:liam,conrad.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#15 defeated:conrad.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#5 defeated:grog.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#9 defeated:gully.\n*Tuesday, December 16, 2003 GameDate: GYear:560 GMonth:1 GDay:1:Honor adjusted: 13/4+18=21\n'
+   nBirthRank='8'
+   nAge='17'
+   nHeight='90'
+   nWeight='395'
+   nSocialClassIndex='5'
+   nNumberSiblings='7'
+   nHandIndex='1'
+   nAlignementIndex='7'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='3'
+   AC_NORMAL='4'
+   AC_REAR='4'
+   AC_SHIELDLESS='4'
+   AC_SUPRISED='6'
+   jHealthMax='63'
+   jHealthLabel='63'
+   jMove='9'
+   jHonor='21'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='21'
+         jAdjPercent='9'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='9'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='600'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='810'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='17(12)'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='70%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='16'
+         jAdjPercent='35'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='-2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='24'
+         jAdjPercent='99'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='+7'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='99%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='100%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='-95%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='1 HP/2 turns'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='9'
+         jAdjPercent='3'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='4th'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='35%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='6'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='20%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='8'
+         jAdjPercent='87'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='25%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='04%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='11'
+         jAdjPercent='98'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='8'
+         jAdjPercent='32'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Homely looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Fighter'
+         nClassindex='0'
+         nClassID='0'
+         nSaveAs='0'
+         nFightAs='0'
+         jLevel='2'
+         jEXP='7999'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='16'
+         jSave='16'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='18'
+         jSave='18'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='18'
+         jSave='18'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='17'
+         jSave='17'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+         <Gear
+         sName='armor:hide'
+         sDesc='hide armor'
+         sLoc='body'
+         nCount='1'
+         dWeight='35.0'
+         nGearID='2'
+          >
+         </Gear>
+         <Gear
+         sName='container:backpack'
+         sDesc='backpack'
+         sLoc='back'
+         nCount='1'
+         dWeight='2.0'
+         nGearID='3'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:robe'
+         sDesc='robe'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='2.0'
+         nGearID='2'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:cloak'
+         sDesc='simple cloak'
+         sLoc='back'
+         nCount='1'
+         dWeight='2.0'
+         nGearID='5'
+          >
+         </Gear>
+         <Gear
+         sName='equipment:rope, hemp 50&apos;'
+         sDesc='50 foot of hemp rope'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='20.0'
+         nGearID='6'
+          >
+         </Gear>
+         <Gear
+         sName='provisions:wineskin'
+         sDesc='wineskin, 1 gallon of liquid'
+         sLoc='backpack'
+         nCount='1'
+         dWeight='1.0'
+         nGearID='2'
+          >
+         </Gear>
+         <Skills
+         sName='tasks:mundane:armor maintenance'
+         sDesc='able to perform basic maintenance on armor'
+         jSkillSpinner='1'
+         nSkillID='13'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:mundane:weapon maintenance'
+         sDesc='able to perform basic maintenance on weapons'
+         jSkillSpinner='1'
+         nSkillID='14'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='launguage:common'
+         sDesc='skilled speaking common'
+         jSkillSpinner='100'
+         nSkillID='12'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:swimming: dogpaddle'
+         sDesc='able to dog paddle'
+         jSkillSpinner='38'
+         nSkillID='15'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:cooking'
+         sDesc='able to cook'
+         jSkillSpinner='23'
+         nSkillID='16'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:map sense'
+         sDesc='look up description'
+         jSkillSpinner='27'
+         nSkillID='17'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:rope use'
+         sDesc='able to use ropes and tie knots.'
+         jSkillSpinner='39'
+         nSkillID='18'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='endurance'
+         sDesc='a character with endurance is able to perform continual physical activity for twice as long as normal character.'
+         jSkillSpinner='1'
+         nSkillID='19'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='damage bonus'
+         sDesc='+1 damage with a single weapon of the characters choice.'
+         jSkillSpinner='1'
+         nSkillID='20'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='dense skin'
+         sDesc='character with this talent takes 1/2 damage from blunt weapons'
+         jSkillSpinner='1'
+         nSkillID='22'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='tough hide'
+         sDesc='Character has a natural AC of 8. If the character wears armor that would improve his AC better than 8 this ability has no effect. If the character wears armor that give him an ac of 8 or worse he may add +1 bonus to his AC.'
+         jSkillSpinner='1'
+         nSkillID='23'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='infra vision, 30ft'
+         sDesc='see in the infra spectrum for 30ft.'
+         jSkillSpinner='1'
+         nSkillID='24'
+         nSkillType='3'
+          >
+         </Skills>
+         <Quirks
+         sName='minor physical:scar, facial'
+         sDesc='look up description and update'
+         nQuirkID='10'
+          >
+         </Quirks>
+         <Quirks
+         sName='minor physical:strange body odor'
+         sDesc='look up description and update'
+         nQuirkID='11'
+          >
+         </Quirks>
+  </Player>
+</PlayerFile>

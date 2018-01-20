@@ -1,0 +1,19 @@
+1:Armor of Blending:100:5000:267
+2:Armor of Command:1000:15000:267
+3:Armor of Missile Attraction:0:1500:267
+4:Armor of Rage:0:2000::267
+5:Chain Mail Bikini of Remote Eye Gouging:500:2000:267
+6:Elven Chain Mail:1000:5000:267
+7:Elven Chain Mail of Astral Projection:1000:5000:267
+8:Great Helm of Fear:2500:28000:267
+9:Grieves of Trollkin Control (halfling sized):3500:50000:268
+10:Plate Mail of Etheralness:3500:40000:268
+11:Plate Mail of Fear:2000:35000:268
+13:Platemail +10 (Gnome Sized):2500:75000:0
+14:Plate Mail of Vulnerability:0:2000:268
+15:Shield of Command Weather:1000:40000:268
+16:Shield of Far Reaching Defense:2000:30000:268
+17:Shield of Missile Attraction -1:0:2000:268
+18:Shield of Missile Defense +1/+4:400:4000:268
+19:Shield of Provocation +3:0:1000:268
+20:GM's Choice, Table A20 GMG:0:0:0

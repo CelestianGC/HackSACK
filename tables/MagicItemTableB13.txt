@@ -1,0 +1,11 @@
+1:ghasts
+2:ghosts
+3:ghouls
+4:shadows
+5:skeletons
+6:spectres
+7:wights
+8:wraiths
+9:vampires
+10:zombies
+12:GM's choice

@@ -1,0 +1,25 @@
+4:Candle of Invocation (C):1000:10000:246
+8:Dust of Appearance:1000:10000:251
+12:Dust of Disappearance:2000:20000:251
+16:Dust of Dryness:1000:10000:251
+20:Dust of Fairy Kin:2000:15000:251
+24:Dust of Illusion:1000:15000:251
+29:Dust of Sneezing and Choking:1000:10000:251
+32:Dust of Tracelessness:500:10000:251
+36:Gut Stones:1000:0:254
+40:Incense of Meditation (C):500:1000:257
+44:Incense of Obsession (C):600:1500:257
+48:Ioun Stones:300:25000:258
+52:Karnaac's Ointment:500:3000:258
+56:Marble of Eagle Vision:2500:25000:259
+60:Mushrooms of Delusion:500:2000:0
+64:Nulur's Marvelous Pigments:500:5000:260
+68:Philosopher's Stone:1000:15000:261
+74:Smoke Powder (optional):1000:30000:264
+80:Sovereign Glue:800:10000:265
+83:Stone of Controlling Earth Elementals:1500:20000:265
+86:Stone of Good Luck (Luckstone):2000:25000:265
+89:Stone of Weight (Loadstone):1500:20000265
+94:Universal Solvent:1000:15000:266
+98:Whetstone of Enchantment:2000:30000:266
+100:GM's Choice:0:0:0

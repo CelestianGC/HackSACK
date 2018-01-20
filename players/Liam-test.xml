@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayerFile JDOM="10b">
+  <Player>
+    <sPlayerName>Mark</sPlayerName>
+    <sCharacter>Liam Stonybrook</sCharacter>
+    <sRace>half-elf</sRace>
+    <lPlayerID>1060975077125</lPlayerID>
+    <jAbsent>false</jAbsent>
+    <jHireling>false</jHireling>
+    <sFamilyClan />
+    <sHomeland />
+    <sGawd />
+    <sPatron />
+    <sAppearance />
+    <sBirthDate />
+    <sFamilyHistory />
+    <sHairColour>black</sHairColour>
+    <sEyeColour>green</sEyeColour>
+    <sSpecialAbilities />
+    <sMiscInfo />
+    <jPlayerLog>Saturday, August 16, 2003:Your health was adjusted 32-38=-6\nSaturday, August 16, 2003:Your health was adjusted -6-3=-9\nSaturday, August 16, 2003:Your health was adjusted -9+5=-4\nSaturday, August 16, 2003:Your health was adjusted -4+5=1\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1296 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1297 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1298 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1299 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Ranger class for a total of 1323 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1324 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1325 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1326 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1327 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1328 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1329 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1330 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1331 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1332 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1333 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1334 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1335 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1336 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1337 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1338 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1339 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1340 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1341 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1342 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1343 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1344 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1345 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1346 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1347 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Ranger class for a total of 1348 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1361 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1374 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1387 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1400 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1413 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1426 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1439 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 1452 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1487 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1522 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1557 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1592 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1627 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1662 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1697 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1732 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1767 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1802 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1837 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1872 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1907 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1942 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 1977 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 2012 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 2047 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 2082 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 2117 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2130 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2143 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2156 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Ranger class for a total of 2180 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Ranger class for a total of 2204 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 2239 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Ranger class for a total of 2274 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2287 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2300 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2313 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Ranger class for a total of 2337 experience.\nSaturday, August 16, 2003:Received EXP award of 130 points to the Ranger class for a total of 2467 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2480 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2493 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Ranger class for a total of 2506 experience.\nSaturday, August 16, 2003:Received EXP award of 1000 points to the Ranger class for a total of 3506 experience.\nSaturday, August 16, 2003:Awarded 1000 EXP for General:Generic, DETAILS: 1000 exp for magic detect wand.\nSaturday, August 16, 2003:Received EXP award of 6750 points to the Ranger class for a total of 10256 experience.\nSaturday, August 16, 2003:Awarded 6750 EXP for General:Generic, DETAILS: treasure gold/magic exp.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Ranger class for a total of 10356 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for Fighter:Precision Cutting, DETAILS: liam got 6 crits.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Ranger class for a total of 10456 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for Fighter:CriticalHit suffered, DETAILS: serverity 10.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Ranger class for a total of 10556 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for Fighter:CriticalHit suffered, DETAILS: conrad sev 10.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Ranger class for a total of 10656 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for General:Role Play Award (average), DETAILS: everyone.\nSaturday, August 16, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#2 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#3 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Dark Seether defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#3 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#14 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#9 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#5 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#15 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#20 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#10 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#16 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#21 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#11 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#22 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#23 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#17 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#24 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#25 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#6 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#7 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#8 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#13 defeated:gully,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#12 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#18 defeated:conrad,grog,gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#19 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#1 defeated:conrad,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#3 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#2 defeated:conrad,grog,gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#4 defeated:gully,lliam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#6 defeated:gtrog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#7 defeated:grog,suck.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#5 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#4 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghast defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#3 defeated:gully.conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:gully,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:gully,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghoul, Common#1 defeated:grog,gully,lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghoul, Common#3 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#2 defeated:liam,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#1 defeated:grog,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#5 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#4 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#1 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#10 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#11 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#12 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#13 defeated:guly.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#14 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#15 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#18 defeated:lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#19 defeated:lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#2 defeated:conrad,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#8 defeated:grog,suckung.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#9 defeated:grog,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#17 defeated:liam,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#16 defeated:liam,suck,off.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#3 defeated:conrad,sucking,off,gully sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,crit no more.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:conrad.\nSunday, August 17, 2003:Honor adjusted: 72/4+23=41\n</jPlayerLog>
+    <nBirthRank>1</nBirthRank>
+    <nAge>21</nAge>
+    <nHeight>66</nHeight>
+    <nWeight>122</nWeight>
+    <nSocialClassIndex>7</nSocialClassIndex>
+    <nNumberSiblings>0</nNumberSiblings>
+    <nHandIndex>2</nHandIndex>
+    <nAlignementIndex>6</nAlignementIndex>
+    <nSexIndex>0</nSexIndex>
+    <nAIP>0</nAIP>
+    <jSizeComboBox>2</jSizeComboBox>
+    <jHealthMax>32</jHealthMax>
+    <jHealthLabel>32</jHealthLabel>
+    <jMove>12</jMove>
+    <jHonor>41</jHonor>
+    <nTemporalHonor>0</nTemporalHonor>
+    <AC>
+      <AC_NORMAL>7</AC_NORMAL>
+      <AC_REAR>7</AC_REAR>
+      <AC_SHIELDLESS>7</AC_SHIELDLESS>
+      <AC_SUPRISED>7</AC_SUPRISED>
+    </AC>
+    <Abilities>
+      <Ability>
+        <sName>Strength</sName>
+        <jAdjScore>13</jAdjScore>
+        <jAdjPercent>15</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Dexterity</sName>
+        <jAdjScore>13</jAdjScore>
+        <jAdjPercent>15</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Constitution</sName>
+        <jAdjScore>15</jAdjScore>
+        <jAdjPercent>84</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Intelligence</sName>
+        <jAdjScore>11</jAdjScore>
+        <jAdjPercent>61</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Wisdom</sName>
+        <jAdjScore>15</jAdjScore>
+        <jAdjPercent>89</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Charisma</sName>
+        <jAdjScore>12</jAdjScore>
+        <jAdjPercent>100</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Comeliness</sName>
+        <jAdjScore>12</jAdjScore>
+        <jAdjPercent>82</jAdjPercent>
+      </Ability>
+    </Abilities>
+    <Classes>
+      <Class>
+        <sName>Ranger</sName>
+        <nClassID>8</nClassID>
+        <nSaveAs>0</nSaveAs>
+        <nFightAs>0</nFightAs>
+        <jLevel>2</jLevel>
+        <jEXP>4500</jEXP>
+        <jEXPBonus>0</jEXPBonus>
+      </Class>
+    </Classes>
+    <SavingThrows>
+      <Save>
+        <sName>Paralyzation, Poison, Death Magic</sName>
+        <nSaveType>0</nSaveType>
+        <nBaseSave>14</nBaseSave>
+        <jSave>14</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Rod, Staff, Wand</sName>
+        <nSaveType>1</nSaveType>
+        <nBaseSave>16</nBaseSave>
+        <jSave>16</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Petrifaction, HackFrenzy, HackLust, PolyMorph</sName>
+        <nSaveType>2</nSaveType>
+        <nBaseSave>15</nBaseSave>
+        <jSave>15</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Breath Weapon</sName>
+        <nSaveType>3</nSaveType>
+        <nBaseSave>18</nBaseSave>
+        <jSave>18</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Apology</sName>
+        <nSaveType>4</nSaveType>
+        <nBaseSave>18</nBaseSave>
+        <jSave>18</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Spells</sName>
+        <nSaveType>5</nSaveType>
+        <nBaseSave>17</nBaseSave>
+        <jSave>17</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+    </SavingThrows>
+    <Coins>
+      <Coin>
+        <sName>Copper</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Silver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Electrum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Gold</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Hardsilver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Platinum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+    </Coins>
+    <Inventory>
+      <Gear>
+        <sName>container:backpack</sName>
+        <sDesc>backpack</sDesc>
+        <sLoc>back</sLoc>
+        <nCount>1</nCount>
+        <dWeight>2.0</dWeight>
+        <nGearID>3</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:breeches (M)</sName>
+        <sDesc>breeches</sDesc>
+        <sLoc>legs</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>10</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:boots,riding (M)</sName>
+        <sDesc>riding boots</sDesc>
+        <sLoc>feet</sLoc>
+        <nCount>1</nCount>
+        <dWeight>2.5</dWeight>
+        <nGearID>9</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:belt (M)</sName>
+        <sDesc>belt</sDesc>
+        <sLoc>waist</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>8</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>container:belt pouch, large</sName>
+        <sDesc>backpack</sDesc>
+        <sLoc>belt</sLoc>
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>16</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tools:whetstone</sName>
+        <sDesc>whetstone</sDesc>
+        <sLoc>belt pouch</sLoc>
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>26</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:shirt,wool (M)</sName>
+        <sDesc>wool shirt</sDesc>
+        <sLoc>torso</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>14</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:sword scabbard, hander, baldric (M)</sName>
+        <sDesc>belt</sDesc>
+        <sLoc>belt</sLoc>
+        <nCount>2</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>15</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:cloak, good cloth (M)</sName>
+        <sDesc>simple cloak</sDesc>
+        <sLoc>back</sLoc>
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>11</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>provisions:wineskin</sName>
+        <sDesc>wineskin, 1 gallon of liquid</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>2</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>7</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>light source:torch</sName>
+        <sDesc>torch has radius of 15ft and lasts for 30 minutes</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>5</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>18</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:gloves (M)</sName>
+        <sDesc>belt</sDesc>
+        <sLoc>hands</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>13</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>equipment:rope, hemp 50&amp;apos;</sName>
+        <sDesc>50 foot of hemp rope</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>2</nCount>
+        <dWeight>20.0</dWeight>
+        <nGearID>6</nGearID>
+        <sItemType />
+      </Gear>
+    </Inventory>
+    <Skills>
+      <Skill>
+        <sName>infra vision, 60ft</sName>
+        <sDesc>see in the infra spectrum for 60ft.</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>3</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>bow bonus</sName>
+        <sDesc>+1 with any bow</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>1</nSkillID>
+        <nSkillType>1</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>sword bonus</sName>
+        <sDesc>+1 with any sword</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>2</nSkillID>
+        <nSkillType>1</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>half-elf:talents</sName>
+        <sDesc>30% resistance to sleep and all charm related spells\n\ndetect secret doors by passing, 1 on d6\ndetect secret doors when searching 1-2 on d6\ndetect concealed doors when searching 1-3 on d6\n</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>35</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>launguage:common</sName>
+        <sDesc>skilled speaking common</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>12</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:mundane:armor maintenance</sName>
+        <sDesc>able to perform basic maintenance on armor</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>13</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:mundane:weapon maintenance</sName>
+        <sDesc>able to perform basic maintenance on weapons</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>14</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:sophisticated:animal handling</sName>
+        <sDesc>look up description</sDesc>
+        <jSkillSpinner>16</jSkillSpinner>
+        <nSkillID>36</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:sophisticated:tracking</sName>
+        <sDesc>can track</sDesc>
+        <jSkillSpinner>19</jSkillSpinner>
+        <nSkillID>37</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>thief skills:hide in shadows</sName>
+        <sDesc>hide in shadows</sDesc>
+        <jSkillSpinner>10</jSkillSpinner>
+        <nSkillID>39</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>thief skills:move silently</sName>
+        <sDesc>move silently</sDesc>
+        <jSkillSpinner>15</jSkillSpinner>
+        <nSkillID>40</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+    </Skills>
+    <Quirks />
+  </Player>
+</PlayerFile>
+

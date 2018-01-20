@@ -1,0 +1,4 @@
+30:10 lbs wt, 300 lbs limit, 35 cu.ft
+70:15 lbs wt, 500 lbs limit, 70 cu.ft
+90:30 lbs wt, 1000 lbs limit, 175 cu.ft
+100:50 lbs wt, 2000 lbs limit, 300 cu.ft

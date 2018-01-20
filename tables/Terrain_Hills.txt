@@ -1,0 +1,524 @@
+goo, amber:0:3:37:42:39:54:0
+phantom:0:6:46:52:48:67:18
+provocator:0:6:55:63:58:81:36
+rift vortext:0:0:64:73:67:94:54
+time elemental, common:0:8:74:84:77:108:72
+time elemental, noble:0:8:83:94:87:121:90
+samaritans:0:7:120:136:125:175:161
+bird, standard:0:1:193:220:202:283:0
+beast of burden, horse, riding:0:1:267:304:279:391:0
+beast of burden, horse, draft:0:1:341:388:357:499:0
+beast of burden, mule:0:1:415:471:434:607:0
+bee, regular:0:1:488:0:511:0:0
+beetle, common:0:1:562:0:588:0:0
+centipede, giant:0:2:636:555:665:715:305
+dawg, wild:0:2:709:639:742:823:448
+orc, orkin wardawg:0:6:783:723:819:931:591
+pigeon, carrier:0:6:857:0:896:0:0
+rook raven, common:0:7:930:807:973:1039:0
+scarab, common:0:7:1004:890:1050:1147:0
+scorpion, common:0:7:1078:974:0:0:0
+sheep, common:0:7:1151:0:1128:0:0
+beast of burden, donkey:0:1:1188:1016:1166:1200:0
+beast of burden, horse, poney:0:1:1225:1058:1205:1254:0
+beast of burden, horse light war:0:1:1262:1100:1243:1308:0
+beast of burden, horse medium war:0:1:1299:1142:1282:1362:0
+beast of burden, horse, wild:0:1:1336:1184:1320:1416:0
+bird, condor:0:1:1373:1226:1359:1470:0
+bird, falcon:0:1:1409:0:1397:0:0
+bird, hawk, large:0:1:1446:0:1436:0:0
+dawg, war:0:2:1483:1268:1475:1524:663
+fleshpecker:0:3:0:0:1513:0:0
+jackalope, standard:0:4:1520:0:1552:0:0
+merc pilgrim:0:5:1557:1309:1590:1578:0
+orc, orkin bandits:0:6:1594:1351:1629:1632:734
+parasites, diseased:0:6:1631:1393:1667:0:0
+rook raven, huge:0:7:1667:1435:1706:1686:0
+sheep, giant:0:7:1704:0:1744:0:0
+venom sparrow:0:8:1741:0:1783:0:0
+weasel, common:0:8:1778:0:1821:0:0
+weevil, larva:0:8:1815:1477:1860:0:0
+wolf, common:0:8:0:1519:1899:1740:806
+enigma lice:0:3:1833:1540:1918:0:0
+gnomeling:0:3:1852:1561:1937:1767:842
+magic mouth, common:0:4:1870:1582:1956:1794:878
+parasites, magus ticks:0:6:1888:0:1976:0:0
+parasites, paralyzing fleas:0:6:1907:1603:1995:1821:0
+rot grub, common:0:7:1925:1624:2015:1848:914
+tiger fly, larva:0:8:1944:1645:2033:1875:0
+weevil, blood, adult:0:8:1962:1666:2053:0:0
+whip scorpion, large:0:8:1981:1687:2072:1902:0
+wgold bane:0:3:1990:1697:2082:1915:932
+hourd of Ill omen:0:4:1999:1708:2091:1929:949
+magic mocking mouth:0:4:2008:1718:2101:1942:967
+magic mouth, rogue:0:4:2017:1729:2111:196:985
+magic mouth, sassy:0:4:2027:1739:2120:1969:1003
+rot grub, candy striped:0:7:2036:1749:2130:1983:1021
+scarab of seeking:0:7:2045:1760:2140:1996:0
+seeker, ear:0:7:2054:0:2149:0:0
+seeker, eye:0:7:2063:0:2159:0:0
+seeker, nose:0:7:2073:1770:0:2010:1039
+tween:0:8:2082:1781:2168:2023:1057
+baboon:1:1:2156:1865:2246:0:0
+gibbon:1:3:2229:0:2323:0:0
+herd animal:1:3:2303:1949:2400:2131:1200
+men, bandit/brigand:1:5:2377:2032:2477:2239:1344
+spider, large:1:7:2450:2115:2554:2347:0
+toad, giant:1:8:2524:2200:2631:2455:0
+aarakian worker:1:1:2561:2242:2670:2509:1415
+aarnz hound:1:1:2598:2284:2708:2563:0
+babbler, cantakerous:1:1:2635:2326:2747:2617:1487
+baboon-man:1:1:2636:0:2785:0:0
+beast of burden, horse, heavy war:1:1:2708:2368:2824:2671:0
+cast small, wild:1:2:2745:2409:2862:2725:0
+elf, half:1:3:2762:2451:2901:2779:1559
+ferret, man-eating:1:3:0:0:2939:0:0
+goat:1:3:2819:0:2978:0:0
+halfling, hairfoot:1:3:2856:2493:3017:2833:0
+kangaroo flea, giant:1:4:0:0:3055:0:0
+lamprey, land:1:4:2893:0:3094:0:0
+pixie, hybrid-pixies, leprosychan:1:6:2929:0:3132:0:0
+porcupine, common:1:6:2966:2535:3171:0:0
+ram:1:6:0:0:3209:2887:0
+scareRacen:1:7:0:0:3248:0:0
+spider, tarantubat:1:7:3003:2577:3286:2940:1630
+toad, poisonous:1:8:3040:2619:3325:2994:0
+viper, spit:1:8:3077:2661:3363:0:0
+worm, canker:1:8:0:0:3402:0:0
+zealot:0:8:3114:2703:3441:3048:1702
+ant men, workers:1:1:3132:2724:3460:3075:0
+ant, giant:1:1:3150:0:3479:0:0
+beetle, goldbug:1:1:3169:2745:3498:3102:1738
+brain mite, carnivorous:1:1:3187:2766:2518:3129:0
+gnome titan:1:3:3206:2787:3537:2156:1773
+gnome, commn:1:3:3224:2808:3556:3183:1809
+gnome, feral:1:3:3243:2828:3575:3201:1845
+grynurian monk:1:3:3261:2849:0:0:0
+halfling, stout:1:3:3279:2870:3595:3237:1881
+halfling, tallfellow:1:3:3298:2891:3614:3264:0
+jarvin-taur:1:4:3316:2912:3633:0:0
+men, aborigine/caveman:1:5:3335:2933:0:0:0
+men, berserker/dervish:1:5:3353:2954:3653:3291:1917
+men, gypsy:1:5:3372:2975:3672:0:0
+men, mercenary:1:5:3390:2996:3691:2218:1953
+packasite:1:6:3408:3017:3710:3345:1988
+rook, raven, giant:1:7:3427:3038:3730:3372:0
+rot grub, giant:1:7:3445:2059:3749:3399:2024
+scarab, giant:1:7:3464:3080:3768:3426:0
+skink, fink:1:7:3482:0:3788:0:0
+walking stick, giant:1:8:3501:2101:2807:0:0
+anthraxian:1:1:3510:3111:3816:0:0
+attention grabber:1:1:3519:3122:3826:3440:2042
+avianderthal:1:1:0:0:3836:0:0
+black poppy:1:1:3528:3132:3845:3453:0
+bullboon:1:1:3537:3143:0:0:0
+jackalope, pronghare:1:4:3547:0:3855:0:0
+men, adventurer:1:5:3556:3153:3865:3467:2060
+men, hermit:1:5:3565:3164:3874:3480:2078
+men, magic-user:1:5:3574:3174:3884:3494:2096:
+men, wild men:1:5:3583:3185:3894:3507:2114:
+rabid hummingbirds:1:6:0:0:3903:0:0
+skeleton, animal:1:7:3593:3195:3913:2521:2132
+men, partisan:1:5:3593:3195:3913:2521:2132
+beast of burden, ox:2:1:3666:3279:3990:3628:0
+jurassic creatures, camptosaurus:2:4:3740:3363:0:0:0
+ogre, common:2:6:3814:0:0:0:0
+ogre, grash:2:6:3887:3447:4067:3736:2275
+spider, huge:2:7:3961:3530:4144:3844:0
+stag, common:2:7:0:0:4221:0:0
+babbler, incessant:2:1:3998:3572:4260:3898:2347
+bear, cave:2:1:4035:3615:4298:3952:2418
+crouching hooper:2:2:4072:3656:4337:0:0
+monkey, musk:2:5:4109:3698:0:0:0
+ogre, hedge:2:6:4145:3740:4375:4006:2490
+panda bear, common:2:6:0:3782:0:0:0
+pig, wild:2:6:0:0:4414:0:0
+pseudo-undead, ghoul:2:6:4182:3824:4452:4060:2562
+snake, poisonous:2:7:4219:3866:4491:4114:2633
+aarakian warrior:2:1:4238:3887:4510:4141:2669
+ant hunter:2:1:0:3908:4530:0:0
+beast shaman:0:1:4256:3928:4549:4168:2705
+bee, giant worker:2:1:4274:0:4568:0:0
+elf, grel mages:2:3:4293:3949:4587:4195:2741
+fire-monk:2:3:4311:3970:0:0:0
+goat, giant:2:3:0:0:4607:0:0
+golem, puppet:2:3:4330:3991:4626:4222:2777
+hippogriff:2:3:4348:4012:4645:4249:2812
+hoar fox:2:4:0:0:0:4276:2848
+monkey, flying:2:5:4366:4033:4665:4303:2884
+ogre, half:2:6:4385:4054:4684:4330:2920
+porcupine, poison:2:6:4403:4075:4703:0:0
+skeleton, animated:2:7:4422:4096:4722:4357:2956
+skeleton, screaming:2:7:4440:4117:4742:4384:2992
+skink, blink:2:7:4459:0:4761:0:0
+stone warblers:2:7:4477:4138:4780:4411:3027
+weeants:2:8:0:0:4799:0:0
+whip scorpion, huge:2:8:4495:4159:4819:4438:0
+zephyr beast:2:8:0:4180:4838:0:0
+aarakian brood watcher:2:1:4505:4190:4848:4451:3045
+ant ment, red fire:0:1:4514:4201:0:0:0
+astral searcher:2:1:4523:4211:4857:4465:3063
+carcass seether:2:1:4532:0:4867:0:0
+golem, guardian:2:3:4532:4222:4877:4478:3081
+ice fiend:2:4:4551:0:0:0:3099
+pixie-liches:2:6:4560:0:4886:0:0
+rambumatta:2:6:4569:0:0:0:0
+sword, perpetual:2:7:4578:4232:0:4492:3117
+zombie, talking:2:8:4588:4243:4896:4505:0
+jurassice creatures, pteranodon:3:4:4661:4327:4973:4613:3260
+modron, tetrahedrone:3:5:4735:4410:5050:4721:3404
+elk, dire:3:3:0:4452:5089:0:0
+elven pony:3:3:4772:0:5127:0:0
+jurassic creature, ankylosaurus:3:4:4809:4493:5166:4775:3475
+jurrasic creature, dimetrodon:3:4:4846:4536:0:0:0
+kenku:3:4:4882:4578:5204:4829:3547
+lycanthrope, were-rat:3:4:4919:4620:5243:4883:3619
+pseudo undead, wight:3:6:4956:4662:5281:4937:3690
+scorpion, large:3:7:4993:4704:0:0:0
+tree buffalo:3:8:0:0:5320:0:0
+ape shaman warrior:3:1:5011:0:0:0:0
+coffer corpse:3:2:5030:4725:5339:4964:3726
+firenewt, common:3:3:5048:4746:5358:0:0
+gnomish doom lord:3:3:5067:0:5378:0:0
+gorangatan:3:3:5085:4767:0:0:0
+gut waller serpent:3:3:5103:4787:0:0:0
+humanimals, lesser:3:4:5122:4808:5397:4991:3762
+killwi:3:4:0:4829:5416:0:0
+porcupine warrior:3:6:5140:4850:5436:0:0
+samurai jackal:3:7:5159:4871:5455:5018:3798
+shocker:3:7:5177:4892:5474:5045:3834
+skink, mink:3:7:5196:0:0:0:3969
+snow beasts:3:7:5214:0:0:0:3905
+toucan, hornbilled terror:3:8:5232:4913:5493:0:0
+troll, ice:3:8:5251:0:0:0:3941
+urchin, land:3:8:5269:4934:5513:5072:3977
+waryur, lowland:3:8:5288:4955:5532:0:0
+xyloid:3:8:0:0:5551:0:0
+zygom:3:8:5306:4976:5570:5099:4013
+aarakian queen mother:3:1:5315:4987:5580:5112:4031
+barbarian, warrior:3:1:5325:4997:5590:5126:4049
+bee, giant soldier:3:1:5334:0:5599:0:0
+geath's minions:3:2:5343:5007:5609:5139:4066
+elf, grugach:3:3:5352:5018:5619:5153:4084
+enveloper:3:3:5361:5028:5628:5166:4102
+gouger, fanged:3:3:5371:0:0:0:0
+insidious ichor:3:4:5380:5039:5638:5180:0
+slapping burkin:3:7:5389:5049:5648:5193:4120
+vortex:3:8:5398:0:0:0:0
+walker:3:8:5407:5060:5657:5207:4138
+zephyr rider:3:8:0:5070:5667:0:0
+dragon, komodo:4:2:0:5112:5705:0:0
+snake constrictor, giant:4:7:5444:5154:0:0:0
+trollkin auxiliaries:4:8:5481:5196:5744:5261:4210
+ape, carnivorous:4:1:5500:5217:0:0:0
+bat, azmyth:4:1:5518:5238:5763:5288:0
+beetle, carnage:4:1:5536:5259:5782:5314:4246
+elven wardawg:4:3:0:0:5802:0:0
+gorphin:4:3:5555:0:5821:0:0
+jurassic creatures, geinonychus:4:4:5573:5280:0:0:0
+luck eater:4:4:5592:5301:5840:5341:4281
+nefarians, other, hell spider:4:5:5610:5322:5860:5368:0
+screecher:4:7:0:0:0:0:0
+vampire hound:4:8:5629:5343:5879:5395:4317
+beholder-kin, lensman:4:1:5638:5353:5888:5409:4335
+beholder-kin, watcher:4:1:5647:5364:5898:5422:4353
+centipede, megalo-:4:2:5656:5374:5908:5436:4371
+disenchanter:4:2:5665:5385:5917:5449:4389
+huecuva:4:4:5675:5395:5927:5463:0
+mud man:4:5:5684:5406:5937:0:0
+undead, eye of fear:4:8:5693:5416:5946:5476:0
+weasel, manu:4:8:5702:0:0:0:0
+bear, grizzly:5:1:0:0:5985:0:0
+griffon:5:3:0:5458:6023:0:0
+pseudo undead, wrath:5:6:5739:5500:6062:5530:4461
+snake man:5:7:5776:0:0:0:0
+bee, giant, bumble-:5:1:5794:0:6081:0:0
+firedrake:5:3:5813:5521:6100:5557:4496
+firenewt, elite:5:3:5831:5542:6120:0:0
+firenewt, strider:5:3:5850:5563:6139:0:0
+orc, orkin witch doctor:5:6:5868:5584:6158:5584:4532
+porcupine, giant:5:6:5886:5605:6178:0:0
+rock reptile:5:7:5905:5626:6197:5611:4568
+slithering slasher:5:7:5923:5647:6216:0:0
+vampire thrall:5:8:5942:5667:6235:5638:4604
+anti-elemental, water:5:1:5951:5678:6245:5652:4622
+cataplasm:5:2:5960:5688:6255:5665:4640
+doorant, spirit:5:2:5969:5699:6264:5679:4658
+doppelEwe:5:2:5979:0:6274:0:0
+doppelganger:5:2:5988:5709:6284:5692:4676
+fly, giant horse-:5:3:5997:5720:6293:5706:0
+mantrap:5:4:6006:0:0:0:0
+pseudo-dragon:5:6:6015:5730:6303:5719:0
+slime, olive - host:5:7:6025:5741:6313:5733:4693
+snake, spitting:5:7:6034:0:0:0:0
+modron, hexahedrone:6:5:6108:5825:6390:5841:4837
+ogre, lord:6:6:6181:5908:6467:0:4980
+golem, muck:6:3:6218:5950:6505:5894:5052
+pseudo undead, ghast:6:6:6255:5922:6544:5948:5123
+scorpion, giant:6:7:6292:6034:0:0:0
+spider, giant:6:7:6329:6076:6582:6002:0
+wolverine:6:8:0:0:0:6056:5195
+elf, hunter grel:6:3:6347:6097:0:6083:5231
+firenwet, cleric:6:3:6365:6118:6602:0:0
+jackalwere:6:4:6384:0:6621:0:0
+lycanthrope, were-boar:6:4:6402:6139:6640:6110:0
+lycanthrope, were-lynx:6:4:0:0:0:6137:5267
+repeller:6:6:6421:6160:6659:0:0
+straw mound:6:7:6439:0:6679:0:0
+wasp, giant:6:8:6458:6181:6698:6164:0
+ant men, shaman:6:1:6467:6191:6708:6178:0
+anti-elemental, air:6:1:6476:6202:6717:6191:5285
+anti-elemental, fire:6:1:6485:0:0:0:5303
+displacer beast:6:2:0:0:6727:0:0
+dragonlord:6:2:6494:6212:6737:6205:5320
+grieving herald:6:3:6504:6223:6746:6218:5338
+sloth, prehistoric:6:7:0:0:6756:0:0
+zombie, brain-eating:6:8:6513:6233:6765:6232:5356
+zombie, flesh-eating:6:8:6522:6244:6775:6245:5374
+zombie, giant:6:8:6531:6254:6785:6259:5392
+masodon:7:4:6605:6338:6862:6367:0
+scorpion, huge:7:7:6679:6422:0:0:0
+snake, poisonous, giant:7:7:6716:6464:6900:6421:0
+bolter:7:1:6734:6485:6920:6448:5428
+larantula:7:4:6752:0:6939:0:0
+lime green quivering mass:0:4:6771:6506:6958:0:0
+retch plant:7:6:6789:6526:6977:0:0
+toad ice:7:8:6800:0:0:6474:5464
+centaur ant:7:2:6817:6537:6987:0:0
+humanimals, greater:7:4:6826:6547:6997:6488:5482
+hydra, cryo:7:4:0:0:0:0:550
+monkey, poison:7:5:6835:6558:7006:0:0
+monoceros:7:5:6845:6569:7016:0:0
+orange tail plant squaller:7:6:6854:6579:7026:0:0
+vengeful troubadour:7:8:6863:6589:7035:6501:5518
+manticore, womanticore:8:4:6900:6631:7074:6555:5589
+solitary wasp:8:7:6937:0:7112:0:0
+spider, giant trapdoor:8:7:6973:6673:7151:6609:0
+dragon, komodo, dire:8:2:0:6694:7170:0:0
+golem, muck, diseased:8:3:6992:6715:7190:6636:5625
+jurassic creature, velociraptor:8:4:7010:6736:0:0:0
+mummy, adherer:8:5:7029:6757:7209:6663:0
+wolverine, giant:8:6:0:0:0:6690:5661
+beholder, spectator:8:1:7038:6767:7218:6704:5679
+doppelganger, master:8:2:7047:6778:7228:6717:5697
+gagwaller:8:3:7056:6788:7238:6731:5715
+golem master:8:3:7066:6799:7247:6744:5732
+jaded mannacle:8:4:7075:6809:7257:6758:5750
+ram, battering:8:6:0:0:7267:6771:0
+wolf, winter:8:8:0:0:0:0:5768
+zombie, monster:8:8:7084:6820:7276:6785:5786
+jurassic creature, lambeosaurus:9:4:7158:6904:7353:6893:5930
+pseudo undead, specter:9:6:7195:6946:7392:6947:6001
+elf, grel cleric:9:3:7213:6966:7411:6974:6037
+harpy:9:3:7231:0:7430:0:0
+leucrotta:9:4:0:0:7450:0:0
+predacat:9:6:0:6987:0:0:0
+centisteed:9:2:0:0:7459:0:0
+necrophidius:9:5:7241:6998:7469:6987:6055
+scarecrow:9:7:7250:7008:7479:7001:0
+tin soldier:9:8:7259:7019:0:7014:6073
+whip scorpion, giant:9:8:7268:7029:7488:7028:0
+beetle, giant rhinoceros:10:1:7305:7071:0:0:0
+manticore, common:10:4:7342:7133:7527:7081:6144
+modron, octahedrone:10:5:7379:7155:7565:7135:6216
+bear, norther polar:10:1:0:0:0:0:6252
+elf, shadow grel:10:3:7397:7176:7585:7162:6288
+sloth, greater mossback:10:7:0:0:7604:0:0
+doppelganger, predator:10:2:7406:7186:7614:7176:6306
+golem, blood:10:3:7416:7197:7623:7189:6324
+pan-dimensional rover:10:6:7425:7207:7633:7203:6342
+panda bear, trans-planar:10:6:7434:7218:7642:7216:6359
+pseudo undead, vampire:11:6:7471:7260:7681:7270:6431
+carnagesaur:11:1:7489:7281:0:0:0
+cyclops, common:11:2:7508:7302:7700:7297:6467
+firenewt, overlord:11:3:7526:7323:7720:0:0
+scorpion, hell:11:7:7545:7344:0:0:0
+seeall:11:7:7563:7365:7739:7324:6503
+ant men, enforcer:11:1:7572:7375:7748:7338:0
+golem, flesh:11:3:7581:7386:7758:7351:6521
+nymph:11:6:7591:7396:7768:7365:6539
+skeleton, monster:11:7:7600:7406:7777:7378:6557
+basilisk, lesser:12:1:7637:7448:7816:7432:6628
+troll, glamour:12:8:7674:7490:7854:7486:6700
+tiger fly, male:12:8:7692:7511:7874:7513:0
+confusion beast:12:2:0:0:7883:0:0
+djinni:12:2:7701:7522:7893:7527:6718
+nefarians, other, soul cloaker:12:5:7710:7532:7903:7540:6736
+shadow fiend:12:7:7720:7543:7912:7554:6754
+skeleton, giant:12:7:7729:7553:7922:7567:6771
+werebird:12:8:7738:7564:7932:7581:6789
+mammoth, wooly:13:4:7812:7647:8009:7688:6933
+troll, hill:13:8:7849:7689:8047:7742:7004
+mammoth, ram-horned:13:4:7867:7710:8067:7769:7040
+vampire, headlong:13:8:7885:7731:8086:7796:7076
+crypt thing:13:2:7895:7742:8095:7810:7094
+djinni, black:13:2:7904:7752:8105:7823:7112
+doppelmeister:13:2:7913:7763:8115:7837:7130
+haunt:13:3:7922:7773:8124:7850:7148
+snake, amphisbaena constrictor:13:7:7932:0:8134:0:0
+teroth:13:8:7941:7784:8144:7864:7166
+toad, doom:13:8:7950:7794:8153:7877:0
+transposwer:13:8:7959:7805:8163:7891:7184
+giant, hill:14:3:7978:7825:8182:7918:7219
+medusa, lesser:14:4:7996:7846:8201:7945:7255
+sphinx, hieracosphinx:14:7:8014:7867:0:0:0
+spider, phase:14:7:8033:7888:8221:7972:7291
+bear, blizzard:14:1:0:0:0:0:7309
+doorant, tree:14:2:8042:7899:8230:7985:7327
+elemental, earth:14:3:8051:7900:8240:7999:7345
+jann:14:4:8060:7920:8250:8012:7363
+lizard, ice:14:4:8070:0:0:0:7381
+skeleton, red eyed:14:7:8079:7930:8259:8026:7398
+taunter:14:8:8088:7941:8269:8039:7416
+ant men queen:15:1:8097:7951:8279:8053:0
+arvanger, speckled:15:1:8107:7962:8288:0:0
+dragon, komodo, giant:15:2:0:7972:8298:0:0
+stone guardian:15:7:8116:7983:8307:8066:7434
+strangle plant, tomato:16:7:0:0:8346:0:0
+lammasu, common:16:4:8134:8004:8365:0:0
+vampire hordes, the:16:8:8153:8025:8385:8093:7470
+arvane merchant:16:1:8162:8035:8394:8107:7488
+chaos corpse:0:2:8171:8045:8404:8120:7506
+stump horror:16:7:8180:0:8413:0:0
+modron, dodecahedrone:17:5:8217:8087:8452:8174:7578
+zoolem, hawk/eagle:17:8:8236:8108:8471:8201:7613
+djinni, noble:17:2:8245:8119:8481:8215:7631
+golem, glay:17:3:8254:8129:8491:8228:7649
+invisible heckler:17:4:8263:8140:8500:8241:7667
+para-elementals, smoke:17:6:8272:8150:8510:8255:7685
+zoolem, dawg/monkey:17:8:8282:8161:8519:8268:7703
+goregon:18:3:8300:0:8539:0:0
+rabbit, predator:18:6:8318:8182:8558:8295:7739
+arvanger, spotted:18:1:8328:8192:8568:8309:0
+elemental, air:18:3:8337:8203:8577:8322:7757
+elemental, fire:18:3:8346:8213:8587:8336:7775
+elemental, water:18:3:8355:8224:8597:8349:7793
+guardian familiar:18:3:8364:8234:8606:8363:7810
+hubriste:18:4:8374:8245:8616:8376:7828
+nefarians, other, hell hound:18:5:8383:8255:8625:8390:7846
+para-elementals, magma:18:6:8392:8265:8635:8403:7864
+unicorn, cortazon:18:8:8401:8276:8645:8417:0
+jurassic creature, stegosaurus:19:4:8475:8360:0:0:0
+doom harvester:19:2:8484:8370:8654:8430:7882
+golem, gristle:19:3:8493:8381:8664:8444:7900
+phantom stalker:19:6:8503:8391:8674:8457:7918
+snake, snow serpent:19:7:8512:0:0:0:7936
+sirine:20:7:8530:8412:8693:0:0
+minotaur, free range:20:5:8540:8423:8703:8471:7954
+quickwood:20:6:0:0:8712:0:0
+mantis, dire field:21:4:8558:8444:9731:0:0
+invisible stalker:21:4:8567:8454:8741:8484:7972
+spriggan:21:7:8576:8465:8751:8498:7990
+shriek, the:21:7:8577:8466:8752:8499:7991
+jurassic creature, triceratops:22:4:8651:8549:0:0:0
+beholder, gauth:22:1:8669:8570:8771:8526:8026
+ogre, high chub-foot:22:6:8688:8591:8790:8553:8062
+ogre, high flat-footed:22:6:8706:8612:8810:8580:8098
+ogre, high webbed-toe:22:6:8725:8633:8829:8607:8134
+bulette:22:1:8734:0:8839:0:0
+bulette, hammerhead:22:1:8743:0:8848:0:0
+ogre, rogue:22:6:8752:8644:8858:8620:8152
+para-elemental, ice:22:6:8762:8654:8867:8634:8170
+sedusa:22:7:8771:8665:8877:0:0
+typhon:22:8:8780:8675:8887:8647:8188
+vile shadow fiend:22:8:8789:8686:8896:8661:8206
+ogre, high ryngar:22:6:8790:8687:8897:8662:8207
+sphinx, gynosphinx:23:7:8809:8707:0:0:0
+giant, gorge:23:3:8818:8718:8907:8675:8225:
+giant, scorn:23:3:8827:8728:8917:8689:8242
+snake, humongous:23:7:8836:8739:0:0:0
+treant, undead:23:8:8846:8749:8926:8702:8260
+jurassic creature, tyrannosaurus rex:24:4:8882:8791:0:0:0
+dao:24:2:8901:8812:8946:8729:8296
+giant, firbolg:24:3:0:0:8955:0:0
+spider, gargantuan:24:7:8910:8823:8965:8743:0
+vapire, mulo:24:8:8919:8833:8974:8756:8314
+vampiricat:24:8:8928:8844:8984:8770:8332
+troll, giant:25:8:8947:8865:9003:8797:8368
+zoolem, lion/tiger:26:8:8965:8886:9023:8823:8404
+shade:26:7:8974:8896:9032:8837:8422
+golem, stone:27:3:8984:8907:9042:8850:8439
+troll, giant two-headed:27:8:8993:8917:9052:8864:8457
+vision:27:8:9002:8927:9061:8877:8475
+beholder-kin, director:28:1:9011:8938:8071:8891:8493
+naga, guardian:28:5:9021:8948:9080:8904:8511
+medusa, greater:29:4:9039:8969:9100:8931:8547
+aerial servant:29:1:9048:8980:9109:8945:8565
+revenger:29:6:9057:8990:9119:8958:8583
+basilisk, dracolisk:30:1:9067:9001:9129:8972:8601
+giant, frost:31:3:9076:0:0:0:8619
+lammasu, greater:31:4:9085:9011:9138:0:0
+portal of devouring:31:6:9094:9022:9148:8985:8637
+radiation elemental:31:6:9103:9032:9158:8999:8654
+vampire, chiang-shi:33:8:9140:9064:9196:9053:8708
+guardian spirit:33:3:9149:9074:9206:9066:8726
+ogre, magi:33:6:9159:9085:9215:0:0
+retriever, reckless:33:6:9168:9095:9225:9080:8744
+retriever, relentless:33:6:9177:9106:9235:9093:8762
+retriever, ruthless:33:6:9186:0:9244:9107:8780
+beholder, undead:24:1:9196:9116:9254:9120:8798
+centipede, huge:35:22:9269:9200:9331:9228:8941
+zoolem, horse/deer:35:8:9288:9221:9350:9255:8977
+avenging servant:35:1:9297:9231:9360:9269:8995
+modron, icosahedrone:36:5:9315:9252:9379:9296:9031
+shedu, lesser:36:7:9334:0:0:0:0
+stegocentipede:36:7:9343:9263:9389:0:0
+vampire, empusas:37:8:9352:9273:9398:9309:9049
+squid, snow:38:7:0:0:0:0:9066
+bane lords:39:1:9361:9284:9408:9323:9084
+jurassice creature, brontosaurus:42:4:9435:9367:0:0:0
+skraagon:43:7:9453:9388:0:9350:9120
+wyrm, snow:43:8:0:0:0:0:9138
+basilisk, greater:44:1:9490:9430:9447:9404:9210
+skeleton warrior:44:7:9500:9441:9456:9417:9228
+sphinx, androsphinx:44:7:9509:9451:0:0:0
+giant, fire:45:3:9527:9472:9476:0:0
+spirit fiend:47:7:9536:9483:9485:9430:9246
+triceratortoise:50:8:9573:9525:9524:0:0
+golem, firon:50:3:9582:8535:9533:9444:9264
+sivian banshee:51:7:9592:9546:9543:9457:9281
+death knight:52:2:9601:9556:9553:9471:9299
+elemental, greater periodic:53:3:9610:9566:9562:9484:9317
+mongoose, king:56:5:0:9567:9563:9485:0
+cyclops, true:60:2:9619:9578:9573:9499:9335
+beholder-kin, overseer:68:1:9629:9588:9583:9512:9353
+death harvester:71:2:9638:9599:9592:9526:9371
+deepspawn:72:2:9647:9609:9602:9539:9389
+beholder, death kiss:77:1:9656:9620:9612:9553:9407
+thessalhydra:79:8:9675:9641:9631:9580:9443
+mutable juggernaut:83:5:9684:9651:9640:9593:9461
+medusa, gorgon:102:4:9685:9652:9641:9594:9462
+beholder-kin, hive mother:105:1:9694:9663:9651:9608:9479
+modron, prisaton:114:5:9712:9684:9670:9635:9515
+demilich:114:2:9722:9694:9680:9648:9533
+relic devourer:125:6:9723:9695:9681:9649:9534
+modron, tertraton:128:5:9741:9716:9700:9676:9570
+modron, parallelpipeton:151:5:9759:9737:9720:9703:9606
+modron, cylindeton:159:5:9769:9748:9729:9717:9624
+angel:151:1:9778:9758:9739:9730:9642
+marid:163:4:9787:9769:9748:9744:9660
+tiger fly, female:175:8:9806:9789:9768:9771:0
+modron, hexaton:176:5:9815:9800:9777:9784:9678
+modron, octaton:184:5:9824:9810:9787:9798:9695
+modron, decaton:196:5:9833:9821:9797:9811:9713
+modron, dodecaton:244:5:9842:9831:9806:9825:9731
+overhorde:260:6:9852:0:9816:9838:9749
+dragon,platinum:301:2:9861:9842:9826:9852:9767
+dragon, chromatic:306:2:9870:9852:9835:9865:9785
+modron, icosaton:424:5:9879:9863:9845:9879:9803
+ape, pack, escaped:3:1:9880:9864:9846:0:0
+dragon, copper:0:2:0:0:9865:0:0
+dragon, spiny:0:2:9899:9885:9884:0:0
+dragon, white:0:2:0:0:0:0:9839
+adapter:0:1:9908:9895:9894:9892:9857
+dispatcher:0:2:9917:9906:9904:9906:9875
+dragon, ancient, albina scoria:0:2:9926:9916:9913:9919:9893
+dragon, copper slag-:0:2:0:0:9923:0:0
+dragon, gold:0:2:9936:9927:9933:9933:9910
+dragon, red:0:2:9945:0037:0042:0:0
+dragon, red-crested amber bellied:0:2:9954:9948:9952:9946:9928
+dragon, slag-scaled titanium:0:2:9963:9958:9961:9960:9946
+dragon, speckled:0:2:9972:9969:9971:9973:9964
+dragon, swack iron (albino):0:2:9982:8879:9981:0:0
+vagabond, astral:0:8:9991:9990:9990:9987:9982
+weremimic:0:8:10000:10000:10000:10000:10000

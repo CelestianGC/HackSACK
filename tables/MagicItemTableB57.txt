@@ -1,0 +1,4 @@
+20:3x5 size, 1 person, 42 speed
+55:4x6 size, 2 person, 36 peed
+80:5x7 size, 3 person, 30 speed
+100:6x9 size, 4 person, 24 speed

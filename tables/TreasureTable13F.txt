@@ -1,0 +1,6 @@
+1:aquamarine
+2:garnet
+3:pearl
+4:peridot
+5:spinel
+6:topaz

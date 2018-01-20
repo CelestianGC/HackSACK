@@ -1,0 +1,9 @@
+5:-3:tiny
+25:-2:very small
+45:-1:small
+65:0:average
+85:1:large
+90:2:very large
+96:3:huge
+99:4:massive
+100:5:gargantuan

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='243a. COMMANDER&apos;S QUARTERS'
+   jRoomDescPlayer='This small 10 &apos; square side room is lit by a hanging lamp of dull metal. It contains a bed, stand, chair, wardrobe, and chest. A small rug is on the floor near the bed. A cup, ewer, and box are on the stand. In the southwest corner is a black candelabrum with four unlit candles.'
+   jRoomDescDM='Commander Feldrin, a sharper (Level 7 thief), lives here. Horned red skulls are worked on the chest and back of his cloak of protection + 2 and leather armor + 1, and he wears a similar symbol on a silver neck chain (worth 30 gp). His belt pouch is a small bag of holding (1, 000 gp capacity) containing 2-12 of each coin type.\n\nFeldrin: AC 1 (leather +1), MV 12&quot;, Level 7 Thief, hp 33; XP 989; S 15 I 13 W 9 D 18 Co 15 Ch 17; #AT 1, D 4-10 (broadsword + 2)\n\nIf captured, Feldrin does not speak unless forced, but he might tell of the Greater Temple two levels below and the fearsome things therein. (He has been there only a few times and cannot guide adventurers beyond the stairs to Dungeon Level Three—the flight just north of area 204. ) He does speak of the rivalries of the various minor Temples, laughing at\n them, for he knows that there are ettins, demons, and other horrible creatures serving the Great Priests below. He will always attempt to bargain for his life, or to escape (as opportunity presents).\n\nThe lamp is unpolished silver, worth 120 gp. The rug is of quite fine manufacture, worth 260 gp. The cup, ewer, and box are wrought gold, worth 200 gp, 275 gp, and 150 gp respectively; the last contains sweetmeats, the others wine. The chest is locked and doubly trapped with a poisoned needle in the lock and poison gas inside, which fills the whole room unless the trap is removed (save or die). The chest contains clothing and the like, a sack (containing 112 pp and 74 gp), a silver  bracelet set with much fine jade (jewelry value 1, 700 gp), a small lumpy velvet bag (which holds 6 zircons worth 50 gp each), two potion vials (one healing, one invisibility), and a bone scrollcase (with an illusionist spell, misdirection). '
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='npc:Thief 7Feldrin'
+   nAC='1'
+   nACBase='1'
+   jACMod='0'
+   jHitPointLabel='52'
+   jClassSelect='2'
+   nEXP='1200'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='52'
+   nLevel='7'
+   nToHitRank='6'
+   jNotePad=''
+   sDescription='thief), lives here. Horned red skulls are worked on the chest and back of his cloak of protection + 2 and leather armor + 1, and he wears a similar symbol on a silver neck\nchain (worth 30 gp). His belt pouch is a small bag of holding (1, 000 gp capacity)containing 2-12 of each coin type. \nFeldrin: AC 1 (leather +1), MV 12&quot;, Level 7 Thief, hp 33; XP 989; S 15 I 13 W 9 D 18 Co 15 Ch 17; #AT 1, D 4-10 (broadsword + 2)\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1563'
+   >
+     <Attack
+       jWeaponType='1'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='2'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

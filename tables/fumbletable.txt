@@ -1,0 +1,97 @@
+0:Drop weapon at feet
+1:Drop weapon at feet
+86:Drop weapon 2 feet away
+111:Drop weapon 3 feet away
+131:Drop weapon 4 feet away
+145:Drop weapon 5 feet away
+155:Drop weapon 6 feet away
+162:Drop weapon 7 feet away
+168:Drop weapon 8 feet away
+173:Drop weapon 9 feet away
+177:Drop weapon 10 feet away
+181:Drop weapon 11 feet away
+184:Drop weapon 12 feet away
+187:Drop weapon 13 feet away
+190:Drop weapon 14 feet away
+192:Drop weapon 15 feet away
+194:Drop weapon 16 feet away
+196:Drop weapon 17 feet away
+198:Drop weapon 18 feet away
+199:Drop weapon 19 feet away
+200:Drop weapon 20 feet away
+201:Dmg to self, roll dmg as normal, make Dex check to suffer half dmg
+263:Non-wpn injury to self; bad twist right foot,50% movement reduction for 1 round then 10% for {2d4} rounds
+265:Non-wpn injury to self; bad twist right ankle,50% movement reduction for 1 round then 10% for {2d4} rounds
+268:Non-wpn injury to self; bad twist right knee,50% movement reduction for 1 round then 10% for {2d4} rounds
+271:Non-wpn injury to self; bad twist right hip,50% movement reduction for 1 round then 10% for {2d4} rounds
+272:Non-wpn injury to self; bad twist right wrist,50% movement reduction for 1 round then 10% for {2d4} rounds
+274:Non-wpn injury to self; bad twist right shoulder,50% movement reduction for 1 round then 10% for {2d4} rounds
+277:Non-wpn injury to self; bad twist right elbow,50% movement reduction for 1 round then 10% for {2d4} rounds
+280:Non-wpn injury to self; bad twist left foot,50% movement reduction for 1 round then 10% for {2d4} rounds
+282:Non-wpn injury to self; bad twist left ankle,50% movement reduction for 1 round then 10% for {2d4} rounds
+285:Non-wpn injury to self; bad twist left knee,50% movement reduction for 1 round then 10% for {2d4} rounds
+288:Non-wpn injury to self; bad twist left hip,50% movement reduction for 1 round then 10% for {2d4} rounds
+289:Non-wpn injury to self; bad twist left wrist,50% movement reduction for 1 round then 10% for {2d4} rounds
+291:Non-wpn injury to self; bad twist left shoulder,50% movement reduction for 1 round then 10% for {2d4} rounds
+294:Non-wpn injury to self; bad twist left elbow,50% movement reduction for 1 round then 10% for {2d4} rounds
+297:Non-wpn injury to self; bad twist to neck,50% movement reduction for 1 round then 10% for {2d4} rounds
+301:Non-wpn injury to self; bad twist to back,50% movement reduction for 1 round then 10% for {2d4} rounds
+303:Non-wpn injury to self; sprain right foot,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+304:Non-wpn injury to self; sprain right ankle,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+305:Non-wpn injury to self; sprain right knee,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+306:Non-wpn injury to self; sprain right hip,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+307:Non-wpn injury to self; sprain right wrist,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+308:Non-wpn injury to self; sprain right shoulder,minus {1d4} to hit for {1d4} days unless magically cured
+309:Non-wpn injury to self; sprain right elbow,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+310:Non-wpn injury to self; sprain left foot,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+311:Non-wpn injury to self; sprain left ankle,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+312:Non-wpn injury to self; sprain left knee,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+313:Non-wpn injury to self; sprain left hip,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+314:Non-wpn injury to self; sprain left wrist,minus {1d4} to hit for {1d4} days unless magically cured
+315:Non-wpn injury to self; sprain left shoulder,minus {1d4} to hit for {1d4} days unless magically cured
+316:Non-wpn injury to self; sprain left elbow,minus {1d4} to hit for {1d4} days unless magically cured
+317:Non-wpn injury to self; sprain neck,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+318:Non-wpn injury to self; sprain back,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns
+319:Non-wpn injury to self, pulled muscle, Roll on crit (puncture) chart until reasonable result attained
+337:Non-wpn injury to self; hyperextention right foot,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+338:Non-wpn injury to self; hyperextention right ankle,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+340:Non-wpn injury to self; hyperextention right knee,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+341:Non-wpn injury to self; hyperextention right hip,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+342:Non-wpn injury to self; hyperextention right wrist,minus {1d4} to hit for {1d4} days unless magically cured, {1d20}% temporal honor reduction.
+343:Non-wpn injury to self; hyperextention right shoulder,minus {1d4} to hit for {1d4} days unless magically cured, {1d20}% temporal honor reduction.
+345:Non-wpn injury to self; hyperextention right elbow,minus {1d4} to hit for {1d4} days unless magically cured, {1d20}% temporal honor reduction.
+346:Non-wpn injury to self; hyperextention left foot,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+347:Non-wpn injury to self; hyperextention left ankle,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+349:Non-wpn injury to self; hyperextention left knee,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1{1d6}} turns, {1d20}% temporal honor reduction.
+351:Non-wpn injury to self; hyperextention left hip,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1d6} turns, {1d20}% temporal honor reduction.
+352:Non-wpn injury to self; hyperextention left wrist,minus {1d4} to hit for {1d4} days unless magically cured, {1d20}% temporal honor reduction.
+353:Non-wpn injury to self; hyperextention left shoulder,minus {1d4} to hit for {1d4} days unless magically cured, {1d20}% temporal honor reduction.
+354:Non-wpn injury to self; hyperextention left elbow,minus {1d4} to hit for {1d4} days unless magically cured, {1d20}% temporal honor reduction.
+355:Non-wpn injury to self; hyperextended neck,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1d6} turns, {1d20}% temporal honor reduction.
+358:Non-wpn injury to self; hyperextended back,50% movement reduction for 1 round then 10% for {2d4} rounds, then 25% for {1d6} turns, {1d20}% temporal honor reduction.
+359:Damage own armor for {1d3} points
+401:Damage to ally, make Dex check to deliver only half damage
+501:Weapon damaged/broken; handle broken -1 to hit
+541:Weapon damaged/broken; blade/head broken -1 to damage
+581:Weapon damaged/broken; blade shattered (useless)
+591:Weapon damaged/broken; handle/haft sheared (useless)
+601:Weapon damaged/broken; sheared (useless)
+611:Weapon damaged/broken; handle badly broken -2 to hit
+631:Weapon damaged/broken; blade/head badly broken -2 dmg
+651:Weapon damaged/broken; blade/head sheared/cracked -50% to dmg
+661:Weapon damaged/broken; edge dulled, nicked and/or cracked (-1 to hit & damage)
+701:Equipment Mishap; boot/footgear breaks, -1 to hit until repaired or discarded
+716:Equipment Mishap; backpack, pouch or other container strap breaks, -1 to hit until item repaired or discarded
+761:Equipment Mishap; belt, girdle, etc. breaks
+791:Equipment Mishap; armor loosened, -1 to hit until readjusted (by redonning or by another person helping for 1 round)
+814:Equipment Mishap; armor strap breaks, +1 AC penalty and -1 to hit until repaired
+821:Equipment Mishap; shield strap breaks, -3 to hit until repaired or discarded
+851:Hinderance; sweat in eyes -1 to hit for 1 round
+869:Hinderance; blood in eyes -3 to hit for 1 turn
+886:Hinderance; nearby ally is automatically hit
+904:Hinderance; distracted, -4 to hit and no Dex bonus to AC for 1 round
+921:Clumsiness; overextended +d4 penalty to next initiative, opponent gains +2 to next attack roll
+937:Clumsiness; hinder ally - takes +{1d6} initiative penalty, suffers -{1d4+1} to hit penalty on next attack or have 25% chance of hitting you
+953:Clumsiness; off balance +{1d4} penalty to next initiative
+969:Clumsiness; overextended, opponent gains +2 to next to-hit
+985:Clumsiness; Slip, opponent gains +2 to next to hit roll, -4 Dex for one round and make check vs. 1/2 Dex or fall prone

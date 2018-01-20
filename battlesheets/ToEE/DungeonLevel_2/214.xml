@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='214. LOUNGE'
+   jRoomDescPlayer='This 20 &apos;x 30&apos; room is furnished in rich green — rugs, carpets, draperies, furniture, etc. Four bronze pedestals (one in each corner of the room) hold green globes of some odd sort, which provide a greenish illumination for the area. Two upholstered armchairs and side tables are to the north. The center of the room is dominated by a long table with four chairs. Upon the table are green vessels — a decanter, six goblets, several bowls and plates, a basin, and a small box. A high desk stands against the west wall just south of the door; upon it are a few scraps of parchment and writing tools. A large wardrobe stands by a door in the south wall.'
+   jRoomDescDM='Two under-priests are quartered here. They attack intruders, calling loudly to alert others in area 215 (and possibly areas 220-225). Each cleric wears cowled green robes with a gold circle on front and back, plate mail armor underneath, and carries a shield and two hammers. \n\nUnder-priest: AC 1 (plate &amp; shield), MV 6&quot;, Level 3 Cleric, hp 21, #AT 1, D 2-5 (hammer); Dexterity 15 (-1 AC bonus included); SA spells, XP 168 First level: command, cure light wounds, light\nSecond level: hold person\n\nUnder-priest: AC 2 (plate &amp; shield), MV 6&quot;, Level 3 Cleric, hp 16, #AT 1, D 2-5 (hammer), SA spells; XP 153\nFirst level: command, cure light wounds, protection from good, sanctuary\nSecond level: chant\n\nEach cleric wears a gold ring fashioned as a ten-armed monster; each ring is set with a cabochan-cut peridot held in place by the monster&apos;s tentacles (jewelry value 750 gp).\n\nThe light is simply a form of continual light spell cast upon/in pieces of green but cheap quartz (each worth only 1 gp). The small box on the table holds 6 sugared fruits which are coated with a narcotic substance. If even one is eaten, it causes great intoxication, and two or more cause a comatose condition (see Appendix C for more details). The decanter holds wine. The entire service fills two large sacks and is worth 2, 000 gp if undamaged, being fashioned from fine malachite. A secret compartment in the back of the high desk holds a scroll of three cleric spells:\nresist fire, neutralize poison, true seeing.\n\nThe wardrobe holds several unremarkable garments and two green robes of watered silk, each with golden embroidery showing a squid-like creature with ten arms in a circle. \n\nThe south door opens into a 10&apos; wide, 30&apos; long room. It contains a pair of beds separated by a folding screen. By each bed is a small stand, a bronze brazier, a low stool, and a locked chest. Each chest holds clothing, four texts on the Elemental Evil of Water (non-magical but worth 250 gp each, XP value 25 each), and a few treasures. The first chest holds a sack with 87 gp, a bronze mace (worth 15 gp), and a gold ring set with a rare green pearl (jewelry value 555 gp). \n\nThe second chest has an old crumpled handkerchief (containing 21 pp) and a potion of water breathing (2 doses). '
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='npc:cleric 3'
+   nAC='1'
+   nACBase='1'
+   jACMod='0'
+   jHitPointLabel='27'
+   jClassSelect='1'
+   nEXP='250'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='27'
+   nLevel='3'
+   nToHitRank='2'
+   jNotePad=''
+   sDescription='Armor: plate and shield Dex 15 (-1 AC)\nWeapon: warhammer 1d4+1\n\n﻿First level: command, cure light wounds, light\n\nSecond level: hold person\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1552'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='1'
+       jNumDice='1'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+  <BSCreature
+   sCreatureName='npc:cleric 3 (type II)'
+   nAC='2'
+   nACBase='2'
+   jACMod='0'
+   jHitPointLabel='30'
+   jClassSelect='1'
+   nEXP='250'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='30'
+   nLevel='3'
+   nToHitRank='2'
+   jNotePad=''
+   sDescription='Armor: plate and shield\nWeapon: warhammer 1d4+1\n\nFirst level: command, cure light wounds,protection from good, sanctuary\n\nSecond level: chant\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1553'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='1'
+       jNumDice='1'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

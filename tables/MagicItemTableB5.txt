@@ -1,0 +1,15 @@
+1:cloud
+2:firbolg
+4:fire
+5:fog
+7:fomorian
+8:frost
+9:gorge
+11:hill
+12:mist
+13:mountain
+14:prairie
+15:scorn
+17:stone
+18:storm
+20:verbeeg

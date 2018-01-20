@@ -1,0 +1,19 @@
+1:Boffo's Blessed Book:2500:20000:243
+2:Book of Exalted Deeds:1500:20000:243
+3:Book of Infinite Spells:2000:30000:243
+4:Book of Vile Darkness:2500:25000:244
+5:Libram of Gainful Conjuration:1500:25000:258
+6:Libram of Ineffable Damnation:2000:30000:258
+7:Libram of Legalese:500:5000:258
+8:Libram of Silver Magic:2000:15000:258
+9:Manual of Bodily Health:2000:15000:258
+10:Manual of Gainful Exercise:2500:20000:258
+11:Manual of Golems:1500:20000:258
+12:Manual of Puissant Skill at Arms:3000:25000:258
+13:Manual of Quickness in Action:1000:15000:258
+14:Manual of Stealthy Pilfering:1000:35000:258
+15:Tome of Clear Thought:2000:30000:266
+16:Tome of Leadership and Influence:1500:30000:266
+17:Tome of Understanding:2000:30000:266
+18:Vacuous Grimoire:2500:25000:266
+20:GM's Choice:0:0:0

@@ -1,0 +1,15 @@
+1:pale blue, str +1, 18 max
+2:scarlet & blue, int  +1, 18 max
+3:incandescent blue, wis +1, 18 max
+4:deep red, dex +1, 18 max
+5:pink, con +1, 18 max
+6:pink & green, charisma +1, 18 max
+7:pale green, +1 level
+8:clear, sustains person w/o food/water
+9:iridescent, sustains person w/o air
+10:pearly white, regen 1hp/turn
+11:pale lavender, absorbs spells up to 4th {1d4*10} levels
+12:lavender & green, absorbs spells up to 8th {1d4*10} levels
+13:vibrant purple, stores {2d6} levels of spells
+14:dusty rose, +1 protection
+20:dull gray, "dead"

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>137. SLEEPING APARTMENT</jName>
+      <jRoomDescPlayer>The southern face of the door to this place is sheathed in bronze, and bears a peep hole. The bar on the inside is very thick. The door opens northward, swinging west. The walls herein are hung with tapestries and rugs, and the floor is covered with several layers of carpets. A pair of bronze lamps light the place, suspended on chains from the ceiling. A brass brazier on a tripod makes the room both too warm and too stuffy from the smoke of incense. A divan, small table, two chairs, and a cupboard stand along the east wall. A large armoire with side drawers stands by the west wall. The table holds a silver flask, several ceramic dishes and cups, and some foodstuffs — fruit, shelled nuts, and sweetmeats.\n\n* Behind the large tapestry on the north wall is a four-foot-wide archway leading to a 10&amp;apos; x 20&amp;apos; alcove. Two hanging lamps illuminate the area. A pillow-strewn bed is here, as well as a small desk and padded chair, a brass stand with several staves in it, a low table, two stools, and a wardrobe. A fountain in the southeast corner trickles a stream of clean water into a wall basin. The walls and floors are draped and carpeted.</jRoomDescPlayer>
+      <jRoomDescDM>In the north of this pair of rooms lives Romag, a curate (L4) and priest of the Earth Elemental Temple. He is determined to become the leading cleric of the Temple of Elemental Evil, and is gathering forces to accomplish this. He would particularly enjoy raiding and looting the Water Elemental Temple, and killing its priest. In the southern room of the pair, through a four-foot-wide concealed archway (covered by a tapestry), lives Hartch, an adept. He is ready to serve his master (Romag) and eager to pass on his commands. If alerted by their guards to the south or by noise in that direction, Hartsch observes through a peep hole in the door, and throws the large bar on the south door for defense. That portal may thereafter be destroyed only by 200 points of damage. If the fighting in this area gets too hot (assuming that it approaches from the south), Romag uses his darkness spell, slips into the concealed alcove to the northwest, gets his treasure from a large iron chest therein (see description below), and runs away. If he does so, he will be too ashamed to ever return — and his defeat would assure his death at the hands of other clerics anyway. If danger approaches from the north, Romag may (40% chance) hide in the alcove to the northeast after alerting Hartsch to summon the guards. He otherwise joins Hartsch in getting assistance, and commands the battle from the rear. Note that the fighters and guards in areas 134-136 use an appropriate strategy, roughly the same as that described in the area descriptions but reversed in direction. Note also that the guards in area 133 maintain their post, not moving to aid the fight to the north. \n\nRomag: AC 0, MV 12&amp;quot;, Level 4 Cleric, hp 24, #AT 1, D 2-7 (mace +1), SA spells, XP 321 First level: command, cure light wounds, curse (to miss crucial attacks), darkness Second level: hold person, resist fire, silence 15&amp;apos; radius\n\nHartsch: AC 2, MV 9&amp;quot;, Level 2 Cleric, hp 13, #AT 1, D1-6 (mace), SA spells, XP 99 First level: command, cure light wounds (x2), fear \n\nRomag wears chain mail + 2 and carries a mace +1; the effect of his 17 Dexterity is included in the AC given. He carries a purse containing 3 ep, 14 gp, 9 pp, and a jasper (worth 50 gp). Hartsch wears a gold ring (worth 25 gp) and a gold brooch set with a triangular piece of jet (worth 150 gp), and carries a purse containing 11 gp and 17 pp. \n\nThe 15 carpets and rugs strewn about the place have little value — about 3-18 sp each. The silver flask on the table is worth 40 gp, and holds good brandy. The wardrobe contains several worthless garments, a pair of sandals and pair of boots, and a normal mace. The side drawers hold linens, towels, and the like. The lowest drawer on the left side holds incense and unguents worth 90 gp, with one-half cubic foot of volume and 30 gp encumbrance. One tapestry on the north wall conceals an archway, leading to Romag&amp;apos;s room: \n\nThe desk contains a bottle of normal ink (worth 1 ep), 6 quills (each worth 1 ep), and 10 sheets of parchment (worth 4 gp each), but nothing of great value. The hanging lamps are worth 15 gp each. On the low table is a small tome (worth 50 gp to any evil spell user) detailing the sacrifice of humans to earth elementals. The wardrobe contains old clothing, a bag holding nine candles, and two bottles of very fine white wine (worth 2 gp each). The brass stand (worth 10 gp) holds two walking staves, one quarterstaff, and a bronzewood rod (which Romag uses as a swagger stick) worth 5 gp. The tapestries on the northern wall cover two narrow archways. The easternmost leads to a closet-like space where pegs hold Romag&amp;apos;s ceremonial garb, including a brown velvet cassock upon which are embroidered triangles of gold thread with precious stones (8 jaspers and 28 hematites, with base values of 50 and 10 gp, respectively) in the pattern illustrated. The western space contains an iron chest, the key lock of which is trapped with a poison needle. The chest is chained to a ring set in the east wall. Inside are a bullseye lantern and tinderbox, two leather bags (containing 183 ep and 240 gp, respectively), a gold box set with ivory (worth 350 gp), a potion of speed, and a scroll of two cleric spells (animate dead and prayer). \n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>npc:Hartsch, cleric 2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>26</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>1</jClassSelect>
+    <nCreatureID>1530</nCreatureID>
+    <nAC>0</nAC>
+    <nACBase>0</nACBase>
+    <nEXP>400</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>26</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>1</nToHitRank>
+    <sDescription>Hartsch: AC 2, MV 9&amp;quot;, Level 2 Cleric, hp\n13, #AT 1, D1-6 (mace), SA spells, XP 99\n\nFirst level: command, cure light wounds (x2), fear\n\nHartsch wears a gold ring (worth 25 gp) and a gold brooch set with a triangular piece of jet (worth 150 gp), and carries a purse containing 11 gp and 17 pp.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>2</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>-2</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>npc:Romag, cleric 4</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>40</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>1</jClassSelect>
+    <nCreatureID>1529</nCreatureID>
+    <nAC>0</nAC>
+    <nACBase>0</nACBase>
+    <nEXP>400</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>40</nHitPoints>
+    <nLevel>4</nLevel>
+    <nToHitRank>3</nToHitRank>
+    <sDescription>Romag: AC 0, MV 12&amp;quot;, Level 4 Cleric, hp\n24, #AT 1, D 2-7 (mace +1), SA spells,\nXP 321\nFirst level: command, cure light wounds,\ncurse (to miss crucial attacks), darkness\nSecond level: hold person, resist fire, silence\n15&amp;apos; radius\n\nRomag wears chain mail + 2 and carries a\nmace +1; the effect of his 17 Dexterity is\nincluded in the AC given. He carries a purse\ncontaining 3 ep, 14 gp, 9 pp, and a jasper\n(worth 50 gp).\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>2</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>-2</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

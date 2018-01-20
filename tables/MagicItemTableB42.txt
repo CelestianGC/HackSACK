@@ -1,0 +1,4 @@
+30:20 lbs bag, limit 2.5 million tons, 5 cubic miles
+70:40 lbs bag, limit 7.5 million tons, 15 cubic miles
+90:60 lbs bag, limit 20 million tons, 75 cubic miles
+100:80 lbs bag, limit 10 billion tons, 4000 cubic miles

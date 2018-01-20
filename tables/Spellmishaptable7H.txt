@@ -1,0 +1,23 @@
+0:gender delusion (opposite sex)
+4:gender delusion (opposite sex)
+8:racial delusion (either demi-human or humanoid race)
+15:dipsomania
+21:schizoid
+25:monomania
+29:dementia praecox
+34:melancholia
+40:megalomania
+44:mania
+49:lunacy
+55:7I
+58:manic-depressive
+63:hallucinatory insanity
+68:homicidal maniac
+71:hebephrenia
+74:sucidal mania
+78:catatonia
+84:heroic idiocy
+89:masochism
+94:sadistic (as per major mental quirk)
+99:sado-masochism
+100:roll twice on insanity sutable table

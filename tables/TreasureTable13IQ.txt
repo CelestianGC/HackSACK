@@ -1,0 +1,9 @@
+5:-3:badly flawed
+25:-2:flawed
+45:-1:minor inclusions
+65:0:average
+85:1:good
+90:2:excellent
+96:3:near-perfect
+99:4:perfect
+100:5:flawless

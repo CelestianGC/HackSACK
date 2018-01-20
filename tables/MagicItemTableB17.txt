@@ -1,0 +1,7 @@
+5:werebears
+10:wereboars
+20:wererats
+25:weretigers
+40:werewolves
+98:all lycanthropes
+100:shape-changers

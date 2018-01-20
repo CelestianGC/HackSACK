@@ -1,0 +1,80 @@
+2:Acid Plumes:1000:4000:227
+3:Animal Friendship:1000:5000:227
+4:Bad Bargain Sense:0:1000:227
+5:Berserk Strength:500:3000:227
+6:Blinking:1000:5000:227
+7:Breaking Curses:900:5000:227
+8:Cataclysmic Avoidance:1500:10000:227
+9:Chameleon Power:1000:5000:227
+10:Cloaking:750:1000:227
+12:Clumsiness:0:3000:227
+13:Combination Ring of Invisibility and Demon Spawn Slaying:3000:20000:227
+14:Constant Thunder:700:5000:227
+16:Contrariness:0:1000:227
+17:Death and Reincarnation:2000:10000:228
+19:Delusion:0:2000:228
+21:Diminished Scars:500:3000:228
+22:Dire Straits:2000:20000:228
+23:Djinni Conjuring:3000:20000:228
+24:Elemental Command:5000:25000:228
+25:Fall Softly:1000:5000:228
+27:Fast Scabbing:1000:3000:228
+28:Fire Resistance:1000:5000:228
+29:Free Action:1000:5000:228
+30:Friendship:1200:3000:228
+31:Gentle Persuasion:1000:3000:228
+32:Giant Might:1500:3000:229
+33:Good Omens:2000:5500:229
+34:Grawdyng's Ring of Servitude:0:1000:229
+35:Hefty Damage:1000:10000:229
+37:Hefty Healing:1000:10000:229
+39:Hefty Recovery:7500:50000:229
+40:Hefty Spell Casting:1500:50000:229
+41:Hindsight:1000:40000:229
+42:Human Influence:2000:10000:229
+43:Hyptor's Pronged Ring:750:2000:229
+44:Illumination:750:2000:229
+45:Invisibility:1500:7500:229
+46:Jumping:1000:5000:230
+47:Mammal Control:1000:5000:230
+48:Many Deaths:2000:10000:230
+49:Martyrdom:1000:5000:230
+50:Mending:1500:4000:230
+52:Mercy Killing:1000:3500:230
+53:Mind Shielding:500:5000:230
+55:Nose Ring of Load Easement:900:6000:230
+57:Nose Ring of Viscid Globs:900:8000:230
+58:Pass Through Walls:900:5000:230
+60:Perpetual Mo-jo:1000:7000:230
+62:Protection:1000:5000:230
+63:Quick Escapes:1500:8000:230
+64:Ram, the:750:7500:231
+65:Regeneration:5000:40000:231
+66:Scrying:2000:5000:231
+67:Shocking Grasp:1000:5000:231
+68:Shooting Stars:3000:15000:231
+70:Spell Storing:2500:22500:231
+71:Spell Turning:2000:17500:231
+72:Split Stone:1200:5000:232
+73:Stasis:2000:7000:232
+75:Stone Passage:2000:5000:232
+76:Suggestion:1000:4000:232
+77:Sustenance:500:3500:232
+78:Swimming:1000:5000:232
+79:Talk With Plants:750:2000:232
+80:Telekinesis:2000:10000:232
+81:Tele-location:500:3000:232
+82:Teleportation:3000:20000:232
+84:Truth:1000:5000:232
+86:Undead Aggravation:1000:4000:232
+87:Undead Utilities:2000:10000:232
+88:Warmth:1000:5000:232
+89:Water Siphoning:1200:4000:232
+90:Water Walking:1000:5000:233
+92:Weakness:0:1000:233
+94:Wicked Kicks:900:12000:233
+95:Wishes, Multiple:5000:15000:233
+96:Wishes, Three:3000:25000:233
+97:Wizardry:4000:50000:233
+98:X-ray Vision:4000:35000:233
+100:GM's Choice:0:0:0

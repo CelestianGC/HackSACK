@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1071957345696'
+   sPlayerName='Bryan Smith'
+   sCharacter='Rupert'
+   sFamilyClan=''
+   sHomeland=''
+   sGawd=''
+   sPatron=''
+   sAppearance=''
+   sBirthDate=''
+   sFamilyHistory=''
+   sHairColour=''
+   sEyeColour=''
+   sSpecialAbilities=''
+   sMiscInfo=''
+   sRace='human'
+   jPlayerLog=''
+   nBirthRank='1'
+   nAge='25'
+   nHeight='75'
+   nWeight='179'
+   nSocialClassIndex='7'
+   nNumberSiblings='8'
+   nHandIndex='1'
+   nAlignementIndex='3'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='2'
+   AC_NORMAL='7'
+   AC_REAR='8'
+   AC_SHIELDLESS='7'
+   AC_SUPRISED='8'
+   jHealthMax='34'
+   jHealthLabel='25'
+   jMove='12'
+   jHonor='17'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='11'
+         jAdjPercent='43'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='51'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='130'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='6'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='4%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='14'
+         jAdjPercent='61'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='-1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='+2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='+2'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='13'
+         jAdjPercent='60'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='+1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='85%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='90%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='-35%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='Nil / 1 HP every day'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='8'
+         jAdjPercent='80'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='Cantrips'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='30%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='5'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='35%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='12'
+         jAdjPercent='98'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='5%-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='05%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='10'
+         jAdjPercent='71'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='13'
+         jAdjPercent='48'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Plain looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Cleric'
+         nClassindex='1'
+         nClassID='1'
+         nSaveAs='1'
+         nFightAs='1'
+         jLevel='2'
+         jEXP='2251'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='10'
+         jSave='10'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='13'
+         jSave='13'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='16'
+         jSave='16'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+         <Skills
+         sName='tasks:sophisticated:botany'
+         sDesc='fill in description'
+         jSkillSpinner='34'
+         nSkillID='25'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:read/write'
+         sDesc='can read/write'
+         jSkillSpinner='25'
+         nSkillID='43'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='staff: quarterstaff'
+         sDesc='Proficient with the longsword.'
+         jSkillSpinner='1'
+         nSkillID='51'
+         nSkillType='2'
+          >
+         </Skills>
+  </Player>
+</PlayerFile>

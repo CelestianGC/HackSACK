@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>Ogre Cave #1</jName>
+      <jRoomDescPlayer>You see a group of 3 ogres sitting at a large wooden table. Each has a brass plate and mug. It appears they are eating toast with gnome jelly!\n</jRoomDescPlayer>
+      <jRoomDescDM>Ogre #1 has 12 cp\nOgre #2 has 1sp 13cp\nOgre #3 has 3sp 1gp\n\nThe gnome jelly and is ransid. Anyone eating it other than ogre ilk will become sick for d4 days (no save) and be at -1 to hit and damage until the sickness is gone.\n\n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Ogre, Common#1</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>43</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>851</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>270</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>43</nHitPoints>
+    <nLevel>4</nLevel>
+    <nToHitRank>6</nToHitRank>
+    <sDescription>Damage is 1d10 or by weapon +3 to hit +7 to damage.</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>11</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>3</nBASESizeIndex>
+    <nBASEAlignmentIndex>8</nBASEAlignmentIndex>
+    <nBASEHackFactor>2</nBASEHackFactor>
+    <nFatigueFactor>7</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Shield_Worn>
+      <Gear>
+        <sName>Armor and Related Items:Shield, Medium</sName>
+        <sDesc />
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>570</nGearID>
+        <sItemType>SHIELD</sItemType>
+        <nShieldACBase>3</nShieldACBase>
+        <nShieldACMagicBonus>0</nShieldACMagicBonus>
+        <nShieldACBaseCurrent>3</nShieldACBaseCurrent>
+        <nShieldACMagicBonusCurrent>0</nShieldACMagicBonusCurrent>
+        <Shield_Original>
+          <SHIELD_1>3</SHIELD_1>
+          <SHIELD_2>4</SHIELD_2>
+          <SHIELD_3>5</SHIELD_3>
+          <SHIELD_4>0</SHIELD_4>
+          <SHIELD_5>0</SHIELD_5>
+        </Shield_Original>
+        <Shield_Current>
+          <SHIELD_1>3</SHIELD_1>
+          <SHIELD_2>4</SHIELD_2>
+          <SHIELD_3>5</SHIELD_3>
+          <SHIELD_4>0</SHIELD_4>
+          <SHIELD_5>0</SHIELD_5>
+        </Shield_Current>
+      </Gear>
+    </Shield_Worn>
+    <Armor_Worn>
+      <Gear>
+        <sName>Armor and Related Items:Armor, Hide (M)</sName>
+        <sDesc />
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>617</nGearID>
+        <sItemType>ARMOR</sItemType>
+        <nACAbsorb>1</nACAbsorb>
+        <nACBulkIndex>1</nACBulkIndex>
+        <nACBase>6</nACBase>
+        <nACMagicBonus>0</nACMagicBonus>
+        <nACBaseCurrent>6</nACBaseCurrent>
+        <nACMagicBonusCurrent>0</nACMagicBonusCurrent>
+        <Armor_Original>
+          <AC_0>1</AC_0>
+          <AC_1>36</AC_1>
+          <AC_2>24</AC_2>
+          <AC_3>12</AC_3>
+          <AC_4>10</AC_4>
+          <AC_5>8</AC_5>
+          <AC_6>5</AC_6>
+          <AC_7>4</AC_7>
+          <AC_8>2</AC_8>
+          <AC_9>1</AC_9>
+        </Armor_Original>
+        <Armor_Current>
+          <AC_0>1</AC_0>
+          <AC_1>36</AC_1>
+          <AC_2>24</AC_2>
+          <AC_3>12</AC_3>
+          <AC_4>10</AC_4>
+          <AC_5>8</AC_5>
+          <AC_6>5</AC_6>
+          <AC_7>4</AC_7>
+          <AC_8>2</AC_8>
+          <AC_9>1</AC_9>
+        </Armor_Current>
+      </Gear>
+    </Armor_Worn>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d10</jDamageDice>
+      <jToHitMod>3</jToHitMod>
+      <jTotalMod>6</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Ogre, Common#2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>35</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>851</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>270</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>35</nHitPoints>
+    <nLevel>4</nLevel>
+    <nToHitRank>6</nToHitRank>
+    <sDescription>Damage is 1d10 or by weapon +3 to hit +7 to damage.</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>11</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>3</nBASESizeIndex>
+    <nBASEAlignmentIndex>8</nBASEAlignmentIndex>
+    <nBASEHackFactor>2</nBASEHackFactor>
+    <nFatigueFactor>7</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Shield_Worn>
+      <Gear>
+        <sName>Armor and Related Items:Shield, Buckler</sName>
+        <sDesc />
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>554</nGearID>
+        <sItemType>SHIELD</sItemType>
+        <nShieldACBase>1</nShieldACBase>
+        <nShieldACMagicBonus>0</nShieldACMagicBonus>
+        <nShieldACBaseCurrent>1</nShieldACBaseCurrent>
+        <nShieldACMagicBonusCurrent>0</nShieldACMagicBonusCurrent>
+        <Shield_Original>
+          <SHIELD_1>3</SHIELD_1>
+          <SHIELD_2>0</SHIELD_2>
+          <SHIELD_3>0</SHIELD_3>
+          <SHIELD_4>0</SHIELD_4>
+          <SHIELD_5>0</SHIELD_5>
+        </Shield_Original>
+        <Shield_Current>
+          <SHIELD_1>3</SHIELD_1>
+          <SHIELD_2>0</SHIELD_2>
+          <SHIELD_3>0</SHIELD_3>
+          <SHIELD_4>0</SHIELD_4>
+          <SHIELD_5>0</SHIELD_5>
+        </Shield_Current>
+      </Gear>
+    </Shield_Worn>
+    <Armor_Worn>
+      <Gear>
+        <sName>Armor and Related Items:Armor, Hide (M)</sName>
+        <sDesc />
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>617</nGearID>
+        <sItemType>ARMOR</sItemType>
+        <nACAbsorb>1</nACAbsorb>
+        <nACBulkIndex>1</nACBulkIndex>
+        <nACBase>6</nACBase>
+        <nACMagicBonus>0</nACMagicBonus>
+        <nACBaseCurrent>6</nACBaseCurrent>
+        <nACMagicBonusCurrent>0</nACMagicBonusCurrent>
+        <Armor_Original>
+          <AC_0>1</AC_0>
+          <AC_1>36</AC_1>
+          <AC_2>24</AC_2>
+          <AC_3>12</AC_3>
+          <AC_4>10</AC_4>
+          <AC_5>8</AC_5>
+          <AC_6>5</AC_6>
+          <AC_7>4</AC_7>
+          <AC_8>2</AC_8>
+          <AC_9>1</AC_9>
+        </Armor_Original>
+        <Armor_Current>
+          <AC_0>1</AC_0>
+          <AC_1>36</AC_1>
+          <AC_2>24</AC_2>
+          <AC_3>12</AC_3>
+          <AC_4>10</AC_4>
+          <AC_5>8</AC_5>
+          <AC_6>5</AC_6>
+          <AC_7>4</AC_7>
+          <AC_8>2</AC_8>
+          <AC_9>1</AC_9>
+        </Armor_Current>
+      </Gear>
+    </Armor_Worn>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d10</jDamageDice>
+      <jToHitMod>3</jToHitMod>
+      <jTotalMod>6</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Ogre, Common#3</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>33</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>851</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>270</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>33</nHitPoints>
+    <nLevel>4</nLevel>
+    <nToHitRank>6</nToHitRank>
+    <sDescription>Damage is 1d10 or by weapon +3 to hit +7 to damage.</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>11</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>3</nBASESizeIndex>
+    <nBASEAlignmentIndex>8</nBASEAlignmentIndex>
+    <nBASEHackFactor>2</nBASEHackFactor>
+    <nFatigueFactor>7</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Shield_Worn>
+      <Gear>
+        <sName>Armor and Related Items:Shield, Medium</sName>
+        <sDesc />
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>570</nGearID>
+        <sItemType>SHIELD</sItemType>
+        <nShieldACBase>3</nShieldACBase>
+        <nShieldACMagicBonus>0</nShieldACMagicBonus>
+        <nShieldACBaseCurrent>3</nShieldACBaseCurrent>
+        <nShieldACMagicBonusCurrent>0</nShieldACMagicBonusCurrent>
+        <Shield_Original>
+          <SHIELD_1>3</SHIELD_1>
+          <SHIELD_2>4</SHIELD_2>
+          <SHIELD_3>5</SHIELD_3>
+          <SHIELD_4>0</SHIELD_4>
+          <SHIELD_5>0</SHIELD_5>
+        </Shield_Original>
+        <Shield_Current>
+          <SHIELD_1>3</SHIELD_1>
+          <SHIELD_2>4</SHIELD_2>
+          <SHIELD_3>5</SHIELD_3>
+          <SHIELD_4>0</SHIELD_4>
+          <SHIELD_5>0</SHIELD_5>
+        </Shield_Current>
+      </Gear>
+    </Shield_Worn>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d10</jDamageDice>
+      <jToHitMod>3</jToHitMod>
+      <jTotalMod>6</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

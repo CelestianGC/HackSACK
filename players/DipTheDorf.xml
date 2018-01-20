@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayerFile JDOM="10b">
+  <Player>
+    <sPlayerName>John Smith</sPlayerName>
+    <sCharacter>Dip the Dorf</sCharacter>
+    <sRace>dwarf</sRace>
+    <lPlayerID>1088487626890</lPlayerID>
+    <jAbsent>false</jAbsent>
+    <jHireling>false</jHireling>
+    <sFamilyClan />
+    <sHomeland>Iron Hills</sHomeland>
+    <sGawd>Pelor</sGawd>
+    <sPatron />
+    <sAppearance />
+    <sBirthDate />
+    <sFamilyHistory />
+    <sHairColour>red</sHairColour>
+    <sEyeColour>brown</sEyeColour>
+    <sSpecialAbilities />
+    <sMiscInfo />
+    <jPlayerLog />
+    <nBirthRank>1</nBirthRank>
+    <nAge>76</nAge>
+    <nHeight>46</nHeight>
+    <nWeight>290</nWeight>
+    <nSocialClassIndex>4</nSocialClassIndex>
+    <nNumberSiblings>4</nNumberSiblings>
+    <nHandIndex>1</nHandIndex>
+    <nAlignementIndex>6</nAlignementIndex>
+    <nSexIndex>0</nSexIndex>
+    <nAIP>0</nAIP>
+    <jSizeComboBox>2</jSizeComboBox>
+    <jHealthMax>29</jHealthMax>
+    <jHealthLabel>29</jHealthLabel>
+    <jMove>6</jMove>
+    <jHonor>7</jHonor>
+    <nTemporalHonor>0</nTemporalHonor>
+    <AC>
+      <AC_NORMAL>5</AC_NORMAL>
+      <AC_REAR>5</AC_REAR>
+      <AC_SHIELDLESS>5</AC_SHIELDLESS>
+      <AC_SUPRISED>5</AC_SUPRISED>
+    </AC>
+    <Abilities>
+      <Ability>
+        <sName>Strength</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Dexterity</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Constitution</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Intelligence</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Wisdom</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Charisma</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Comeliness</sName>
+        <jAdjScore>1</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+    </Abilities>
+    <Classes />
+    <SavingThrows>
+      <Save>
+        <sName>Paralyzation, Poison, Death Magic</sName>
+        <nSaveType>0</nSaveType>
+        <nBaseSave>20</nBaseSave>
+        <jSave>0</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Rod, Staff, Wand</sName>
+        <nSaveType>1</nSaveType>
+        <nBaseSave>20</nBaseSave>
+        <jSave>0</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Petrifaction, HackFrenzy, HackLust, PolyMorph</sName>
+        <nSaveType>2</nSaveType>
+        <nBaseSave>20</nBaseSave>
+        <jSave>0</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Breath Weapon</sName>
+        <nSaveType>3</nSaveType>
+        <nBaseSave>20</nBaseSave>
+        <jSave>0</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Apology</sName>
+        <nSaveType>4</nSaveType>
+        <nBaseSave>20</nBaseSave>
+        <jSave>0</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Spells</sName>
+        <nSaveType>5</nSaveType>
+        <nBaseSave>20</nBaseSave>
+        <jSave>0</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+    </SavingThrows>
+    <Coins>
+      <Coin>
+        <sName>Copper</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Silver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Electrum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Gold</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Hardsilver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Platinum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+    </Coins>
+    <Inventory />
+    <Skills />
+    <Quirks />
+  </Player>
+</PlayerFile>
+

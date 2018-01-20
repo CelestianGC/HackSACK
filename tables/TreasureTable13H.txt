@@ -1,0 +1,6 @@
+1:black sapphire
+2:diamond
+3:jacinth
+4:oriental emerald
+5:ruby
+6:gut stone

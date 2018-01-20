@@ -1,0 +1,4 @@
+50:normal
+75:with clairaudience
+90:with ESP
+100:with telepathy (communication only)

@@ -1,0 +1,14 @@
+7:ant
+9:ant,army
+11:ant,red
+26:beetle,dung
+30:bumblebee
+40:cricket
+45:dragonfly
+68:housefly
+71:mosquito
+75:preying mantis
+84:stick insect
+95:stink bug
+98:tsetse fly
+100:wasp

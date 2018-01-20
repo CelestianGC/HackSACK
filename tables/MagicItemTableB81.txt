@@ -1,0 +1,14 @@
+1:fireball, barrage
+2:fireball, death brusher
+3:fireball, delayed blast
+4:fireball, land scraper
+5:fireball, lava yield
+6:fireball, maximus
+13:fireball
+14:fireball, proximity fused
+15:fireball, scatter-blast
+16:fireball, show-no-mercy
+17:fireball, sidewinder factor {1d4+1}
+18:fireball, skipping betty
+19:fireball, torrential
+20:fireball, volley

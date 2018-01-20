@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='218. ABANDONED STORER'
+   jRoomDescPlayer='This 20 &apos;x 30&apos; chamber is a mess in every respect. It reeks of troll, is covered with dirt and rubbish, and is littered with bits of decaying meat and many bones, strewn haphazardly about the place.\n\nSome shelves remain on the walls, and a few boxes, crates, barrels, and bales are intact, still standing along the walls where they were placed — who knows how many years ago! There is nothing of value in the place. \n'
+   jRoomDescDM='This room is the lair of the owlbear&apos;s &quot;keeper&quot; (tormentor), a troll. It goes to area 217 upon hearing noises of intruders, after first grabbing its 12&apos; long fauchard-fork. If intruders are led by anyone wearing the green robes of the Water Temple (or if the entire group is so garbed, of course), the troll shoves the owlbear to the northwest corner and allows passage — making sure, afterwards, that they report to room 222, either accompanying or following them. If intruders do not identify themselves, or if any wear robes of the Fire Temple, the troll looses the owlbear and attacks itself, using the pole arm at long range (and gaining a  + 2 Strength bonus to damage, included below) but shifting to the usual claw-clawbite routine for closer melee if necessary.\n\nThis troll is on fairly good terms with its counterpart in area 203, as well as with its fellows in area 219. \n\nTroll: AC 4, MV 12&quot;, HD 6 + 6, hp 40, #AT 3, D 5-8/5-8/2-12, SA fauchard-fork (range 12&apos;, D 3-10), SD regenerates (3 hp per round starting 3 rounds after being damaged); XP 845\n\nIf the intact containers are searched, one barrel is found to contain drinkable wine. A sack of mouldering grain in the northeast corner also contains a hidden leather sack, with 48 pp, 84 gp, and 109 ep.\n'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='Troll, Common'
+   nAC='4'
+   nACBase='4'
+   jACMod='0'
+   jHitPointLabel='53'
+   jClassSelect='4'
+   nEXP='1400'
+   nHonor='-1'
+   lAttacks='3'
+   nHitPoints='53'
+   nLevel='7'
+   nToHitRank='8'
+   jNotePad=''
+   sDescription='﻿DESCRIPTION: Ttolls ate a common and feared humanoid on Garweeze Wurld. They come in different sizes and shapes, but most share common traits. Trolls are &quot;butt-ugly&quot;, with green, warty skin rhat is usually covered with sores of one kind or another. They have large, black eyes, short, bristly black hair, big claws and big teeth. \n\nCommon Troll: Common Trolls usually look emaciated. They rarely have clothes, armor or weapons and are appear to he only slightly above animals in their degree of civilization. However, to those &quot;in the know&quot;, these beasts have their own customs and culture.\n\n﻿COMBAT/TACTICS:Trolls regenerate 3 hit points per round and can reattach any severed limb. They cannot regenerate damage from weapons that deliver burn damage, such as fire or lightning. With their claws, they are able to climb sheer cliffs wirh an 80% chance of success. Trolls have a poor sense of hearing, but a superior sense of smell. Unless otherwise noted, Trolls have 90-foot infravision. Common Troll: Most Common Trolls have never encountered someone they could not defeat and eat. When they are hungry, which is always, they rush out to attack, overwhelming anything in their path with their raw power. Common Trolls gain +2 to-hit and inflict +4 damage with each attack due to Strength.\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1306'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='2'
+       jPerDiceMod='0'
+       jTotalMod='4'
+       jNumDice='1'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+     <Attack
+       jWeaponType='0'
+       jToHitMod='2'
+       jPerDiceMod='0'
+       jTotalMod='4'
+       jNumDice='1'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+     <Attack
+       jWeaponType='0'
+       jToHitMod='2'
+       jPerDiceMod='0'
+       jTotalMod='4'
+       jNumDice='2'
+       jDiceSides='8'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

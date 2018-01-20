@@ -1,0 +1,10 @@
+2:blood
+5:clay
+7:flesh
+9:gristle
+10:guardian
+11:iron
+14:muck
+16:muck, diseased
+19:puppet
+20:stone

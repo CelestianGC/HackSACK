@@ -1,0 +1,10 @@
+0:{1d24} hours
+16:{1d24} hours
+30:{1d6} days
+45:{1d4} weeks
+60:{1d12} months
+70:{1d12+12} months
+80:{1d3+1} years
+90:{1d4+3} years
+95:{4d4+4} years
+100:chronic*

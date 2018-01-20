@@ -1,0 +1,33 @@
+4:aardvark
+8:bird
+12:cat
+13:crocodile
+16:dolphin
+25:dawg
+28:dwarf
+30:eel
+33:elf
+36:fish
+44:frog
+46:gnoll
+50:goblin
+51:gummy fiend
+54:halfling
+55:half-elf
+56:half-ogre
+58:half-orc
+59:hobgoblin
+60:human
+62:lizard man
+63:minotaur
+67:monkey
+71:newt
+72:pack ape
+74:ogre
+79:orc
+84:pixie fairy
+85:nefarian, quasit
+89:snake constrictor
+94:snake venomous
+99:snake garter
+100:dragon

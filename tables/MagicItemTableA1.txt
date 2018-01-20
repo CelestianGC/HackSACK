@@ -1,0 +1,19 @@
+20:Potion and Oils:A2
+35:Scrolls:A3
+40:Rings:A4
+41:Rods:A5
+42:Staves:A6
+45:Wands:A7
+46:Misc. Books,etc:A8
+48:Misc. Jewels,etc:A9
+50:Misc. Cloaks,etc:A10
+52:Misc. Boots,etc:A11
+53:Misc. Girdles,etc:A12
+55:Misc. Bags,etc:A13
+56:Misc. Dusts,etc:A14
+57:Misc. Household:A15
+58:Misc. Musical:A16
+60:Misc. Wierd:A17
+75:Armor and Shields:A18
+99:Weapons:A21
+100:Artifacts:A24

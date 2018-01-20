@@ -1,0 +1,40 @@
+3:Boots of Contempts:3500:30000:244
+7:Boots of Dancing:1000:15000:244
+10:Boots of Earnestness:1500:10000:244
+13:Boots of Elvenkind:1000:15000:244
+15:Boots of Groin Kicking +5:1500:15000:244
+17:Boots of High Kicking:1000:10000:244
+19:Boots of Leviation:2000:15000:244
+21:Boots of the North:1500:15000:244
+23:Boots of Speed:2500:20000:244
+25:Boots of Stealth:1000:10000:245
+28:Boots of Striding and Springing:200:20000:245
+30:Boots of Varied Tracks:1500:15000:245
+32:Boots of Water Walking:1000:15000:245
+34:Boots, Winged:2000:20000:245
+36:Bracers of Archery (F):1000:15000:245
+40:Bracers of Brachiation:1000:10000:245
+42:Bracers of Defense:500:5000:245
+44:Bracers of Defenselessness:1000:15000:245
+46:Bracers of Dimensional Shift:2500:15000:245
+48:Bracers of Giant Strength:2000:25000::245
+51:Bracers of Girding:0:45000:0
+53:Bracers of Judgement:2500:20000:245
+55:Bracers of Mapsense:0:20000:246
+57:Gauntlets of Dexterity:1000:20000:253
+62:Gauntlets of Fumbling:0:5000:253
+64:Gauntlets of Ogre Power (C, T, F):1000:10000:253
+67:Gauntlets of Swimming and Climbing (C, T, F):1000:10000:253
+69:Gauntlets of Wiss-Slapping:2000:15000:253
+73:Gloves of Digging:1000:10000:254
+76:Gloves of Missile Snaring:1500:15000:254
+78:Gloves of Striking +5:750:5000:254
+80:Gnarly Gloves of Transmute Stone to Mud:2500:20000:254
+83:Hipwaders of Protection +5:1000:15000:256
+85:Kneepads of Leviation:2000:15000:258
+88:Leggings of Speed:0:10000:258
+91:Sandals of Indifference:2000:15000:264
+94:Slippers of Spider Climbing:500:10000:264
+96:Thigh High Boots of Quick-Cadence:1500:15000:266
+98:Yurdon's Thigh-High Boots of Plane Walking:2000:25000:266
+100:GM's Choice:0:0:0

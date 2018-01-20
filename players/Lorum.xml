@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1060976201187'
+   sPlayerName='Mike'
+   sCharacter='Lorum Longacre'
+   sFamilyClan=''
+   sHomeland=''
+   sGawd=''
+   sPatron=''
+   sAppearance=''
+   sBirthDate=''
+   sFamilyHistory=''
+   sHairColour='brown'
+   sEyeColour='brown'
+   sSpecialAbilities=''
+   sMiscInfo=''
+   sRace='human'
+   jPlayerLog='Saturday, August 16, 2003:Your health was adjusted 20-4=16\nSaturday, August 16, 2003:Your health was adjusted 20-1=19\nSaturday, August 16, 2003:Your health was adjusted 20-5=15\nSaturday, August 16, 2003:Your health was adjusted 20-9=11\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1001 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1002 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1003 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1004 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Battle-Mage class for a total of 1028 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1029 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1030 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1031 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1032 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1033 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1034 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1035 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1036 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1037 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1038 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1039 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1040 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1041 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1042 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1043 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1044 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1045 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1046 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1047 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1048 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1049 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1050 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1051 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1052 experience.\nSaturday, August 16, 2003:Received EXP award of 1 points to the Battle-Mage class for a total of 1053 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1066 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1079 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1092 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1105 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1118 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1131 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1144 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1157 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1192 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1227 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1262 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1297 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1332 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1367 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1402 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1437 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1472 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1507 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1542 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1577 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1612 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1647 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1682 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1717 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1752 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1787 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1822 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1835 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1848 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1861 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Battle-Mage class for a total of 1885 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Battle-Mage class for a total of 1909 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1944 experience.\nSaturday, August 16, 2003:Received EXP award of 35 points to the Battle-Mage class for a total of 1979 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 1992 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 2005 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 2018 experience.\nSaturday, August 16, 2003:Received EXP award of 24 points to the Battle-Mage class for a total of 2042 experience.\nSaturday, August 16, 2003:Received EXP award of 130 points to the Battle-Mage class for a total of 2172 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 2185 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 2198 experience.\nSaturday, August 16, 2003:Received EXP award of 13 points to the Battle-Mage class for a total of 2211 experience.\nSaturday, August 16, 2003:Received EXP award of 1000 points to the Battle-Mage class for a total of 3211 experience.\nSaturday, August 16, 2003:Awarded 1000 EXP for General:Generic, DETAILS: 1000 exp for magic detect wand.\nSaturday, August 16, 2003:Received EXP award of 6750 points to the Battle-Mage class for a total of 9961 experience.\nSaturday, August 16, 2003:Awarded 6750 EXP for General:Generic, DETAILS: treasure gold/magic exp.\nSaturday, August 16, 2003:Received EXP award of 500 points to the Battle-Mage class for a total of 10461 experience.\nSaturday, August 16, 2003:Awarded 500 EXP for General:MVP Award, DETAILS: mr  wizard gets it.\nSaturday, August 16, 2003:Received EXP award of 100 points to the Battle-Mage class for a total of 10561 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for General:Role Play Award (average), DETAILS: everyone.\nSaturday, August 16, 2003:Received EXP award of 500 points to the Battle-Mage class for a total of 11061 experience.\nSaturday, August 16, 2003:Awarded 500 EXP for General:Saves Party, DETAILS: mr wizard.\nSaturday, August 16, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#2 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#3 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Dark Seether defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#3 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#14 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#9 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#5 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#15 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#20 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#10 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#16 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#21 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#11 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#22 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#23 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#17 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#24 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#25 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#6 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#7 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#8 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#13 defeated:gully,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#12 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#18 defeated:conrad,grog,gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#19 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#1 defeated:conrad,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#3 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#2 defeated:conrad,grog,gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#4 defeated:gully,lliam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#6 defeated:gtrog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#7 defeated:grog,suck.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#5 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#4 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghast defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#3 defeated:gully.conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:gully,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:gully,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghoul, Common#1 defeated:grog,gully,lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghoul, Common#3 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#2 defeated:liam,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#1 defeated:grog,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#5 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#4 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#1 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#10 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#11 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#12 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#13 defeated:guly.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#14 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#15 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#18 defeated:lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#19 defeated:lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#2 defeated:conrad,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#8 defeated:grog,suckung.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#9 defeated:grog,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#17 defeated:liam,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#16 defeated:liam,suck,off.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#3 defeated:conrad,sucking,off,gully sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,crit no more.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:conrad.\nSunday, August 17, 2003:Honor adjusted: 72/4+15=33\n'
+   nBirthRank='5'
+   nAge='26'
+   nHeight='64'
+   nWeight='161'
+   nSocialClassIndex='6'
+   nNumberSiblings='6'
+   nHandIndex='1'
+   nAlignementIndex='6'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='2'
+   AC_NORMAL='8'
+   AC_REAR='8'
+   AC_SHIELDLESS='8'
+   AC_SUPRISED='9'
+   jHealthMax='20'
+   jHealthLabel='20'
+   jMove='12'
+   jHonor='33'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='12'
+         jAdjPercent='17'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='59'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='140'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='7'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='5%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='14'
+         jAdjPercent='18'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='-1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='+1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='+2'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='12'
+         jAdjPercent='22'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='+1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='80%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='85%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='-30%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='Nil / 1 HP every day'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='17'
+         jAdjPercent='21'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='6'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='8th'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='75%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='14'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='0%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='10'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='15%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='05%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='9'
+         jAdjPercent='11'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='-1'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='11'
+         jAdjPercent='56'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Plain looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Battle-Mage'
+         nClassindex='9'
+         nClassID='9'
+         nSaveAs='3'
+         nFightAs='3'
+         jLevel='1'
+         jEXP='11061'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='11'
+         jSave='11'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='13'
+         jSave='13'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='17'
+         jSave='17'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='12'
+         jSave='12'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+         <Gear
+         sName='clothing:robe'
+         sDesc='robe'
+         sLoc='body'
+         nCount='1'
+         dWeight='2.0'
+         nGearID='4'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:belt (M)'
+         sDesc='belt'
+         sLoc='waist'
+         nCount='1'
+         dWeight='0.5'
+         nGearID='8'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:boots,riding (M)'
+         sDesc='riding boots'
+         sLoc='feet'
+         nCount='1'
+         dWeight='2.5'
+         nGearID='9'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:breeches (M)'
+         sDesc='breeches'
+         sLoc='legs'
+         nCount='1'
+         dWeight='0.5'
+         nGearID='10'
+          >
+         </Gear>
+         <Gear
+         sName='clothing:tunic (M)'
+         sDesc='tunic'
+         sLoc='torso'
+         nCount='1'
+         dWeight='1.0'
+         nGearID='35'
+          >
+         </Gear>
+         <Skills
+         sName='less sleep'
+         sDesc='require only 1/2 the normal sleep period for rest (4 hours)'
+         jSkillSpinner='1'
+         nSkillID='41'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='photographic memory'
+         sDesc='memorize one extra spell per spell level\n\nlook up description'
+         jSkillSpinner='1'
+         nSkillID='42'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='launguage:common'
+         sDesc='skilled speaking common'
+         jSkillSpinner='100'
+         nSkillID='12'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:read/write'
+         sDesc='can read/write'
+         jSkillSpinner='100'
+         nSkillID='43'
+         nSkillType='0'
+          >
+         </Skills>
+  </Player>
+</PlayerFile>

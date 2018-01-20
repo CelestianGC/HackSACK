@@ -1,0 +1,24 @@
+5:{2d6} Arrow(s)
+10:{3d6} Arrow(s)
+14:{4d6} Arrow(s)
+19:Axe
+23:Battle axe
+27:{2d6} Bolt(s)
+30:{2d10} Bolt(s)
+34:{2d4} Bullet(s), Sling
+46:Dagger
+50:{3d4} Dart(s)
+54:Flail
+58:{1d2} Javelin(s)
+63:Knife
+66:Lance
+71:Mace
+74:Military Pick
+77:Morning Star
+80:Pole Arm
+83:Scimitar
+87:Spear
+92:Sword
+95:Trident
+98:Warhammer
+100:A23

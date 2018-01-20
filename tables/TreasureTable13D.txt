@@ -1,0 +1,12 @@
+1:bloodstone
+2:carnelian
+3:chalcedony
+4:chrysoprase
+5:citrine
+6:jasper
+7:moonstone
+8:onyx
+9:rock crystal
+10:sardonyx
+11:smokey quartz
+12:star rose quartz

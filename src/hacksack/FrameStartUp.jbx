@@ -1,0 +1,12 @@
+[PropertyInfo]
+border1,Border,false,false, , ,false,<default>
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+borderLayout2,BorderLayout,false,false, , ,false,<default>
+jPanel1,JPanel,false,false, , ,false,<default>
+jStartUpBar,JProgressBar,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

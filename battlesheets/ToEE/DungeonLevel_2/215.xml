@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='215. SALON'
+   jRoomDescPlayer='This place is swathed in rich green, even the ceiling being obscured by gossamer green hangings. Tapestries on the walls show scenes of undersea cruelty and death. A large bronze brazier stands in the middle of the floor, sending off curls of sweetish fishy-smelling smoke, flanked by hanging bronze lamps whichshed a green glow throughout the room.\n\nSix plush armchairs are here, each with a matching footstool and low &quot;table. On each table is a small decanter, a bowl of nuts and fruits, and a stemmed cup of serpentine. In the center of the west wall is a couch of green velvet piled with pillows.\n\nA round table before it holds an ivory tray, upon which are heaped many seashells. An armoire stands to each side of the west door. \n'
+   jRoomDescDM='This is the residence of the canon Belsornig, chief cleric of the nearby Water Temple, a vile person filled with hubris and wickedness.\n\nHe uses guile to dupe anyone, strikes whenever he has an advantage, and never admits anyone to be his better unless his life is at stake. He is set on becoming chief cleric of the whole Temple when it once more sets forth upon a course of open warfare against the land above.\n\nBelsornig is working to subvert the humanoids of the Air Temple while threatening their cleric (Kelno, in area 225) — not with harm from the Water Temple forces, but rather with the machinations of Alrrem and the Fire Temple. If captured and questioned, he reveals that a Greater Temple is two levels deeper, and guides adventurers to bring harm to its priests, as he sees an advantage therein. Of course, he bargains to have his own Water Temple spared, and never personally accompanies any expedition to the Greater Temple, except at swords&apos; point.\n\nBelsornig is exceptional, having 15 Strength ( + 1 damage bonus), 18 Dexterity (-4 AC bonus and two-handed combat ability), and 16 Wisdom ( + 2 saving throw bonus vs. mind attacks, and spell bonuses included below). In a critical melee he can use  a mace in his right hand and his rod of smiting (see below) in his left, thus attacking twice per round. He wears plate mail +1 and a ring of free action, but does not use a shield. If Belsornig hears fighting, he investigates carefully. If time permits, he places resist fire on himself before appearing, and may use prayer if his allies are engaged; he might prefer to silence an obviously dangerous spell caster. He knows, of course, that dispel magic can be quite useful against opponents obviously enjoying magical benefits.\n\nIf things look bad, he seeks shelter in the Water Temple (area 216). Rod of smiting: Note that this + 3 weapon (base damage 1d8) inflicts 8-22 points of damage to a golem (including a juggernaut). It has 14 charges left. Any hit on a golem drains a charge, and a &quot;to hit&quot; roll of 20 drains a charge but produces triple damage (or destroys the golem or juggernaut target, using a total of two charges for the blow).\n\nCanon Belsornig: AC -2 (plate mail +1), MV 12&quot;, Level 6 Cleric, hp 48, #AT 1 or 2, D 3-8 (mace) or 3-8/4-11 (mace and rod), SA rod and spells, SD ring of free action; XP 988 \nFirst level: command, cure light wounds, darkness, light, sanctuary\nSecond level: hold person (x2), know alignment, resist fire, silence 15&apos; radius\nThird level: dispel magic, prayer \n\nBelsornig wears a robe of plain green velvet, with a gold belt set with lapis and malachite (jewelry value 750 gp). In his purse hanging from this belt are 21 gp and 14 pp, along with an iron key upon which the word &quot;D&apos;LYSS&quot; is inscribed with runes. This word is the command to stop the juggernaut in area 213, and the key opens his personal chest. He wears a gold ring with a peridot bezel (jewelry value 1, 000 gp). \n\nThe ivory tray is worth 50 gp, but the seashells have no value. Each decanter, bowl, and stemmed cup is worth 2 gp. The hanging lamps contain cheap green quartz treated with continual light (worth 1 gp each for the gems, but each lamp worth 25 gp). The brass brazier is worth 30 gp.\n\nThe northern armoire contains a suit of plate mail, a shield, a mace, and a green cloak. The southern one holds various nondescript garments, plus a robe of watered green silk upon which a ten-armed octopoid creature, stitched in gold thread, writhes from back to front. Where the tentacles reach the breast is a gold circle set with 12 peridots — four small (each worth 100 gp), four medium-sized (each 500 gp), and four large (each 1, 000 gp). A hook on one side of the cabinet interior supports a censer of bronze, coated with verdigris. On the floor are 20 blocks of non-magical incense (each worth 10 gp).\n\nThe south door opens into another greencovered room, 10&apos; wide and 30&apos; long. It holds two chairs flanking a table with 32 gold dishes upon it (worth 1, 900 gp for all, total weight 800 gp). A desk stands near the table, and upon it are writing materials and a small tome. This volume deals with the secret rituals of Water Evil, but is of no value. A bookstand nearby holds six other similar works. At the south end of the chamber are a large bed, a small stand, and a locked bronze chest; a large mirror and a trident hang from the wall beside the bed.\n\nThe lock of the chest contains a poisoned needle trap. Inside are items of normal clothing, a coral box (worth 100 gp) which contains 100 tiny seed pearls (worth 10 gp each), and a cloak of the manta ray. The trident is a magical trident of yearning; in its handle are a huge aquamarine (worth 5, 000 gp) and a scroll of four cleric spells (purify food &amp; drink, flame strike, part water, control weather).\n'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='npc:Canon Belsornig cleric 6'
+   nAC='-2'
+   nACBase='-2'
+   jACMod='0'
+   jHitPointLabel='55'
+   jClassSelect='1'
+   nEXP='1200'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='55'
+   nLevel='6'
+   nToHitRank='5'
+   jNotePad=''
+   sDescription='Canon Belsornig: \nAC -2 (plate mail +1),MV 12&quot;, \nLevel 6 Cleric, \n#AT 1 or 2, D 3-8 (mace) or 3-8/4-11 (mace and rod), \n\nSA rod and spells, SD ring of free action\n\nFirst level: command, cure light wounds,darkness, light, sanctuary\n\nSecond level: hold person (x2), know alignment,resist fire, silence 15&apos; radius\n\nThird level: dispel magic, prayer\n\nBelsornig is exceptional, having 15 Strength ( + 1 damage bonus), 18 Dexterity\n(-4 AC bonus and two-handed combat ability), and 16 Wisdom ( + 2 saving throw\nbonus vs. mind attacks, and spell bonuses included below). In a critical melee he can use a mace in his right hand and his rod of smiting (see below) in his left, thus attacking twice per round. He wears plate mail +1 and a ring of free action, but does not use a shield. If Belsornig hears fighting, he investigates carefully. If time permits, he places resist fire on himself before appearing, and may use prayer if his allies are engaged; he might prefer to silence an obviously dangerous\nspell caster. He knows, of course, that dispel magic can be quite useful against\nopponents obviously enjoying magical benefits. If things look bad, he seeks shelter in the Water Temple (area 216). \n\nRod of smiting: Note that this + 3 weapon (base damage 1d8) inflicts 8-22 points of damage to a golem (including a juggernaut). It has 14 charges left. Any hit on a golem drains a charge, and a &quot;to hit&quot; roll of 20 drains a charge but produces triple damage (or destroys the golem or juggernaut target, using a total of two charges for the blow).\n\nBelsornig wears a robe of plain green velvet, with a gold belt set with lapis and malachite (jewelry value 750 gp). In his purse hanging from this belt are 21 gp and 14 pp, along with an iron key upon which the word &quot;D&apos;LYSS&quot; is inscribed with runes. This word is the command to stop the juggernaut in area 213, and the key opens his personal chest. He wears a gold ring with a peridot bezel (jewelry value 1, 000 gp)\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1561'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='6'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

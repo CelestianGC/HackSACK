@@ -1,0 +1,8 @@
+20:metal ring
+40:jeweled ring
+55:necklace
+70:brooch
+80:bracelet
+90:earrings
+95:collar
+100:ioun stone

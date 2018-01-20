@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>136. INNER CHAMBER</jName>
+      <jRoomDescPlayer>Two cressets illuminate this room. The area was once lavishly decorated. Two plush couches, a wardrobe, a small table with inlaid wood top, and two padded armchairs still remain. A large chest stands near the couch, by the eastern wall. On the table are a few dented pewter dishes and some food. An unlit candle in a wooden candlestick stands atop the wardrobe. \n</jRoomDescPlayer>
+      <jRoomDescDM>Encounters: The fifth level commander of this group and his third level lieutenant dwell here. They directly serve the priest of the Earth Temple. They hope to soon recruit sufficient forces to completely control this dungeon level, and plan to extend their sway lower. Any previous losses of troops, human or humanoid, will have resulted in threats of dire consequences from their priest, with the result that they will fight fearlessly. \n\nAdditonal Encounters: If they move to investigate battle sounds, these leaders do not bother the clerics to the north (area 137) unless the danger is obviously extreme.\n\nCommander: AC 2, MV 6&amp;quot;, Level 5 Fighter, hp 36, #AT 1, D 2-9 (battle axe +1); XP 310 \n\nLieutenant: AC 2, MV 6&amp;quot;, Level 3 Fighter, hp 29, #AT 1, D 1-8 (longsword), SA Strength 17 ( +1 &amp;quot;to hit&amp;quot;, + 1 damage); XP 122\n\nEach fighter wears a bronze ring, set with a triangular stone of jet (worth 50 gp). The commander wears a gold chain (worth 200 gp) under his armor, and carries 10-60 gp and 10-60 pp. The lieutenant carries 6-36 gp and 6-36 pp. The food on the table consists of a partial loaf of stale bread, a sausage, some fruit, and a small piece of cheese. The wardrobe contains clothing only, none of it worth any notable value. The lock on the chest is secured, and takes 35 points of damage to demolish. The chest holds clothing of no value, a quart of excellent brandy, a coil of normal rope (50&amp;apos;), and a potion of healing. \n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>npc:Guard Fighter 5</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>41</jHitPointLabel>
+    <jNotePad>battle axe +1</jNotePad>
+    <jClassSelect>0</jClassSelect>
+    <nCreatureID>1528</nCreatureID>
+    <nAC>4</nAC>
+    <nACBase>4</nACBase>
+    <nEXP>550</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>41</nHitPoints>
+    <nLevel>5</nLevel>
+    <nToHitRank>6</nToHitRank>
+    <sDescription>Description: \nchain mail &amp;amp; shield\nLevel 6 Fighter; \n#AT 1; D by weapon: each has battle axe (D 2d4), dagger (1-4), light crossbow and 30 quarrels (1-4)\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>1</jToHitMod>
+      <jTotalMod>1</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>npc:Guard Fighter 3</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>27</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>0</jClassSelect>
+    <nCreatureID>1519</nCreatureID>
+    <nAC>4</nAC>
+    <nACBase>4</nACBase>
+    <nEXP>150</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>27</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>Description: \nGuardsmen (6): AC 5 (chain mail &amp;amp; shield);\nLevel 1 Fighters; \nMV9&amp;quot;\n#AT 1; D by weapon: each has longsword (D 1-8), dagger (1-4), light crossbow and 30 quarrels (1-4)\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

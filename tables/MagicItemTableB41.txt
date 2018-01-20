@@ -1,0 +1,4 @@
+30:15 lbs bag, 400 lbs limit, 50 cu.ft.
+70:30 lbs bag, 800 lbs limit, 100 cu.ft.
+90:45 lbs bag, 1600 lbs limit, 200 cu.ft.
+100:60 lbs bag, 3200 lbs limit, 400 cu.ft.

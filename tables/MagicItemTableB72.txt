@@ -1,0 +1,6 @@
+30:hill str 19, +3 hit, +7 damage, open 15(8)
+50:stone str 20, +3 hit, +8 damage, open 17(10)
+70:frost str 21, +4 hit, +9 damage, open 17(12)
+85:fire str 22, +4 hit, +10 damage, open 18(14)
+95:cloud str 23, +5 hit, +11 damage, open 18(16)
+100:storm str 24, +6 hit, +12 damage, open 19(17)

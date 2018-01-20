@@ -1,0 +1,6 @@
+30:hill giant (str 19)
+50:stone giant (str 20)
+70:frost giant (str 21)
+85:fire giant (str 22)
+95:cloud giant (str 23)
+100:storm giant (str 24)

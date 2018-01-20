@@ -1,0 +1,5 @@
+40:human or half-elf
+70:elf
+85:dwarf,gnome titan, gnome
+95:gnomeling or halfling
+100:pixie fairy

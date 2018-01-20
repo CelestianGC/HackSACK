@@ -1,0 +1,23 @@
+4:Brazier of Commanding Fire Elementals (M):2000:25000:246
+9:Brazier of Sleep Smoke (M):1000:10000:246
+13:Broom of Animated Attack:1000:10000:246
+17:Broom of Flying:2000:20000:246
+20:Carpet of Flying:3500:45000:247
+24:Hoe, +5:1500:20000:256
+28:Mattock of the Titans (F):2500:30000:259
+32:Maul of the Titans (F):2000:35000:259
+37:Mirror of Life Trapping (M):1500:20000:259
+40:Mirror of Mental Prowess:3000:40000:259
+44:Mirror of Opposition:1500:20000:260
+52:Murgain's Spoon:750:1500:260
+57:Pick Axe of Breaching:2000:20000:261
+61:Pick Axe of Tunnel-Ease:3000:25000:261
+69:Rope of Climbing:1000:5000:263
+74:Rope of Constriction:1500:5000:263
+79:Rope of Entaglement:1500:5000:264
+84:Rug of Smothering:2500:20000:264
+86:Rug of Welcome (M):1500:35000:264
+90:Saw of Mighty Cutting (F):2000:20000:264
+96:Spade of Colossal Excavation (F):1000:15000:265
+98:Tapestry of Dream Catching:3000:40000:266
+100:GM's Choice:0:0:0

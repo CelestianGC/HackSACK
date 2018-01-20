@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='4. TOWER'
+   jRoomDescPlayer='The upper portion of the tower has collapsed, and the interior is dark.\n'
+   jRoomDescDM='Even if an arrow slit is peered through, infravision will reveal nothing. The occupant lurks above. A scattering of husks and a few bones lie on the floor, possibly giving warning to the wary, but the gleam of coins therein may tempt investigation. \n\nA great wolf spider is crouched on the remains of an upper floor some 15 feet overhead. It leaps (range 3 &quot;) and bites as soon as anyone steps into the tower. It gains surprise on a roll of 1-5 (1d6). \n\nAmidst the rubbish are 71 cp and 38 sp, and an ivory box about the size of a large book (easily worth 50 gp or more to the right buyer).\n\nHuge spider (1): AC 6; HD 2 + 2; hp 14; MV 18&quot;; #AT 1; D 1-6 + poison ( + 1 bonus to saving throw); XP 187\n'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='Spider, Huge'
+   nAC='6'
+   nACBase='6'
+   jACMod='0'
+   jHitPointLabel='34'
+   jClassSelect='4'
+   nEXP='270'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='34'
+   nLevel='2'
+   nToHitRank='0'
+   jNotePad=''
+   sDescription='Suprise 1-8 on d10.\n\nBite is class B poison with +1 to save.'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   sHOBLocation='Unknown.'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1191'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='6'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

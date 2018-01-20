@@ -1,0 +1,25 @@
+1:-5:25%:30%:-2:+30%:Nil / 1 HP every 2 weeks
+2:-4:30%:35%:-1:+25%:Nil / 1 HP every week
+3:-4:35%:40%:0:+20%:Nil / 1 HP every 2 days
+4:-3:40%:45%:0:+15%:Nil / 1 HP every 2 days
+5:-3:45%:50%:0:+10%:Nil / 1 HP every 2 days
+6:-2:50%:55%:0:+5%:Nil / 1 HP every 2 days
+7:-2:55%:60%:0:0:Nil / 1 HP every day
+8:-1:60%:65%:0:-5%:Nil / 1 HP every day
+9:-1:65%:70%:0:-10%:Nil / 1 HP every day
+10:0:70%:75%:0:-20%:Nil / 1 HP every day
+11:0:75%:80%:0:-25%:Nil / 1 HP every day
+12:+1:80%:85%:0:-30%:Nil / 1 HP every day
+13:+1:85%:90%:0:-35%:Nil / 1 HP every day
+14:+2:88%:92%:0:-40%:Nil / 1 HP every day
+15:+2:90%:94%:0:-45%:Nil / 1 HP every day
+16:+3:95%:96%:0:-50%:Nil / 1 HP every day
+17:+3:97%:98%:0:-55%:Nil / 1 HP every day
+18:+4:99%:100%:0:-60%:Nil / 1 HP every 18 hours
+19:+4:99%:100%:+1:-65%:1 HP every 12 hours
+20:+5:99%:100%:+1:-70%:1 HP/6 turns
+21:+5:99%:100%:+2:-75%:1 HP/5 turns
+22:+6:99%:100%:+2:-85%:1 HP/4 turns
+23:+6:99%:100%:+3:-90%:1 HP/3 turns
+24:+7:99%:100%:+3:-95%:1 HP/2 turns
+25:+7:100%:100%:+4:-99%:1 HP/1 turn

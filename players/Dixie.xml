@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayerFile JDOM="10b">
+  <Player>
+    <sPlayerName>Alan</sPlayerName>
+    <sCharacter>Dixie</sCharacter>
+    <sRace>grey elf</sRace>
+    <lPlayerID>1076193174828</lPlayerID>
+    <jAbsent>false</jAbsent>
+    <jHireling>false</jHireling>
+    <sFamilyClan />
+    <sHomeland />
+    <sGawd />
+    <sPatron />
+    <sAppearance />
+    <sBirthDate />
+    <sFamilyHistory />
+    <sHairColour>gold</sHairColour>
+    <sEyeColour>violet</sEyeColour>
+    <sSpecialAbilities />
+    <sMiscInfo />
+    <jPlayerLog>*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating missed Dixie.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating missed Dixie.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 hit Dixie for 4 damage in the (left) armpit.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 missed Dixie.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 missed Dixie.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 missed Dixie.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 hit Dixie for 20 damage in the (left) thigh.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 missed Dixie.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 hit Dixie for 14 damage in the (right) chest.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Critically hit by Zombie, Brain-Eating#1 in the foot,top(right) at a severity level of 7 with BSL 8 and rolled severity of -1\nExtra Damage:+6\nBroken Bone:tarsus\nMovement Reduction:75% for 1 day, 50% for 4 months\nHas a permanent scar.\nCan no longer perform follow through damage\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Zombie, Brain-Eating#1 hit Dixie for 4 damage in the (right) armpit.\n</jPlayerLog>
+    <nBirthRank>0</nBirthRank>
+    <nAge>132</nAge>
+    <nHeight>60</nHeight>
+    <nWeight>89</nWeight>
+    <nSocialClassIndex>6</nSocialClassIndex>
+    <nNumberSiblings>0</nNumberSiblings>
+    <nHandIndex>2</nHandIndex>
+    <nAlignementIndex>6</nAlignementIndex>
+    <nSexIndex>1</nSexIndex>
+    <nAIP>0</nAIP>
+    <jSizeComboBox>2</jSizeComboBox>
+    <jHealthMax>37</jHealthMax>
+    <jHealthLabel>37</jHealthLabel>
+    <jMove>12</jMove>
+    <jHonor>17</jHonor>
+    <nTemporalHonor>0</nTemporalHonor>
+    <AC>
+      <AC_NORMAL>4</AC_NORMAL>
+      <AC_REAR>6</AC_REAR>
+      <AC_SHIELDLESS>5</AC_SHIELDLESS>
+      <AC_SUPRISED>8</AC_SUPRISED>
+    </AC>
+    <Abilities>
+      <Ability>
+        <sName>Strength</sName>
+        <jAdjScore>14</jAdjScore>
+        <jAdjPercent>68</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Dexterity</sName>
+        <jAdjScore>16</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Constitution</sName>
+        <jAdjScore>14</jAdjScore>
+        <jAdjPercent>90</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Intelligence</sName>
+        <jAdjScore>14</jAdjScore>
+        <jAdjPercent>61</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Wisdom</sName>
+        <jAdjScore>15</jAdjScore>
+        <jAdjPercent>13</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Charisma</sName>
+        <jAdjScore>13</jAdjScore>
+        <jAdjPercent>18</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Comeliness</sName>
+        <jAdjScore>16</jAdjScore>
+        <jAdjPercent>51</jAdjPercent>
+      </Ability>
+    </Abilities>
+    <Classes>
+      <Class>
+        <sName>Ranger</sName>
+        <nClassID>8</nClassID>
+        <nSaveAs>0</nSaveAs>
+        <nFightAs>0</nFightAs>
+        <jLevel>1</jLevel>
+        <jEXP>0</jEXP>
+        <jEXPBonus>0</jEXPBonus>
+      </Class>
+    </Classes>
+    <SavingThrows>
+      <Save>
+        <sName>Paralyzation, Poison, Death Magic</sName>
+        <nSaveType>0</nSaveType>
+        <nBaseSave>15</nBaseSave>
+        <jSave>15</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Rod, Staff, Wand</sName>
+        <nSaveType>1</nSaveType>
+        <nBaseSave>17</nBaseSave>
+        <jSave>17</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Petrifaction, HackFrenzy, HackLust, PolyMorph</sName>
+        <nSaveType>2</nSaveType>
+        <nBaseSave>16</nBaseSave>
+        <jSave>16</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Breath Weapon</sName>
+        <nSaveType>3</nSaveType>
+        <nBaseSave>19</nBaseSave>
+        <jSave>19</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Apology</sName>
+        <nSaveType>4</nSaveType>
+        <nBaseSave>18</nBaseSave>
+        <jSave>18</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Spells</sName>
+        <nSaveType>5</nSaveType>
+        <nBaseSave>18</nBaseSave>
+        <jSave>18</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+    </SavingThrows>
+    <Coins>
+      <Coin>
+        <sName>Copper</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Silver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Electrum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Gold</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Hardsilver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Platinum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+    </Coins>
+    <Inventory />
+    <Skills />
+    <Quirks>
+      <Quirk>
+        <sName>minor mental:stutter</sName>
+        <sDesc>look up description and update</sDesc>
+        <nQuirkID>5</nQuirkID>
+      </Quirk>
+    </Quirks>
+  </Player>
+</PlayerFile>
+

@@ -1,0 +1,5 @@
+60:type I
+75:type II
+85:type III
+95:type IV
+100:type V

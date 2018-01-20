@@ -1,0 +1,6 @@
+6:hill (wt 200,dam +7,hurl rock 80yd, base dam 1-6, Bend Bars 50%)
+10:stone (wt 400,dam +8,hurl rock 160yd, base dam 1-8, Bend Bars 60%)
+14:frost (wt 600,dam +9,hurl rock 100yd, base dam 1-8, Bend Bars 70%)
+17:fire (wt 800,dam +10,hurl rock 120yd, base dam 1-8, Bend Bars 80%)
+19:cloud (wt 1000,dam +11,hurl rock 140yd, base dam 1-10, Bend Bars 90%)
+20:storm (wt 1200,dam +12,hurl rock 160yd, base dam 1-10, Bend Bars 97%)

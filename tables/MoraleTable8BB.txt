@@ -1,0 +1,5 @@
+15:fall back, fighting
+30:disengage-retreat
+50:flee in panic (run like a sissy)
+51:surrender (beg for mercy, yeah right!)
+1000:surrender (beg for mercy, yeah right!)

@@ -1,0 +1,127 @@
+0:Would have hit, but slips away at last moment
+6:Would have hit, but slips away at last moment
+12:Slaps/Claws/bites self - looks funny
+25:off-balance; initiative + 1 on next round
+37:off-balance;initiative +{1d3} on next round
+48:bites inside of cheek; initiative +{1d4} on next round
+56:Overextended thrust; initiative +{1d6} on next round
+62:Severly off-balanced; Lose next attack
+75:off-balance; -1 to-hit, 1 round
+86:overextended; -1 to-hit, {1d4} rounds
+96:strain limb; -1 to-hit, {1d8} rounds
+106:pull muscle; -1 to-hit, 1 turn
+114:bad pull; -1 to-hit, {1d6} minutes
+124:off-balance; -2 to hit, 1 round
+133:overextended; -2 to-hit, {1d4} rounds
+142:strain limb; -2 to-hit, {1d8} rounds
+151:pull muscle; -2 to-hit, 1 turn
+158:bad pull; -2 to-hit, {1d6} minutes
+166:off-balance; -3 to hit, 1 round
+174:overextended; -3 to-hit, {1d4} rounds
+182:strain limb; -3 to-hit, {1d8} rounds
+190:pull muscle; -3 to-hit, 1 turn
+198:bad pull; -3 to-hit, {1d6} minutes
+205:off-balance; -4 to hit, 1 round
+215:overextended; -4 to-hit, {1d4} rounds
+222:strain limb; -4 to-hit, {1d8} rounds
+229:pull muscle; -4 to-hit, 1 turn
+235:bad pull; -4 to-hit, {1d6} minutes
+240:broken pinky (or similar limb); -5 to hit, {1d4} rounds
+244:broken finger(or similar limb); -5 to-hit, 1 turn
+251:pull leg (or similar limb); move -1", 1 turn
+257:pull leg (or similar limb); move -1", 1 day
+262:sprain leg (or similar limb); move -1", 1 week
+269:pull leg (or similar limb); move -2", 1 turn
+275:pull leg (or similar limb); move -2", 1 day
+280:sprain leg (or similar limb); move -2", 1 week
+286:hyperextention; move -3", 1 turn
+292:hyperextention; move -3", 1 day
+297:bad sprain; move -3", 1 week
+308:bad leg(or similar limb) cramp; move x2/3, 1 day
+312:strain limb; move x2/3, 1 week
+317:severe leg crap; move 1/2, 1 turn
+322:severe strain; move x1/2, 1 day
+326:severe leg crap; move x1/2, 1 turn / saves at -3 for 1 turn
+330:severe strain; move x1/2, 1 day / saves at -3 for 1 day
+335:very bad pull; move x1/3, 1 turn
+340:twisted ankle;move x1/3,1 day
+344:very bad pull; move x1/3, 1 day / saves at -3 for 1 day
+348:bad pull; move x1/4, 1 turn
+352:pull; move x1/4, 1 day / saves -3 for 1 day
+356:bad pull; move x1/4, 1 day / saves t -3 for 1 day / immediate morale check if npc
+371:off-balance; opponent at +1 to-hit next attack
+383:breaks tooth; opponent gains +1 to-hit for 1 round
+392:severely off-balanced; opponent gains +1 to-hit for 2 rounds
+400:severely off-balanced; opponent gains +1 to-hit for {1d6} rounds
+409:off-balanced; opponent gains +2 to-hit for 1 round
+426:severely off-balanced; opponent gains +2 to-hit for 2 rounds
+434:severely off-balanced; opponent at +2 to-hit for {1d6} rounds
+442:off-balanced; opponent gains +3 to-hit next attack
+449:off-balanced; opponent gains +3 to-hit for 1 round
+455:severely off-balanced; opponent gains +3 to-hit for 2 rounds
+461:severely off-balanced; opponent gains +3 to-hit for {1d6} rounds
+466:falls towards opponent's weapon; opponent gains +4 to-hit next attack
+471:slip badly; opponent gains +4 to-hit for 1 round
+481:overextended; saves at -1 for 1 round
+490:accidentally swallowed dust, insect or tooth;saves at -1 for {1d4} rounds
+498:overextended; saves at -1 for 1 turn
+504:overextended; saves at -2 for 1 round
+510:overextended; saves at -2 for {1d4} rounds
+516:overextended; saves at -2 for 1 turn
+521:whiplash; saves at -3 for 1 round
+526:severe dizziness; saves at -3 for {1d4} rounds / if npc immediate morale check
+531:back strain; saves at -3 for 1 turn / if npc immediate morale check
+545:may hit self, roll attack normally
+558:damage to self, 1 point
+570:damage to self, {1d4}-2 points
+580:damage to self, {1d4}-1 points
+594:damage to self, {1d4} points
+604:damage to self, {1d6} points
+622:damage to self, normal damage
+632:damage to self, {1d8} points
+640:damage to self, 1d10 points
+645:damage to self, {2d6} points / if npc immediate morale check
+664:may hit ally, roll attack normally
+679:hit ally, 1 point or hit self, 1% chance of paralyzing self
+693:hit ally, {1d4}-2 points or hit self, 2% chance of paralyzing self
+704:hit ally, {1d4}-1 points or hit self, 2% chance of paralyzing self
+718:hit ally, {1d4} points or hit self, 3% change of paralyzing self
+731:hit ally, {1d6} points or hit self, 4% change of paralyzing self
+749:hit ally, normal damage or hit self, 5% change of paralyzing self
+759:hit ally, {1d8} points or hit self, 8% change of paralyzing self
+767:hit ally, 1d10 points or hit self, 10% change of paralyzing self
+772:hit ally, {2d6} points or hit self, 10% change of paralyzing self
+782:bad muscle pull;move -1", 1 day / saves at -1 for 1 day / opponent gains +1 to-hit for {1d4} rounds
+796:off-balance; opponent gains +1 to-hit next attack / initiative +1 on next round
+807:off-balance; opponent gains +1 to-hit for 1 round / initiative +1 on next round
+826:severely off-balanced; opponent gains +1 to-hit for {1d6} rounds / initiative +{1d3} on next round
+834:off-balanced; opponent gains +2 to-hit next attack / initiative +1 on next round
+842:off-balanced; opponent gains +2 to-hit for 1 round / initiative +{1d3} on next round
+850:severely off-balanced; opponent gains +2 to-hit for 2 rounds / initiative +!d3 on next round
+858:severely off-balanced; opponent gains +2 to-hit for {1d6} rounds / initiative +{1d3} on next round
+865:off-balanced;opponent gains +3 to-hit next attack / initiative +{1d3} on next round
+872:off-balanced; opponent gains +3 to-hit for 1 round / initiative +{1d3} on next round
+879:severely off-balanced;opponent gains +3 to-hit for 2 rounds / initiative +{1d4} on next round
+884:severely off-balanced;opponent gains +3 to-hit for {1d6} rounds / initiative +{1d4} on next round
+889:falls towards opponent's weapon;opponent gains +4 to-hit for attack / initiative +{1d4} on next round
+896:slip badly;opponent gains +4 to-hit for 1 round / initiative +{1d6} on next round
+903:pull leg (or similar limb);move -1" for 1 turn / saves at -1
+908:sprain leg (or similar limb);move -1" for 1 day / saves at -1
+916:internal bleeding;move -2" for 1 turn / saves at -2
+922:pull leg (or similar limb);move -2" for 1 day / saves at -2
+926:sprain leg (or similar limb);move -2" for {1d3} days / saves at -2 / if npc immediate morale check
+932:hyperextension;move -3" for 1 turn / saves at -3 
+936:bad sprain; move -3" for 1 day / saves at -3 / if npc immediate morale check
+941:leg cramp (or similar limb); move x2/3 for 1 turn / saves at -3
+945:bad leg crap (or similar limb); movex2/3 for 1 day / saves at -3
+948:muscle tear; move x1/2 for 1 week / sufferes 1 point of damage /-2 to-hit / save at -1 for {1d3} days / if npc immediate morale check
+951:hairline bone fracture; move x1/2 for 1 month / sufferes 1 point of damage / save at -1 / opponents gain +2 t hit for 1d12 hours
+956:simple bone fracture; move x1/3, for one month / suffers 1 point of damage / -1 to-hit for 1 week
+960:severe strain; move x1/3 for 1 turn / saves -3 / if npc immediate morale check
+964:tear muscle badly; move x1/4 for 1 day / suffers 1 point of damage / -4 to-hit / save at -2 for 1 day
+968:compound leg fracture; move x1/4 for 1 week, suffers {1d4} points of damage / save at -1 / -2 to-hit / opponents gain +2 to-hit for {1d3} days / if npc immediate morale check
+974:hinder ally; ally at -2 to-hit for {1d4} rounds / allay at +{1d4} initiative next round
+983:slip, opponent gains +2 to-hit next attack, must save vs breath weapon or fall prone
+988:fall prone
+997:slams head into floor, must save vs breath weapon or fall unconscious for {2d6} minutes / if npc immediate morale check (if conscious)
+1000:knocks self unconscious

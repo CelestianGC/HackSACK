@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1076205302126'
+   sPlayerName='Alan'
+   sCharacter='Dick'
+   sFamilyClan=''
+   sHomeland=''
+   sGawd=''
+   sPatron=''
+   sAppearance=''
+   sBirthDate=''
+   sFamilyHistory=''
+   sHairColour=''
+   sEyeColour=''
+   sSpecialAbilities=''
+   sMiscInfo=''
+   sRace='human'
+   jPlayerLog='*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 hit Dick for 1 damage in the (right) forearm, back.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (right) thigh.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 hit Dick for 1 damage in the (left) wrist, back.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (left) shin.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 hit Dick for 2 damage in the (left) thigh.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Critically hit by Ghoul, Common#4 in the side, lower(right) at a severity level of 18 with BSL 6 and rolled severity of 12\nTo Hit Reduction:-3\nFall:Fall down prone\nMuscle Tear:obliquus internus abdominis causing bleed to death in Con/2 rounds\nStrength Reduction:-3\nVital Organ Damage:crushed (59) 1-50=spleen or 51=100=liver no additional effects,drop all carried weapons or items unless check against 1/2 strength-10;Internal Bleeding 1d4 damage a hour;con check or system shock \nAdditional Damage Dice:3\nHas a permanent scar.\nCan no longer perform follow through damage,criticals or penetration damage\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (right) shin.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Critically hit by Ghoul, Common#3 in the abdomen, lower(right) at a severity level of 12 with BSL 6 and rolled severity of 6\nFall:Fall down prone\nInternal Bleeding:1d4 damage a hour;con check or system shock\nMuscle Tear:aponeurosis of obliquus externus abdominis causing bleed to death in Con/2 rounds\nStrength Reduction:-3\nWeapon Drop:drop all carried weapons or items\nAdditional Damage Dice:3\nHas a permanent scar.\nCan no longer perform follow through damage or criticals \n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (left) shoulder, side.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Critically hit by Ghoul, Common#3 in the shin(left) at a severity level of 12 with BSL 6 and rolled severity of 6\nDexterity Reduction:-2\nFall:Fall down prone\nMovement Reduction:75% for 1 day, 50% for 3 months\nAdditional Damage Dice:2\nHas a permanent scar.\nCan no longer perform follow through damage or criticals \n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 7 damage in the (left) shin.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Critically hit by Ghoul, Common#3 in the thigh(right) at a severity level of 11 with BSL 6 and rolled severity of 5\nDexterity Reduction:-2\nFall:Fall down prone\nMovement Reduction:75% for 6 hours, 50% for 20 days\nAdditional Damage Dice:2\nHas a permanent scar.\nCan no longer perform follow through damage or criticals \n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (right) forearm, back.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 3 damage in the (left) shin.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (left) shoulder, top.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 4 damage in the (left) shoulder, top.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 hit Dick for 1 damage in the (right) hip.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Critically hit by Ghoul, Common#3 in the shin(left) at a severity level of 13 with BSL 6 and rolled severity of 7\nDexterity Reduction:-2\nFall:Fall down prone\nMovement Reduction:50% move for 5 hours\nAdditional Damage Dice:2\nHas a permanent scar.\nCan no longer perform follow through damage or criticals \n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#3 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 hit Dick for 1 damage in the (left) shin.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 hit Dick for 1 damage in the (left) shin.\n*Saturday, February 7, 2004 GameDate: GYear:560 GMonth:1 GDay:4:Ghoul, Common#4 missed Dick.\n'
+   nBirthRank='0'
+   nAge='24'
+   nHeight='72'
+   nWeight='171'
+   nSocialClassIndex='6'
+   nNumberSiblings='0'
+   nHandIndex='1'
+   nAlignementIndex='0'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='2'
+   AC_NORMAL='2'
+   AC_REAR='5'
+   AC_SHIELDLESS='5'
+   AC_SUPRISED='5'
+   jHealthMax='46'
+   jHealthLabel='46'
+   jMove='9'
+   jHonor='25'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='1'
+         jAdjPercent='1'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Paladin'
+         nClassindex='7'
+         nClassID='7'
+         nSaveAs='0'
+         nFightAs='0'
+         jLevel='3'
+         jEXP='5501'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='13'
+         jSave='13'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='17'
+         jSave='17'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='17'
+         jSave='17'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='16'
+         jSave='16'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+  </Player>
+</PlayerFile>

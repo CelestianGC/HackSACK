@@ -1,0 +1,5 @@
+5:nonstandard*
+45:300 lbs limit:40 cu.ft.
+75:600 lbs limit:80 cu.ft.
+95:1200 lbs limit:160 cu.ft.
+100:2400 lbs limit:320 cu.ft

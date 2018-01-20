@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassList>
+  <nMaxID>1497</nMaxID>
+  <Class>
+    <sName>Barbarian</sName>
+    <sDesc>Barbarian Class</sDesc>
+    <nFightAs>0</nFightAs>
+    <nSaveAs>0</nSaveAs>
+    <nClassID>6</nClassID>
+  </Class>
+  <Class>
+    <sName>Battle Mage</sName>
+    <sDesc>Imported Class from HMTK\n</sDesc>
+    <nFightAs>3</nFightAs>
+    <nSaveAs>3</nSaveAs>
+    <nClassID>18</nClassID>
+  </Class>
+  <Class>
+    <sName>Cleric</sName>
+    <sDesc>Cleric Class</sDesc>
+    <nFightAs>1</nFightAs>
+    <nSaveAs>1</nSaveAs>
+    <nClassID>1</nClassID>
+  </Class>
+  <Class>
+    <sName>Fighter</sName>
+    <sDesc>Fighter class</sDesc>
+    <nFightAs>0</nFightAs>
+    <nSaveAs>0</nSaveAs>
+    <nClassID>0</nClassID>
+  </Class>
+  <Class>
+    <sName>Illusionist</sName>
+    <sDesc>Illusionist specialist Class</sDesc>
+    <nFightAs>3</nFightAs>
+    <nSaveAs>3</nSaveAs>
+    <nClassID>10</nClassID>
+  </Class>
+  <Class>
+    <sName>Magic-User</sName>
+    <sDesc>Magic-user Class</sDesc>
+    <nFightAs>3</nFightAs>
+    <nSaveAs>3</nSaveAs>
+    <nClassID>3</nClassID>
+  </Class>
+  <Class>
+    <sName>Monk</sName>
+    <sDesc>Monk Class</sDesc>
+    <nFightAs>0</nFightAs>
+    <nSaveAs>0</nSaveAs>
+    <nClassID>4</nClassID>
+  </Class>
+  <Class>
+    <sName>Paladin</sName>
+    <sDesc>The Paladin Class</sDesc>
+    <nFightAs>0</nFightAs>
+    <nSaveAs>0</nSaveAs>
+    <nClassID>7</nClassID>
+  </Class>
+  <Class>
+    <sName>Ranger</sName>
+    <sDesc>Ranger class</sDesc>
+    <nFightAs>0</nFightAs>
+    <nSaveAs>0</nSaveAs>
+    <nClassID>8</nClassID>
+  </Class>
+  <Class>
+    <sName>Swashbuckler</sName>
+    <sDesc>Imported Class from HMTK\nSwashbuckler</sDesc>
+    <nFightAs>0</nFightAs>
+    <nSaveAs>0</nSaveAs>
+    <nClassID>19</nClassID>
+  </Class>
+  <Class>
+    <sName>Thief</sName>
+    <sDesc>Theif class</sDesc>
+    <nFightAs>2</nFightAs>
+    <nSaveAs>2</nSaveAs>
+    <nClassID>2</nClassID>
+  </Class>
+</ClassList>
+

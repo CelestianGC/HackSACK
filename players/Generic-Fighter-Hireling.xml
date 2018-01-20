@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayerFile JDOM="10b">
+  <Player>
+    <sPlayerName>Celestian</sPlayerName>
+    <sCharacter>Simple Fighter</sCharacter>
+    <sRace>Human</sRace>
+    <lPlayerID>1090965214906</lPlayerID>
+    <jAbsent>false</jAbsent>
+    <jHireling>false</jHireling>
+    <sFamilyClan>null</sFamilyClan>
+    <sHomeland>null</sHomeland>
+    <sGawd />
+    <sPatron>null</sPatron>
+    <sAppearance>null</sAppearance>
+    <sBirthDate>null</sBirthDate>
+    <sFamilyHistory>null</sFamilyHistory>
+    <sHairColour>null</sHairColour>
+    <sEyeColour>null</sEyeColour>
+    <sSpecialAbilities>null</sSpecialAbilities>
+    <sMiscInfo>null</sMiscInfo>
+    <jPlayerLog />
+    <nBirthRank>0</nBirthRank>
+    <nAge>20</nAge>
+    <nHeight>71</nHeight>
+    <nWeight>0</nWeight>
+    <nSocialClassIndex>0</nSocialClassIndex>
+    <nNumberSiblings>0</nNumberSiblings>
+    <nHandIndex>1</nHandIndex>
+    <nAlignementIndex>1</nAlignementIndex>
+    <nSexIndex>0</nSexIndex>
+    <nAIP>0</nAIP>
+    <jSizeComboBox>2</jSizeComboBox>
+    <jHealthMax>28</jHealthMax>
+    <jHealthLabel>28</jHealthLabel>
+    <jMove>12</jMove>
+    <jHonor>15</jHonor>
+    <nTemporalHonor>0</nTemporalHonor>
+    <AC>
+      <AC_NORMAL>10</AC_NORMAL>
+      <AC_REAR>10</AC_REAR>
+      <AC_SHIELDLESS>10</AC_SHIELDLESS>
+      <AC_SUPRISED>10</AC_SUPRISED>
+    </AC>
+    <Abilities>
+      <Ability>
+        <sName>Strength</sName>
+        <jAdjScore>11</jAdjScore>
+        <jAdjPercent>1</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Dexterity</sName>
+        <jAdjScore>10</jAdjScore>
+        <jAdjPercent>9</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Constitution</sName>
+        <jAdjScore>12</jAdjScore>
+        <jAdjPercent>61</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Intelligence</sName>
+        <jAdjScore>13</jAdjScore>
+        <jAdjPercent>78</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Wisdom</sName>
+        <jAdjScore>11</jAdjScore>
+        <jAdjPercent>18</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Charisma</sName>
+        <jAdjScore>13</jAdjScore>
+        <jAdjPercent>35</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Comeliness</sName>
+        <jAdjScore>10</jAdjScore>
+        <jAdjPercent>96</jAdjPercent>
+      </Ability>
+    </Abilities>
+    <Classes>
+      <Class>
+        <sName>Fighter</sName>
+        <nClassID>0</nClassID>
+        <nSaveAs>0</nSaveAs>
+        <nFightAs>0</nFightAs>
+        <jLevel>1</jLevel>
+        <jEXP>0</jEXP>
+        <jEXPBonus>0</jEXPBonus>
+      </Class>
+    </Classes>
+    <SavingThrows>
+      <Save>
+        <sName>Paralyzation, Poison, Death Magic</sName>
+        <nSaveType>0</nSaveType>
+        <nBaseSave>15</nBaseSave>
+        <jSave>15</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Rod, Staff, Wand</sName>
+        <nSaveType>1</nSaveType>
+        <nBaseSave>17</nBaseSave>
+        <jSave>17</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Petrifaction, HackFrenzy, HackLust, PolyMorph</sName>
+        <nSaveType>2</nSaveType>
+        <nBaseSave>16</nBaseSave>
+        <jSave>16</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Breath Weapon</sName>
+        <nSaveType>3</nSaveType>
+        <nBaseSave>19</nBaseSave>
+        <jSave>19</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Apology</sName>
+        <nSaveType>4</nSaveType>
+        <nBaseSave>18</nBaseSave>
+        <jSave>18</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Spells</sName>
+        <nSaveType>5</nSaveType>
+        <nBaseSave>18</nBaseSave>
+        <jSave>18</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+    </SavingThrows>
+    <Coins>
+      <Coin>
+        <sName>Copper</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Silver</sName>
+        <jCount>4</jCount>
+        <jMod>4</jMod>
+      </Coin>
+      <Coin>
+        <sName>Electrum</sName>
+        <jCount>1</jCount>
+        <jMod>1</jMod>
+      </Coin>
+      <Coin>
+        <sName>Gold</sName>
+        <jCount>5</jCount>
+        <jMod>5</jMod>
+      </Coin>
+      <Coin>
+        <sName>Hardsilver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Platinum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+    </Coins>
+    <Inventory>
+      <Gear>
+        <sName>Clothing:Belt (M)</sName>
+        <sDesc>Item created by import.\nClothing:Belt (M)</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>132</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>Clothing:Boots, Soft (M)</sName>
+        <sDesc>Item created by import.\nClothing:Boots, Soft (M)</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>2.0</dWeight>
+        <nGearID>166</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>Clothing:Breeches (M)</sName>
+        <sDesc>Item created by import.\nClothing:Breeches (M)</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>133</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>Clothing:Sword scabbard, hanger, baldric (M)</sName>
+        <sDesc>Item created by import.\nClothing:Sword scabbard, hanger, baldric (M)</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>159</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>Clothing:Tunic (M)</sName>
+        <sDesc>Item created by import.\nClothing:Tunic (M)</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>138</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>Armor and Related Items:Shield, Buckler</sName>
+        <sDesc>Item created by import.\nArmor and Related Items:Shield, Buckler</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>554</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>Weapons:Long sword</sName>
+        <sDesc>Item created by import.\nWeapons:Long sword</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>4.0</dWeight>
+        <nGearID>526</nGearID>
+        <sItemType />
+      </Gear>
+    </Inventory>
+    <Skills>
+      <Skill>
+        <sName>Human:Can rise to any level in chosen class.</sName>
+        <sDesc />
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>292</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Human:Can choose any character class.</sName>
+        <sDesc />
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>293</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Human:Must be purchased.</sName>
+        <sDesc />
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>294</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Crossbow: Heavy</sName>
+        <sDesc>Skill created by import.\nCrossbow: Heavy</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>389</nSkillID>
+        <nSkillType>2</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Sword: Long</sName>
+        <sDesc>Skill created by import.\nSword: Long</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>357</nSkillID>
+        <nSkillType>2</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Warhammer</sName>
+        <sDesc>Skill created by import.\nWarhammer</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>345</nSkillID>
+        <nSkillType>2</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Acute (high) Alertness</sName>
+        <sDesc>Skill created by import.\nAcute (high) Alertness</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>300</nSkillID>
+        <nSkillType>1</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Endurance</sName>
+        <sDesc>Skill created by import.\nEndurance</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>346</nSkillID>
+        <nSkillType>1</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Armor Maintenance</sName>
+        <sDesc>Skill created by import.\nArmor Maintenance</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>347</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Weapon Maintenance</sName>
+        <sDesc>Skill created by import.\nWeapon Maintenance</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>348</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Animal Handling</sName>
+        <sDesc>Skill created by import.\nAnimal Handling</sDesc>
+        <jSkillSpinner>21</jSkillSpinner>
+        <nSkillID>408</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Carpentry</sName>
+        <sDesc>Skill created by import.\nCarpentry</sDesc>
+        <jSkillSpinner>21</jSkillSpinner>
+        <nSkillID>450</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Charioteering</sName>
+        <sDesc>Skill created by import.\nCharioteering</sDesc>
+        <jSkillSpinner>21</jSkillSpinner>
+        <nSkillID>451</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Complex Geometric Estimation</sName>
+        <sDesc>Skill created by import.\nComplex Geometric Estimation</sDesc>
+        <jSkillSpinner>21</jSkillSpinner>
+        <nSkillID>452</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Fire-building</sName>
+        <sDesc>Skill created by import.\nFire-building</sDesc>
+        <jSkillSpinner>19</jSkillSpinner>
+        <nSkillID>453</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Fishing</sName>
+        <sDesc>Skill created by import.\nFishing</sDesc>
+        <jSkillSpinner>19</jSkillSpinner>
+        <nSkillID>454</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Map Sense</sName>
+        <sDesc>Skill created by import.\nMap Sense</sDesc>
+        <jSkillSpinner>20</jSkillSpinner>
+        <nSkillID>366</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Teamster/Freighter Skill Suite</sName>
+        <sDesc>Skill created by import.\nTeamster/Freighter Skill Suite</sDesc>
+        <jSkillSpinner>21</jSkillSpinner>
+        <nSkillID>455</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>Language, Modern: Common</sName>
+        <sDesc>Skill created by import.\nLanguage, Modern: Common</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>325</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+    </Skills>
+    <Quirks />
+  </Player>
+</PlayerFile>
+

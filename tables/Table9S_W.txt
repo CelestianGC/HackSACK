@@ -1,0 +1,17 @@
+#name:ac:HP:wt:bulk:absorb:1:2:3:4:5:6:7:8:9ACHP
+robe:9:1:1:non:1:0:0:0:0:0:0:0:0:1
+leather:8:2:15:non:1:0:0:0:0:0:0:0:2:1
+padded:8:2:10:fairly:1:0:0:0:0:0:0:0:2:1
+ring mail:7:6:30:fairly:1:0:0:0:0:0:0:6:2:1
+studded leather:7:4:25:fairly:1:0:0:0:0:0:0:4:2:1
+scale mail:6:7:40:fairly:1:0:0:0:0:0:7:4:2:1
+hide:6:5:35:fairly:1:0:0:0:0:0:5:4:2:1
+brigandine:6:6:35:fairly:1:0:0:0:0:0:6:4:2:1
+chain mail:5:8:40:fairly:1:0:0:0:0:8:6:4:2:1
+chain mail, elven:5:6:20:non:1:0:0:0:0:8:6:4:2:1
+bronze plate mail:4:12:45:bulky:1:0:0:0:12:8:6:4:2:1
+banded mail:4:9:35:bulky:1:0:0:0:9:8:6:4:2:1
+splint mail:4:8:40:bulky:1:0:0:0:8:8:6:4:2:1
+plate mail:3:12:50:bulky:1:0:0:12:10:8:6:4:2:1
+field plate:2:24:60:bulky:2:0:24:12:10:8:6:4:2:1
+full plate:1:36:70:bulky:2:36:24:12:10:8:6:4:2:1

@@ -1,0 +1,51 @@
+2:Accessories of Corporeality:1000:15000:240
+3:Amulet of Dynai:2000:35000:240
+5:Amulet of Inescapable Location:1500:18000:240
+7:Amulet of Life Protection:2000:25000:240
+8:Amulet of the Planes:2000:30000:240
+10:Amulet of Proof Against Detection and Location:1000:15000:240
+12:Amulet Versus Undead:200:1000:241
+14:Ankle Bracelet of Gender Bending:0:2500:241
+17:Anklets of Levitation:1000:10000:241
+19:Beads of Force:200:1000:242
+21:Brooch of Fireball Backblast Protection:800:5000:246
+23:Brooch of Shielding:1500:8000:246
+25:Earring of Clairaudience:1000:10000:251
+27:Gem of Brightness:1000:10000:253
+29:Gem of Insight:1500:15000:253
+31:Gem of Seeing:1000:12000:253
+33:Jewel of Attacks:1000:8000:258
+35:Jewel of Flawlessness:1000:7000:258
+38:Medallion of ESP:1500:12000:259
+40:Medallion of Thought Projection:1000:5000:259
+42:Moss-Stone Necklace:1500:15000:260
+44:Necklace of Adaptation:1000:10000:260
+46:Necklace of Jaded Peril:2000:20000:260
+47:Necklace of Missiles:100:1500:260
+49:Necklace of Prayer Beads:500:2000:260
+51:Necklace of Strangulation:800:2000:260
+53:Pearl of Power:200:1000:261
+55:Pearl of the Sirines:900:5000:261
+57:Pearl of Wisdom:500:2500:261
+59:Periapt of Foul Rotting:1000:6000:261
+61:Periapt of Health:1000:6000:261
+63:Periapt of Proof Against Poison:1500:10000:261
+65:Periapt of Wound Closure:1000:10000:261
+67:Phylactery of Faithfulness:1000:8000:261
+69:Phylactery of Long Years:1000:15000:261
+71:Phylactery of Monstrous Attention:2500:14000:261
+72:Scarab of Death:1800:5000:264
+74:Scarab of Enraging Enemies:1000:5000:264
+76:Scarab of Insanity:1000:5000:264
+78:Scarab of Protection:2500:15000:264
+80:Scarab Versus Golems:2000:15000:264
+81:Star of the Blind Mage:4000:50000:265
+84:Stud of Many Tongues:500:2000:265
+86:Talisman of Pure Good:2500:30000:265
+88:Talisman of the Sphere:100:1000:266
+90:Talisman of Ultimate Evil:1500:15000:266
+92:Talisman of Zargosa:1000:10000:266
+94:Tie Tac of Ward Off Charm:500:1000:266
+96:Tongue Stud of Oration:600:2000:266
+98:Zarba's Ruby:800:3000:267
+100:GM's Choice:0:0:0

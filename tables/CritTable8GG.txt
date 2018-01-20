@@ -1,0 +1,6 @@
+25:no additional effects
+50:lose {2d6} points of constitution, 1 point returns per day over {1d6} days, unreturned points are lost permanently. Subsitute ({1d100}), 1-80 intelligence or 81-100 dex if the inhury is to head or spine
+70:death in {1d12} days
+80:death in {1d12} hours
+90:death in {1d12} rounds
+100:death in {1d12} segments

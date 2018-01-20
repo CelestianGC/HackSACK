@@ -1,0 +1,25 @@
+10:spontaneous combustion
+11:cancer
+19:lynching
+22:skull fracture
+25:heart attack
+30:stroke
+35:burst appendix
+37:hemophilia
+42:choking
+53:electrocution
+59:impalement
+62:falling great distance
+65:drowning
+66:old age
+75:poison
+77:asphyxiation
+79:burned at the stake
+82:submerged in acid
+84:burned alive
+86:thrown from a mount
+88:punctured lung
+90:hunting accident
+91:exposure to cold
+92:excessive alchohol consumtion
+100:plague

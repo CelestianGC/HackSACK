@@ -1,0 +1,11 @@
+1:50% move for 1 round, 10% for {2d4} rounds
+2:50% move for 2 rounds, 25% for {2d10} rounds
+3:50% move for 1 round, then 25% for {1d6} turns
+4:50% move for {1d12} hours
+5:50% move for {1d12} hours then 25% for {1d12} days
+6:75% for 6 hours,50% for {2d12} days
+7:75% for 6 hours, 50% for {4d12} days
+8:75% for 6 hours, 50% for {1d3} months
+9:75% for 1 day, 50% for {1d4} months
+10:75% for 1 week, 50% for {1d6} months
+11:75% for 1 week, 50% for {1d6} months

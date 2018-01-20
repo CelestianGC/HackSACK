@@ -1,0 +1,592 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1088562834375'
+   sPlayerName='Celestian'
+   sCharacter='Gully Stouthand 1'
+   sFamilyClan='null'
+   sHomeland='null'
+   sGawd='null'
+   sPatron='null'
+   sAppearance='null'
+   sBirthDate='null'
+   sFamilyHistory='null'
+   sHairColour='null'
+   sEyeColour='null'
+   sSpecialAbilities='null'
+   sMiscInfo=' '
+   sRace='Dwarf'
+   jPlayerLog=''
+   nBirthRank='0'
+   nAge='0'
+   nHeight='0'
+   nWeight='0'
+   nSocialClassIndex='0'
+   nNumberSiblings='0'
+   nHandIndex='0'
+   nAlignementIndex='6'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='2'
+   AC_NORMAL='10'
+   AC_REAR='10'
+   AC_SHIELDLESS='10'
+   AC_SUPRISED='10'
+   jHealthMax='51'
+   jHealthLabel='51'
+   jMove='6'
+   jHonor='18'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='15'
+         jAdjPercent='50'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='86'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='185'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='9'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='9%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='17'
+         jAdjPercent='35'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='-3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='+4'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='15'
+         jAdjPercent='42'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='+2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='90%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='94%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='-45%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='Nil / 1 HP every day'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='11'
+         jAdjPercent='33'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='5th'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='45%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='7'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='10%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='12'
+         jAdjPercent='64'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='5%-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='05%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='11'
+         jAdjPercent='20'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='4'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='13'
+         jAdjPercent='18'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Plain looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Cleric'
+         nClassindex='2'
+         nClassID='1'
+         nSaveAs='1'
+         nFightAs='1'
+         jLevel='3'
+         jEXP='5621'
+          >
+         </Class>
+         <Class
+         sName='Fighter'
+         nClassindex='3'
+         nClassID='0'
+         nSaveAs='0'
+         nFightAs='0'
+         jLevel='3'
+         jEXP='5621'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='9'
+         jSave='9'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='13'
+         jSave='13'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='16'
+         jSave='16'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+         <Skills
+         sName='Dwarf:Infravision. Dwarves can see 60 feet in the dark.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='123'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Saving Throw bonus on saves vs. magic.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='124'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Saving Throw bonus save vs. poison.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='125'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:+1 on to-hits vs. Orcs, half-orcs, Goblins, and Hobgoblins.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='126'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Ogres, Trolls, Ogre Magi, giants, and Titans suffer a -4 to hit dwarves.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='127'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Detect Grade or Slope in passage 1-5 on 1d6'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='128'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Detect new tunnel/passage construction 1-5 on 1d6'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='129'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Detect Sliding/shifting walls or rooms 1-4 on 1d6'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='130'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Detect stonework traps, pits and dead falls 1-3 on 1d6'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='131'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Determine approximate depth underground 1-3 on 1d6'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='132'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:Dwarves suffer a 20% chance for failure every time they use any magical item except weapons, armor, shields, and (if the characters is a thief) items that duplicate thieving abilities. This penalty does not apply if the character is a battle mage or cleric using a cleric item.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='141'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Dwarf:cleric using a cleric item.'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='134'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='Battle axe'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='6'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Mace: Footman&apos;s    '
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='142'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Hand or throwing axe'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='143'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Sling    '
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='144'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='Axe Bonus'
+         sDesc=''
+         jSkillSpinner='100'
+         nSkillID='0'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='Botany'
+         sDesc=''
+         jSkillSpinner='34'
+         nSkillID='145'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Armor Maintenance'
+         sDesc=''
+         jSkillSpinner='16'
+         nSkillID='118'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Weapon Maintenance'
+         sDesc=''
+         jSkillSpinner='22'
+         nSkillID='137'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Brewing'
+         sDesc=''
+         jSkillSpinner='37'
+         nSkillID='92'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Swimming: Dog Paddle'
+         sDesc=''
+         jSkillSpinner='33'
+         nSkillID='77'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='First Aid Skill Suite'
+         sDesc=''
+         jSkillSpinner='39'
+         nSkillID='146'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Language, Modern: Dwarven'
+         sDesc=''
+         jSkillSpinner='102'
+         nSkillID='82'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='Language, Modern: Common'
+         sDesc=''
+         jSkillSpinner='50'
+         nSkillID='80'
+         nSkillType='0'
+          >
+         </Skills>
+         <Quirks
+         sName='Loud Boor'
+         sDesc='Quirk/Flaw created by import.'
+         nQuirkID='42'
+          >
+         </Quirks>
+         <Quirks
+         sName='Truthful'
+         sDesc='Quirk/Flaw created by import.'
+         nQuirkID='43'
+          >
+         </Quirks>
+  </Player>
+</PlayerFile>

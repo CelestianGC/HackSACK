@@ -1,0 +1,4 @@
+30:200 lbs limit, 25 cu.ft
+70:400 lbs limit, 70 cu.ft
+90:800 lbs limit, 120 cu.ft
+100:1200 lbs limit, 240 cu.ft

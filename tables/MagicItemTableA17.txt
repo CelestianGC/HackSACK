@@ -1,0 +1,47 @@
+6:Bedwarmer of Restful Sleep +4:0:15000:242
+7:Boat, Folding:5000:50000:243
+9:Bowl Commanding Water Elementals (M):2000:25000:245
+11:Bowl of Watery Death (M):1000:2000:245
+13:Censer Controlling Air Elementals (M):2000:25000:247
+15:Censer of Conjuring Hostile Air Elementals (M):1000:15000:247
+20:Crystal Ball (M):500:5000:248
+22:Crystal Hypnosis Ball (M):800:10000:249
+24:Cube of Force:1500:20000:249
+26:Cube of Frost Resistance:2000:20000:249
+28:Cube of Opulent Lodging:3000:35000:249
+30:Cubic Gate:3500:40000:249
+31:Darax's Instant Fortress:4000:50000:249
+35:Deck of Illusions:1000:15000:249
+36:Deck of Many Things:0:90000:250
+37:Deck of Wondrous Things:0:80000:250
+39:Eyes of Charming (M):1000:20000:252
+41:Eyes of the Eagle:2500:30000:252
+43:Eyes of Minute Seeing:1000:20000:252
+45:Eyes of Petrification:1500:25000:252
+48:Figurine of Wondrous Power:100:1000:252
+50:Fortuitous Disk of Dimension:1500:25000:253
+52:Goggles of Detect Magic:2000:30000:254
+55:Gold Tooth of Purify Beverage:1000:15000:254
+57:Handkerchief of Healing:1500:25000:254
+60:Holy Symbol of Protection:800:10000:256
+62:Horseshoes of Silence:500:5000:257
+64:Horseshoes of Speed:1000:15000:257
+66:Horseshoes of a Zephyr:1500:10000:257
+68:Iron Bands of Munari:750:5000:258
+70:Lens of Detection:250:5000:258
+71:Orb of Prosperity:3000:45000:260
+73:Pen of Fine Print:500:5000:261
+77:Quetzaalytochtipli's Feather Token:800:5000:262
+79:Quiver of Ehlonna:1500:10000:262
+80:Sacred Spatula of Harfang:800:5000:264
+82:Salimic Acid:1500:20000:264
+84:Sheet of Smallness:1000:10000:264
+86:Spectacles of Methane Detection:800:7500:0
+87:Sphere of Annihilation:3000:35000:265
+89:Spurs of Speed +4:2000:25000:265
+91:Stone Horse:1500:20000:265
+92:Well of Many Worlds:3000:45000:266
+94:Wind Fan:500:1000:266
+96:Wings of Flying:750:2500:266
+98:Zarba's Enchanted Saddle:2000:30000:267
+100:GM's Choice:0:0:0

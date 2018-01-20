@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>128. ROOM, 20&amp;apos; x 30&amp;apos;</jName>
+      <jRoomDescPlayer>Perhaps this was once a reception room or minor council chamber. Bits of wall coverings still dangle here and there, and a once fine hardwood sideboard is centered along the north wall. Atop it are various dirty dishes, a cask of beer, and bits of stale bread and dried meat. The entire length of the west wall is lined with piles of bedding, divided into eight pallets. A small wall font still trickles a sulphurous smelling water into a stone basin in the northwest corner. A stack of wood lies by the south door, possibly for use in some nearby fireplace. A fivefoot-wide alcove can be seen in the east wall, near the northeast corner.\n</jRoomDescPlayer>
+      <jRoomDescDM>Encounter: Seven gnolls are in the room, one by each door and one deep in the alcove with a heavy quadruple crossbow (see area 128a). They live here with a bugbear who is a rogue, liking the gnolls and ogres better than its own kind. \n\nAddtional Encounters: In case of attack, these residents alert those in area 127 (or even the guards in area 129, as applicable). The alcove is five feet wide and six feet long, and houses the once gnoll sentry manning the special crossbow. A peep hole gives a good view of the corridor south (see area 128a). \n\nGnolls (7): AC 5, MV 9&amp;quot;, HD 2, hp 13, 10, 9, 9, 8, 8, 8, 6, #AT 1, D 1-8 (battle axe), SA crossbow trap (see area 128a); XP 54, 48, 46 (x2), 44 (x3), 40\n\nBugbear (1): AC 5, MV 9&amp;quot;, HD 3 + 1, hp 14, #AT 1, D 2-8 (bastard sword), SA can throw battle (ranges 1&amp;quot;/2&amp;quot;/4&amp;quot;, D 3-10), XP 191\n\nEach gnoll has 3-18 cp. The bugbear carries a pouch containing 1-4 of each coin type (cp, sp, ep, gp, pp), and also wears a gold chain with 12 large coins upon it (130 gp for the whole).\n\nA hollow log at the bottom of the stack of wood conceals the bugbear&amp;apos;s private stash of 60 sp, 28 ep, and 47 gp.\n</jRoomDescDM>
+    </Area_Information>
+    <Area_Information>
+      <jName>128a. SENTRY</jName>
+      <jRoomDescPlayer>Player Area Description...</jRoomDescPlayer>
+      <jRoomDescDM>The large and heavy quadruple crossbow mounted here is manned by one gnoll (hp 6), who can easily watch the 10&amp;apos; wide north-south corridor through a peep hole. Any intruder in the passage is subject to four shots at once, each inflicting 1-8 points of damage. Make &amp;quot;to hit&amp;quot; rolls with a + 5 bonus, i. e. 9 or better to hit AC 2 when fired by the gnoll sentry. As the crossbow cannot be reloaded and wound in less than two full rounds, it is unlikely that it can fire twice in a melee. (Use your judgment as to the sentry&amp;apos;s actions, which should definitely include warning its companions. ) The crossbow is not easily moved (encumbrance 400 gp) but can be dismantled for travel. It can be sold for a base value of 50 gp.\n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#1</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>31</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>31</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>28</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>28</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#3</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>30</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>30</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#4</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>32</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>32</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#5</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>34</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>34</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#6</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>28</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>28</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#7</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>23</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>23</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Bugbear</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>28</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>144</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>175</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>28</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>5</nToHitRank>
+    <sDescription>damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts\nwill not hesitate to belch this information to their brethren and fetch\nreinforcements. Bugbear combat is tactically sound, beginning with\na war howl to distract opponents, followed by a volley of missiles and\nthen the charge into melee. Bugbears are not above a tactical retreat.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

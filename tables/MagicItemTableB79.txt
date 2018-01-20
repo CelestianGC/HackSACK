@@ -1,0 +1,12 @@
+50:empty
+54:avenging servant
+65:djinni
+69:elemental (GM's choice)
+72:efreeti
+76:golem, diseased muck
+86:insidious ichor
+89:nefarion (GM's choice)
+93:rakshasa
+97:shriek
+99:spectre, standard
+100:xill

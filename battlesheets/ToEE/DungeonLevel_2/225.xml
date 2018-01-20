@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='225. GRIM CHAMBER'
+   jRoomDescPlayer='The entire room is gray — carpeting, plaster, wall hangings, furnishings, etc. — and spartan. Lamps of grayish metal on a small table and a wall shelf dimly light the room; a pair of upholstered chairs are by the table. On the table are some pewter dishes and a plain crock half-filled with mead. The shelves hold some foodstuffs, a few scrolls and books, and several human and demihuman skulls. A narrow bed is in the northeast corner, with a small stand beside it.'
+   jRoomDescDM='This is the residence of Kelno, the only cleric of the Air Temple—his apprentices having been slain by rival factions. He is bitter and full of great hatred for both the Fire and Water Temples. Kelno bargains with anyone if he sees profit for himself and harm to these rivals. He has spent all his funds on hiring and bribing bugbears, for he hopes to amass a sufficient force to turn the tables on the other Temples.\n\nKelno wears chain mail + 1 and a cloak of protection +1 (which affects only his saving throws, when worn with magical armor), and wields a mace + 1. Though he carries a dagger of venom with one dose of virulent poison (-2 penalty to victim&apos;s saving throw), he is saving it for either Alrrem (room 205c) or Belsornig (room 215). His Strength is 15 ( + 1 damage bonus) and Dexterity 17 (-3 AC bonus). (All bonuses are included in the following statistics. ) If hard pressed, he uses his darkness 15&apos; radius spell to escape into the concealed passage to the east (area 209a), trying to reach corridor 209. If enemies are in pursuit, he flees down the staircase to the lower dungeon level, for he knows portions of that area fairly well.\n\nKelno the Prefect: AC 1 (chain mail +1), MV 12&quot;, Level 5 Cleric, hp 32, #AT 1, D 4-9 (mace -/-1), SA spells, SD cloak + 1; XP 520 \nFirst level: command, cure light wounds, protection from good, purify food &amp; drink, sanctuary\nSecond level: hold person, know alignment, resist fire (x2), silence 15&apos; radius\nThird level: cause blindness\n\nThe scrolls and books are of no value.\n\nThe wardrobe holds worthless garments and a cassock of silver cloth, the latter worked with crystal beads and jet to form black squares with shining centers. This is the ceremonial robe of the high cleric of the Air Temple, worth 1, 500 gp.\n\nA drapery conceals the exit to the east. In that passage is a flowing fountain, set into the wall, and the passage beyond is piled with arms and armor:\n11 suits of armor (bugbear size,\nworth 50 gp each to bugbears)\n4 battle axes\n2 fauchard-forks\n4 glaive-guisarmes\n7 maces (heavy)\n8 morning stars\n5 quivers (20 arrows each)\n16 spears (heavy)\n1 sword, bastard\n\nNear this pile is a locked chest, trapped with a poison needle. Inside are only 11 gp, 28 ep, and 176 sp.\n'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='npc:Kelno cleric 5'
+   nAC='1'
+   nACBase='1'
+   jACMod='0'
+   jHitPointLabel='46'
+   jClassSelect='1'
+   nEXP='550'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='46'
+   nLevel='5'
+   nToHitRank='4'
+   jNotePad=''
+   sDescription='Kelno the Prefect: AC 1 (chain mail +1),MV 12&quot;, Level 5 Cleric, hp 32, #AT 1, D4-9 (mace -/-1), SA spells, SD cloak + 1;\nXP 520\n\nFirst level: command, cure light wounds,protection from good, purify food &amp;drink, sanctuary\n\nSecond level: hold person, know alignment,resist fire (x2), silence 15&apos; radius\n\nThird level: cause blindness'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1549'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='6'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

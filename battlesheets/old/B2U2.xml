@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<BattleSheets>
+  <BSCreature
+   sCreatureName='Lizard, Subterranean#1'
+   nAC='5'
+   jHitPointLabel='47'
+   jClassSelect='4'
+   nEXP='420'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='47'
+   nLevel='6'
+   nTHACO='11'
+   jNotePad=''
+   sDescription='They can walk on walls, ceiling and floors.'
+   sSpecialAttack='Y'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='14'
+   nBASEMove='12'
+   nBASESizeIndex='4'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   >
+     <Attack
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='2'
+       jDiceSides='6'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+  <BSCreature
+   sCreatureName='Lizard, Subterranean#2'
+   nAC='5'
+   jHitPointLabel='52'
+   jClassSelect='4'
+   nEXP='420'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='52'
+   nLevel='6'
+   nTHACO='11'
+   jNotePad=''
+   sDescription='They can walk on walls, ceiling and floors.'
+   sSpecialAttack='Y'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='14'
+   nBASEMove='12'
+   nBASESizeIndex='4'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   >
+     <Attack
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='2'
+       jDiceSides='6'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

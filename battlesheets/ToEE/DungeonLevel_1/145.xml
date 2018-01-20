@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>145. THE EARTH TEMPLE</jName>
+      <jRoomDescPlayer>This great open area is obviously the one in which the principle of the Elemental Evil of Earth is served. The walls are rough-hewn sandstone, but the entire floor is dark brown earth. Some sort of phosphorescent lichen provides a dim illumination throughout the vast area. It grows on walls and ceiling, supports and arches. Cressets and wall sconces indicate that, during ceremonies, other light sources are used. In the center of the room, occupying a 20&amp;apos; square area, is a pyramid of hardpacked dirt; the sides rise about six feet, and the top is flat, forming an area about six feet square. Stone steps are set in the four faces of the pyramid. Atop it is a stone column, each of its four faces bearing a carved triangle and sporting a pair of bronze manacles dangling from bolted rings. At the base of the south face of the column rests a bronze box. Three doors are in the south wall; those to the left and right are normal, but the center pair are huge bronze valves. These bear a strange set of silveryglowing runes, obviously chiseled into their face by someone other than their maker. They are sealed shut, with soft iron filling all the cracks.\n</jRoomDescPlayer>
+      <jRoomDescDM>The normal doors on the south wall lead to areas 145 F and 145 G, described after this Temple area. The depth of the earth in this room is six feet. The bronze box by the column is not locked; it contains a bronze maul, knife, bowl, and ewer. All of these items are evil, and detectably so; each item (including the box) is worth 25 gp. As with the main entrance of the Upper Temple, the n the large pair of doors are an antipathy spell, made permanent upon them. All those who failed any previous saving throw against this effect cannot approach the doors; any intruder whose saving throws were successful must here again make a saving throw vs. spells, with the usual -2 penalty, or suffer the effects. Four earth elementals are here, hidden under the dirt floor at four points (indicated by the letters A, B, C, and D on the map). An elemental attacks any victim within ten feet of it, and ceases attacking immediately when and if this situation ends.\n\nElementals (4): AC 2, MV 6&amp;quot;, HD 16, hp A = 87, B = 74, C = 71, D = 69, #AT 1, D 4-32, SD + 2 weapon to hit; XP 4155, 3960, 3915, 3885 \n\nA holy word or wish dispels all of the elementals, but otherwise they must be fought and slain to rid the area of their presence. A dispel magic does not affect them. If an intruder enters this room further that 20 feet from any entrance, all four elementals rise up out of the earth and stand motionless. If the intruder tries to leave, the elementals start patrolling, as follows. Four roman numerals surround each letter; each elemental moves first to I, then II, III, IV, I (etc. ), taking one round for each &amp;quot;leg&amp;quot; of the trip. The elementals continue this patrol as long as any living thing remains in the area. If all intruders manage to depart, the elementals return to their original positions (the letters) and burrow back down, leaving no trace of their patrol or presence. If all intruders move directly to the central pyramid (instead of attempting escape), the elementals do not patrol. Instead, they all move to their IV positions near the pyramid) and do not move again for 1 turn, unless approached (activating their &amp;quot;attack reflex&amp;quot;). The elementals do not climb the pyramid in any case. After their 1 turn of immobility, any elemental that has not had 1 ewerful of blood poured upon it actively pursues intruders, reaching up towards those upon the pyramid, if applicable. (Intruders thereon must be careful of straying too close to the edge.... ) \n\nEXCEPTION: Anyone wearing the robe of Romag (the brown vestment with the four triangles set with gems) can move freely among the elementals without suffering attack. The wearer can furthermore command their movements by verbal instructions in the Common tongue (though they cannot leave this Temple). \n\nBuried under the dirt at each of the IV positions is great treasure. The digging of any one area takes 12 man-turns, i. e. 2 turns for 6 persons, 3 turns for 4 persons, etc. No more than six persons can excavate one area at the same time. Nothing is found in any dig until after one full turn of work, regardless of the number of participants. \n\nThe first area excavated and searched produces 800 gp and a flask, a potion of diminution. \nThe second area produces 200 pp and a suit of ring mail + 1. \nThe third area produces 28 brown spinels (each worth 100 gp) and a morning star + 1. \nThe fourth and last area excavated and searched produces a ring of protection + 1, rope of climbing, a leather case containing a wand of paralyzation (38 charges), and a brass box containing three jars of Keoghtom&amp;apos;s ointment.</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Elemental:Earth (huge)#1</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>87</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1547</nCreatureID>
+    <nAC>8</nAC>
+    <nACBase>8</nACBase>
+    <nEXP>10000</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>87</nHitPoints>
+    <nLevel>16</nLevel>
+    <nToHitRank>18</nToHitRank>
+    <sDescription>﻿SD: +2 or better weapon required to hit.\n\nEarth: These creatures appear as humanoids made from dirt, stones, precious metals and/or gems. They have cold, expressionless faces and two eyes that sparkle like brilliant, multi-faceted gems. Their voices are the silence of deep tunnels, the rumblings of earthquakes and the grinding of stone. Their personalities are dull and\nstubborn.\n\n﻿COMBATITACTICS: Earth: Relentless but slow, Earth Elementals can travel through solid rock, but can never go through bodies of water (though they can go under or around them). Earth Elementals will always fight on the ground and their fists do 4-32 points of damage to﻿ any creature standing on the ground. Earth Elementals make effective on siege monsters, as they do great damage to structures. If forced to fight in the air or water, Earth Elementals get -2 damage per die (minimum of 1 point per die). \n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Elemental:Earth (huge)#2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>90</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1547</nCreatureID>
+    <nAC>8</nAC>
+    <nACBase>8</nACBase>
+    <nEXP>10000</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>90</nHitPoints>
+    <nLevel>16</nLevel>
+    <nToHitRank>18</nToHitRank>
+    <sDescription>﻿SD: +2 or better weapon required to hit.\n\nEarth: These creatures appear as humanoids made from dirt, stones, precious metals and/or gems. They have cold, expressionless faces and two eyes that sparkle like brilliant, multi-faceted gems. Their voices are the silence of deep tunnels, the rumblings of earthquakes and the grinding of stone. Their personalities are dull and\nstubborn.\n\n﻿COMBATITACTICS: Earth: Relentless but slow, Earth Elementals can travel through solid rock, but can never go through bodies of water (though they can go under or around them). Earth Elementals will always fight on the ground and their fists do 4-32 points of damage to﻿ any creature standing on the ground. Earth Elementals make effective on siege monsters, as they do great damage to structures. If forced to fight in the air or water, Earth Elementals get -2 damage per die (minimum of 1 point per die). \n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Elemental:Earth (huge)#3</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>106</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1547</nCreatureID>
+    <nAC>8</nAC>
+    <nACBase>8</nACBase>
+    <nEXP>10000</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>106</nHitPoints>
+    <nLevel>16</nLevel>
+    <nToHitRank>18</nToHitRank>
+    <sDescription>﻿SD: +2 or better weapon required to hit.\n\nEarth: These creatures appear as humanoids made from dirt, stones, precious metals and/or gems. They have cold, expressionless faces and two eyes that sparkle like brilliant, multi-faceted gems. Their voices are the silence of deep tunnels, the rumblings of earthquakes and the grinding of stone. Their personalities are dull and\nstubborn.\n\n﻿COMBATITACTICS: Earth: Relentless but slow, Earth Elementals can travel through solid rock, but can never go through bodies of water (though they can go under or around them). Earth Elementals will always fight on the ground and their fists do 4-32 points of damage to﻿ any creature standing on the ground. Earth Elementals make effective on siege monsters, as they do great damage to structures. If forced to fight in the air or water, Earth Elementals get -2 damage per die (minimum of 1 point per die). \n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Elemental:Earth (huge)#4</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>98</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1547</nCreatureID>
+    <nAC>8</nAC>
+    <nACBase>8</nACBase>
+    <nEXP>10000</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>98</nHitPoints>
+    <nLevel>16</nLevel>
+    <nToHitRank>18</nToHitRank>
+    <sDescription>﻿SD: +2 or better weapon required to hit.\n\nEarth: These creatures appear as humanoids made from dirt, stones, precious metals and/or gems. They have cold, expressionless faces and two eyes that sparkle like brilliant, multi-faceted gems. Their voices are the silence of deep tunnels, the rumblings of earthquakes and the grinding of stone. Their personalities are dull and\nstubborn.\n\n﻿COMBATITACTICS: Earth: Relentless but slow, Earth Elementals can travel through solid rock, but can never go through bodies of water (though they can go under or around them). Earth Elementals will always fight on the ground and their fists do 4-32 points of damage to﻿ any creature standing on the ground. Earth Elementals make effective on siege monsters, as they do great damage to structures. If forced to fight in the air or water, Earth Elementals get -2 damage per die (minimum of 1 point per die). \n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

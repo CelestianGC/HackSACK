@@ -1,0 +1,50 @@
+100:Foot, top:tarsus:::
+104:Heel:os calcis:::
+136:Toe(s):{1d10}th metatarsus and phalanges:::
+140:Foot, arch:tarsus:::
+170:Ankle, inner:internal malleolus:::
+200:Ankle, outer:external malleolus:::
+220:Ankle, upper/Achilles:internal malleous:external malleolus::
+964:Shin:fibula:tibia::
+1006:Calf:fibula:tibia::
+1118:Knee:outer tuberosity of the femur:inner tuberosity of the femur:patella:
+1132:Knee, back:condyle of the femur:::
+1216:Hamstring:femur:::
+2000:Thigh:femur:::
+2330:Hip:femur:neck of femur:head of femur:illium
+2405:Groin (Male only):os pubis:::
+2435:Buttock:illium:sacrum:coccyx:
+2570:Adbomen, lower:ilium:os pubis:sacrum:coccyx
+3020:Side, lower:crest of ilium:lumbar vertebrae ({1d2+1})::
+3110:Adbomen, upper:lumbar vertebrae ({1d2+1}):::
+3125:Back, small of:lumbar vertebrae ({1d3}):::
+3155:Back, lower:lumbar vertebrae ({1d3+2}):::
+3425:Chest:{1d6} lower ribs:{1d6} upper ribs:sternum;manbrium:sternum; gladiolus
+3455:Side, upper:{1d6} lower ribs:{1d6} upper ribs::
+3485:Back, upper:scapula:{1d4} lower ribs:{1d4} middle ribs:{1d4} upper ribs
+3500:Back, middle upper:lower dorsal vertebrae ({1d4+8}):middle dorsal vertebrae ({1d4+4}):upper dorsal vertebrae ({1d4}):
+3820:Armpit:head of the humerus:scapula:{1d3} ribs:
+4300:Arm, upper outer:humerus:::
+4492:Arm, upper inner:humerus:::
+4588:Elbow:olecranon process of the ulna:::
+4684:Inner joint:trachlea:radial head of the humerus::
+5309:Forearm, back:radius:ulna::
+5836:Forearm, inner:radius:ulna::
+5908:Wrist, back:({1d8}) capus bones:::
+5980:Wrist, front:({1d8}) capus bones:::
+6052:Hand, back:{1d5} metacarpus bones:{1d8} carpus bones::
+6076:Palm:{1d5} metacarpus bones:::
+6220:Finger(s):{1d4+1} phalanges:::
+7180:Shoulder, side:head of the humerus:::
+9100:Shoulder, top:head of the humerus:coracoid process of the scapula:clavicle:
+9121:Neck, front:cervical vertebrae ({1d3+4}):cervical vertebrae ({1d4+1})::
+9142:Neck, back:cervical vertebrae ({1d6+1}):::
+9373:Neck, side:cervical vertebrae ({1d4+3}):cervical vertebrae ({1d4+1})::
+9653:Head, side:parietal bone:::
+9688:Head, back lower:basilar process of the occipital bone:first cervical verebra:occipital bone:
+9768:Face, lower side:inferior maxillary bone:mastoid temporal bone:zygoma:
+9788:Face, lower center:inferior maxillary bone:teeth:superior maxillary bones:
+9823:Head, back upper:parietal bones:::
+9903:Face, upper side:temporal bone:sphenoid bone::
+9923:Face, upper center:nasal bones:frontal bow, lower:frontal bone, upper:
+10000:Head, top:frontal bone:::

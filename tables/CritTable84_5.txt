@@ -1,0 +1,50 @@
+100:Foot, top:{1d5} extensor tendons of the toes:::
+104:Heel:achilles tendon:::
+136:Toe(s):{1d5} extensor tendons of the toes:::
+140:Foot, arch:extebsir vrevis hallucis:::
+170:Ankle, inner:soleus:::
+200:Ankle, outer:extensor longus digitorum:peroneus longus et brevis::
+220:Ankle, upper/Achilles:tibialis anticus:extensor longus hallucis:achilles tendon:
+964:Shin:tibialis anticus:soleus:::
+1006:Calf:soleus:gastrocnemius::
+1118:Knee:pantella tendon:::
+1132:Knee, back:gastrocnemius:::
+1216:Hamstring:biceps femoris:::
+2000:Thigh:tendon of the extensors of the leg:vastus internus:vastus externus:adductor magnus:rectus femoris
+2330:Hip:gluteus medius:tensor vaginae femoris::
+2405:Groin (Male only):adductor magnus:extensor longus digitorum:pectineus:adductor longus
+2435:Buttock:gluteus maximus:::
+2570:Adbomen, lower:aponeurosis of obliquus externus abdominis:Rectus abdominis::
+3020:Side, lower:crest of the ilium:obliquus internus abdominis::
+3110:Adbomen, upper:aponeurosis of obliquus externus abdominis:rectus abdominis::
+3125:Back, small of:external oblique:erector spinae::
+3155:Back, lower:latissimus dorsi:::
+3425:Chest:aponeurosis of obliquus externus abdominis:obliquus internus abdominis:rectus abdominis:
+3455:Side, upper:serratus magnus:obliquus externus abdominis::
+3485:Back, upper:deltoid:teres major::
+3500:Back, middle upper:trapezius:::
+3820:Armpit:pectoralis major:coraco-brachialis:deltoid:
+4300:Arm, upper outer:triceps extensor cubiti:biceps flexor cubiti::
+4492:Arm, upper inner:triceps extensor cubiti:biceps flexor cubiti::
+4588:Elbow:flexor longus pollicis:::
+4684:Inner joint:pronator radii teres:supinator longus::
+5309:Forearm, back:extensor carpi radialis brevior:extensor carpi radialis longior::
+5836:Forearm, inner:palmaris longus:supinator longus:flexor carpi radialis:
+5908:Wrist, back:anterior annular ligament of wrist:::
+5980:Wrist, front:anterior annular ligament of the wrist:::
+6052:Hand, back:extensor communis digitorum:{1d5} flexor tendons of the fingers::
+6076:Palm:palmaris brevis:abductor pollicis::
+6220:Finger(s):{1d5} flexor tendors of the fingers:extensor brevis pollicis:abductor pollicis:
+7180:Shoulder, side:deltoid:long tendon of the biceps flexor cubiti:tendon of the pectoralis major:Coraco-brachialis
+9100:Shoulder, top:subclavius:deltoid::
+9121:Neck, front:sterno-hyoid muscle:omo-hyoid muscle:thyro-hyoid muscle:
+9142:Neck, back:trapezius:::
+9373:Neck, side:platysma moyides:scalenus anticus, medius and posticus::
+9653:Head, side:masseter:sterno-cleido-mastoideus::
+9688:Head, back lower:trapezius:::
+9768:Face, lower side:zygomaticus major and minor:buccinator::
+9788:Face, lower center:quadratus menti:orbicularis oris::
+9823:Head, back upper:occipito-frontalis:::
+9903:Face, upper side:temporalis:::
+9923:Face, upper center:occipito-frontalis:orbicularis palpebrarum:levator labii superioris:
+10000:Head, top:occipito-frontalis:::

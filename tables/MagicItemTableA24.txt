@@ -1,0 +1,58 @@
+2:Alena's Mask:4000:80000:277
+4:Axe of the Dwarvish Lords:3500:75000:277
+6:Bronze Conch of Aarnz:5000:95000:277
+8:Chooney's Quill:3000:47500:277
+10:Codex of the Infinite Planes:3500:62500:277
+12:Crown of Might:4000:70000:277
+13:Crown of Thrain:4000:65000:278
+14:Crystal of the Ebon Flame:5000:75000:278
+16:Cup and Talisman of Gan'Don:6000:85000:278
+18:Dark Orb of Monfyr:0:60000:278
+20:Death Wand of Kandeer:0:75000:278
+22:Door Knocker of Pestilence:0:2000:278
+24:Drayton's Dancing Hut:5000:90000:278
+26:Drayton's Tome of Magick:3000:65000:278
+28:Eye of Vectra:10000:55000:278
+29:Feet of Vectra:8000:60000:278
+30:Flaming Sword of Soul Devouring:5000:65500:279
+31:Golden Laurel of Odin:0:105000:279
+32:Golden Vest of Kenwit Mon:0:95000:279
+33:Gudrun's Hammer of the Crippled Mage:10000:45000:279
+34:Haarpang's Mystical Organ:6000:55000:279
+35:HackMaster +13 (Thadius):15000:125000:279
+36:HackMaster +12 (Atticus, Tremble Rydylus, Ravager):13000:105000:279
+37:HackMaster +10 (Carvin' Marvin):11500:85000:279
+38:HackMaster +8 (Shyra, Kaylee, Doomsaker):9750:70000:279
+40:HackMaster +6 (Dicer, Slicer, Vixen):7000:60000:279
+41:Pommel Stone of Vlad'Neer:3000:35000:280
+42:Scabbard of the Ages:0:35000:280
+43:Hand of Vectra:9000:60000:280
+44:Head of Vectra:12000:90000:280
+45:Heart of the Clan Lord:0:75000:280
+46:Helm of Lordship:4000:60000:281
+48:Horn of Change:3000:40000:281
+50:Invulnerable Coat of Karnaac:4000:67500:281
+52:Iron Flask of Steevi the Merciless:3500:60000:281
+54:Jacinth of Inestimable Beauty:7500:100000:281
+56:Mace of Burkob:3000:55000:281
+58:Machine of Mar-Klem the Mad:5000:82500:281
+60:Mighty Servant of Mankol:0:185000:281
+62:Orb of the Dragonkind:0:0:281
+64:Orb of Might:0:100000:282
+66:Peg Leg of Wondrous Power:0:120000:282
+68:Princess Kristina's Marvelous Nightingale:8000:112500:282
+70:Recorder of Kinscot:6000:80000:282
+72:Ring of Grim Darkblaze:6000:37500:282
+74:Robar the Judger:3500:75000:282
+75:Rod of Seven Parts:0:45000:283
+76:Ruby of Wun-Kai:4000:60000:283
+79:Rudyar's Bow of Fury:3500:75000:283
+81:Sceptre of Might:0:150000:283
+82:Sturm Pyre's Crossbow of Slaying:9000:85000:283
+84:Sword of Dar-Kang:8000:97000:283
+89:Teeth of Matea'Kar:0:0:283
+90:Throne of the Gawds:0:0:283
+92:Vocal Cords of Chauncey Yohm:3000:50000:284
+94:Wand of Dread:4000:70000:284
+96:Warhammer of Dragon Smiting:5000:60500:284
+100:GM's Choice:0:0:0

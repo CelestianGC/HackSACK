@@ -1,0 +1,18 @@
+2:Absorption:3500:40000:233
+4:Alertness:3000:50000:233
+5:Beguiling:2000:30000:234
+6:Cancellation:5000:15000:234
+7:Gender Bending:2000:18000:234
+8:Demon Turning:3000:50000:234
+9:Flailing:1000:20000:234
+10:Lordly Might:3000:20000:234
+11:Passage:2000:50000:234
+12:Rod of Plane Breaching:5000:50000:234
+13:Resurrection:5000:35000:235
+14:Rulership:3000:35000:235
+15:Scepter of Demon Control:2000:50000:235
+16:Security:1500:30000:235
+17:Smiting:2000:15000:235
+18:Splendor:1500:25000:235
+19:Terror:2000:15000:235
+20:GM's Choice:0:0:0

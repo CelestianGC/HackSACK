@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<BattleSheets>
+  <BSCreature
+   sCreatureName='Dark Seether'
+   nAC='10'
+   jHitPointLabel='39'
+   jClassSelect='4'
+   nEXP='120'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='39'
+   nLevel='5'
+   nTHACO='13'
+   jNotePad=''
+   sDescription='Dark Seether\nDESCRIPTION: Dark Seethers are giant mushrooms that grow rapidly\nout of any dead flesh. They are flesh-colored and sometimes bear\ngroups of spots that vaguely resemble the person they consumed.\nCOMBATITACTICS: Dark Seethers cannot attack in the classic\nsense. If anyone approaches a Dark Seether within 20&apos;, they are 99%\nlikely to become covered with the tiny spores filling the air all around\n\nthem, and will breathe them into their lungs. While seemingly harmless at first, should the pc die with these spores still on him mushrooms will instantly begin to sprout and begin consuming his corpse. The mushrooms will not stop growing until all flesh is consumed, approximately 4-7 days later. The spores can be removed by bathing the body and equipment in alcohol or by casting a Neutralize Poison on the victim.\n'
+   sSpecialAttack='Y'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='20'
+   nBASEMove='1'
+   nBASESizeIndex='1'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='3'
+   >
+     <Attack
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='1'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

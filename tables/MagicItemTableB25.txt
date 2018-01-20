@@ -1,0 +1,8 @@
+50:1st level spells
+75:2nd level spells
+82:3rd level spells
+88:1st and 2nd level spells
+92:4th level spells
+95:5th level spells
+99:1st thru 3rd level spells
+100:4th and 5th level spells

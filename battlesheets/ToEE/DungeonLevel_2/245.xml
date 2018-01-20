@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='245. RECEPTION HALL'
+   jRoomDescPlayer='This 40&apos; x 50&apos; chamber was evidently one in which new arrivals were hosted to the delights of the Temple; at least, this is what the wall murals depict. A few pieces of battered furniture — couches, chairs, and stands — remain along the walls. In the center of the room is a shallow pool, its fountain apparently stopped and the decorative statue, of a minotaur sitting on a throne, much dirtied.\n\nSeveral skeletons lie about the place, and some odd skulls and bones as well — mostly humans, but some humanoids also. None of the many cressets and walls sconces are lit; no torches remain.\n\n'
+   jRoomDescDM='The minotaur is alive. It wears gray leather armor, and is dirtied to appear as if stone, 90% undetectable as real unless studied within 15 foot range—and it attacks before such an approach. This monster particularly hates the bandits; after it killed (and ate) one, they harrassed it, shot it with bolts, and have tried to starve it (despite the fact that it is here, guarding against intruders, on instructions from Temple officials).\n\nIt therefore charges whenever it sees black-clad intruders, even if it has little hope of prevailing. It otherwise attacks anyone approaching within 20 feet.\n\nMinotaur: AC 4, MV 12 &quot;, HD 6 + 3, hp 35, #AT 2, D 2-8 butt or 1-4 bite/4-9 (flail), SD surprised on 1 only (on Id6); XP 680\n\nUnder the stone throne is a bag with 13 agates of various types (worth 10 gp each) and a scroll of protection from elementals (all).'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='Minotaur, Common'
+   nAC='6'
+   nACBase='6'
+   jACMod='0'
+   jHitPointLabel='58'
+   jClassSelect='4'
+   nEXP='1400'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='58'
+   nLevel='7'
+   nToHitRank='8'
+   jNotePad=''
+   sDescription='SD: +2 to suprise\nSA: Grapple, charge\n\n#AT 2, 2d4 each or by weapon +2 to hit +6 damage.\n\nUsing longsword.'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='684'
+   >
+     <Attack
+       jWeaponType='1'
+       jToHitMod='2'
+       jPerDiceMod='0'
+       jTotalMod='6'
+       jNumDice='1'
+       jDiceSides='8'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

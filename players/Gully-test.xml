@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayerFile JDOM="10b">
+  <Player>
+    <sPlayerName>Don</sPlayerName>
+    <sCharacter>Gully Stouthand</sCharacter>
+    <sRace>dwarf</sRace>
+    <lPlayerID>1060972792562</lPlayerID>
+    <jAbsent>false</jAbsent>
+    <jHireling>false</jHireling>
+    <sFamilyClan />
+    <sHomeland>NA</sHomeland>
+    <sGawd />
+    <sPatron />
+    <sAppearance />
+    <sBirthDate />
+    <sFamilyHistory />
+    <sHairColour>red</sHairColour>
+    <sEyeColour>green</sEyeColour>
+    <sSpecialAbilities />
+    <sMiscInfo />
+    <jPlayerLog>Saturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 597 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Cleric class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 0 points to the Fighter class for a total of 609 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 615 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 615 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 621 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 621 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 627 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 627 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 633 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 633 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 639 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 639 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 645 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 645 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 651 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 651 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 657 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 657 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 674 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 674 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 691 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 691 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 708 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 708 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 725 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 725 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 742 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 742 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 759 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 759 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 776 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 776 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 793 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 793 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 810 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 810 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 827 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 827 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 844 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 844 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 861 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 861 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 878 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 878 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 895 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 895 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 912 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 912 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 929 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 929 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 946 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 946 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 963 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 963 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 980 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 980 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 986 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 986 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 992 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 992 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 998 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 998 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Cleric class for a total of 1010 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Fighter class for a total of 1010 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Cleric class for a total of 1022 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Fighter class for a total of 1022 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 1039 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 1039 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Cleric class for a total of 1056 experience.\nSaturday, August 16, 2003:Received EXP award of 17 points to the Fighter class for a total of 1056 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 1062 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 1062 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 1068 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 1068 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 1074 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 1074 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Cleric class for a total of 1086 experience.\nSaturday, August 16, 2003:Received EXP award of 12 points to the Fighter class for a total of 1086 experience.\nSaturday, August 16, 2003:Received EXP award of 65 points to the Cleric class for a total of 1151 experience.\nSaturday, August 16, 2003:Received EXP award of 65 points to the Fighter class for a total of 1151 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 1157 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 1157 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 1163 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 1163 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Cleric class for a total of 1169 experience.\nSaturday, August 16, 2003:Received EXP award of 6 points to the Fighter class for a total of 1169 experience.\nSaturday, August 16, 2003:Received EXP award of 500 points to the Cleric class for a total of 1669 experience.\nSaturday, August 16, 2003:Received EXP award of 500 points to the Fighter class for a total of 1669 experience.\nSaturday, August 16, 2003:Awarded 1000 EXP for General:Generic, DETAILS: 1000 exp for magic detect wand.\nSaturday, August 16, 2003:Received EXP award of 3375 points to the Cleric class for a total of 5044 experience.\nSaturday, August 16, 2003:Received EXP award of 3375 points to the Fighter class for a total of 5044 experience.\nSaturday, August 16, 2003:Awarded 6750 EXP for General:Generic, DETAILS: treasure gold/magic exp.\nSaturday, August 16, 2003:Received EXP award of 19 points to the Cleric class for a total of 5063 experience.\nSaturday, August 16, 2003:Received EXP award of 19 points to the Fighter class for a total of 5063 experience.\nSaturday, August 16, 2003:Awarded 38 EXP for Cleric:Curing or Causing Wounds, DETAILS: gully cure wounds.\nSaturday, August 16, 2003:Received EXP award of 50 points to the Cleric class for a total of 5113 experience.\nSaturday, August 16, 2003:Received EXP award of 50 points to the Fighter class for a total of 5113 experience.\nSaturday, August 16, 2003:Awarded 100 EXP for General:Role Play Award (average), DETAILS: everyone.\nSaturday, August 16, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#2 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#3 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Dark Seether defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#3 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#14 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#9 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#4 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#5 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#15 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#20 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#10 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#16 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#21 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#11 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#22 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#23 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#17 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#24 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#25 defeated:liam,lorum,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#6 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#7 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#8 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#13 defeated:gully,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#12 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#18 defeated:conrad,grog,gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Rat, Giant#19 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#1 defeated:conrad,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#3 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#2 defeated:conrad,grog,gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Zombie, Common#4 defeated:gully,lliam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#6 defeated:gtrog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#7 defeated:grog,suck.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#5 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#4 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghast defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#3 defeated:gully.conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:gully,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:gully,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghoul, Common#1 defeated:grog,gully,lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Ghoul, Common#3 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#2 defeated:liam,grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Shrieker#1 defeated:grog,conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#5 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#4 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#1 defeated:conrad.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#10 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#11 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#12 defeated:gully.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#13 defeated:guly.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#14 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#15 defeated:liam.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#18 defeated:lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#19 defeated:lorum.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#2 defeated:conrad,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#8 defeated:grog,suckung.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#9 defeated:grog,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#17 defeated:liam,sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#16 defeated:liam,suck,off.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Stirge, Common#3 defeated:conrad,sucking,off,gully sucking.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#2 defeated:grog.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#3 defeated:liam,crit no more.\nSunday, August 17, 2003:Awarded 1 temporal honor for Defeated worthy opponent., DETAILS: Skeleton, Animated#1 defeated:conrad.\nSunday, August 17, 2003:Honor adjusted: 72/4+18=36\n</jPlayerLog>
+    <nBirthRank>1</nBirthRank>
+    <nAge>55</nAge>
+    <nHeight>51</nHeight>
+    <nWeight>159</nWeight>
+    <nSocialClassIndex>5</nSocialClassIndex>
+    <nNumberSiblings>1</nNumberSiblings>
+    <nHandIndex>2</nHandIndex>
+    <nAlignementIndex>6</nAlignementIndex>
+    <nSexIndex>0</nSexIndex>
+    <nAIP>0</nAIP>
+    <jSizeComboBox>2</jSizeComboBox>
+    <jHealthMax>26</jHealthMax>
+    <jHealthLabel>26</jHealthLabel>
+    <jMove>4</jMove>
+    <jHonor>36</jHonor>
+    <nTemporalHonor>0</nTemporalHonor>
+    <AC>
+      <AC_NORMAL>2</AC_NORMAL>
+      <AC_REAR>3</AC_REAR>
+      <AC_SHIELDLESS>3</AC_SHIELDLESS>
+      <AC_SUPRISED>6</AC_SUPRISED>
+    </AC>
+    <Abilities>
+      <Ability>
+        <sName>Strength</sName>
+        <jAdjScore>15</jAdjScore>
+        <jAdjPercent>22</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Dexterity</sName>
+        <jAdjScore>17</jAdjScore>
+        <jAdjPercent>18</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Constitution</sName>
+        <jAdjScore>15</jAdjScore>
+        <jAdjPercent>15</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Intelligence</sName>
+        <jAdjScore>11</jAdjScore>
+        <jAdjPercent>21</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Wisdom</sName>
+        <jAdjScore>12</jAdjScore>
+        <jAdjPercent>39</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Charisma</sName>
+        <jAdjScore>11</jAdjScore>
+        <jAdjPercent>2</jAdjPercent>
+      </Ability>
+      <Ability>
+        <sName>Comeliness</sName>
+        <jAdjScore>13</jAdjScore>
+        <jAdjPercent>8</jAdjPercent>
+      </Ability>
+    </Abilities>
+    <Classes>
+      <Class>
+        <sName>Cleric</sName>
+        <nClassID>1</nClassID>
+        <nSaveAs>1</nSaveAs>
+        <nFightAs>1</nFightAs>
+        <jLevel>2</jLevel>
+        <jEXP>3000</jEXP>
+        <jEXPBonus>0</jEXPBonus>
+      </Class>
+      <Class>
+        <sName>Fighter</sName>
+        <nClassID>0</nClassID>
+        <nSaveAs>0</nSaveAs>
+        <nFightAs>0</nFightAs>
+        <jLevel>2</jLevel>
+        <jEXP>4000</jEXP>
+        <jEXPBonus>0</jEXPBonus>
+      </Class>
+    </Classes>
+    <SavingThrows>
+      <Save>
+        <sName>Paralyzation, Poison, Death Magic</sName>
+        <nSaveType>0</nSaveType>
+        <nBaseSave>10</nBaseSave>
+        <jSave>10</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Rod, Staff, Wand</sName>
+        <nSaveType>1</nSaveType>
+        <nBaseSave>14</nBaseSave>
+        <jSave>14</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Petrifaction, HackFrenzy, HackLust, PolyMorph</sName>
+        <nSaveType>2</nSaveType>
+        <nBaseSave>13</nBaseSave>
+        <jSave>13</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Breath Weapon</sName>
+        <nSaveType>3</nSaveType>
+        <nBaseSave>16</nBaseSave>
+        <jSave>16</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Apology</sName>
+        <nSaveType>4</nSaveType>
+        <nBaseSave>14</nBaseSave>
+        <jSave>14</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+      <Save>
+        <sName>Spells</sName>
+        <nSaveType>5</nSaveType>
+        <nBaseSave>15</nBaseSave>
+        <jSave>15</jSave>
+        <jSaveMod>0</jSaveMod>
+        <jSaveOther>0</jSaveOther>
+      </Save>
+    </SavingThrows>
+    <Coins>
+      <Coin>
+        <sName>Copper</sName>
+        <jCount>1</jCount>
+        <jMod>1</jMod>
+      </Coin>
+      <Coin>
+        <sName>Silver</sName>
+        <jCount>3</jCount>
+        <jMod>3</jMod>
+      </Coin>
+      <Coin>
+        <sName>Electrum</sName>
+        <jCount>1</jCount>
+        <jMod>1</jMod>
+      </Coin>
+      <Coin>
+        <sName>Gold</sName>
+        <jCount>20</jCount>
+        <jMod>20</jMod>
+      </Coin>
+      <Coin>
+        <sName>Hardsilver</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+      <Coin>
+        <sName>Platinum</sName>
+        <jCount>0</jCount>
+        <jMod>0</jMod>
+      </Coin>
+    </Coins>
+    <Inventory>
+      <Gear>
+        <sName>clothing:belt (M)</sName>
+        <sDesc>belt</sDesc>
+        <sLoc>waist</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>8</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:boots,riding (M)</sName>
+        <sDesc>riding boots</sDesc>
+        <sLoc>feet</sLoc>
+        <nCount>1</nCount>
+        <dWeight>2.5</dWeight>
+        <nGearID>9</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:breeches (M)</sName>
+        <sDesc>breeches</sDesc>
+        <sLoc>legs</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>10</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:cloak, good cloth (M)</sName>
+        <sDesc>simple cloak</sDesc>
+        <sLoc>back</sLoc>
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>11</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:garments,common (M)</sName>
+        <sDesc>belt</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>12</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:shirt,wool (M)</sName>
+        <sDesc>wool shirt</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>14</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>clothing:sword scabbard, hander, baldric (M)</sName>
+        <sDesc>belt</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>15</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>container:backpack</sName>
+        <sDesc>backpack</sDesc>
+        <sLoc>back</sLoc>
+        <nCount>1</nCount>
+        <dWeight>2.0</dWeight>
+        <nGearID>3</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>provisions:wineskin</sName>
+        <sDesc>wineskin, 1 gallon of liquid</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>7</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>container:belt pouch, large</sName>
+        <sDesc>backpack</sDesc>
+        <sLoc>belt</sLoc>
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>16</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>container:scroll case</sName>
+        <sDesc>scroll case</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.5</dWeight>
+        <nGearID>17</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>torch</sName>
+        <sDesc>torch has radius of 15ft and lasts for 30 minutes</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>5</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>0</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>provisions:rations, dry (1 week)</sName>
+        <sDesc>rations, dry</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>65.0</dWeight>
+        <nGearID>19</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>provisions:rations, dry (1 week)</sName>
+        <sDesc>rations, dry</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>65.0</dWeight>
+        <nGearID>19</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>equipment:rope, silk 50&amp;apos;</sName>
+        <sDesc>50 foot of silk rope</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>8.0</dWeight>
+        <nGearID>20</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>equipment:tent, small</sName>
+        <sDesc>small tent</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>10.0</dWeight>
+        <nGearID>21</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>equipment:winter blanket</sName>
+        <sDesc>winter blanket</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>23</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tools:flint and steel</sName>
+        <sDesc>flint and steel</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.1</dWeight>
+        <nGearID>24</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tools:surgeon&amp;apos;s kit</sName>
+        <sDesc>surgeon&amp;apos;s kit</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>20.0</dWeight>
+        <nGearID>25</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tools:whetstone</sName>
+        <sDesc>whetstone</sDesc>
+        <sLoc>backpack</sLoc>
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>26</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>religious items:symbol, holy silver (M)</sName>
+        <sDesc>silver holy symbol</sDesc>
+        <sLoc />
+        <nCount>1</nCount>
+        <dWeight>1.0</dWeight>
+        <nGearID>27</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tack and harness:bit bridle</sName>
+        <sDesc>bit and bridle</sDesc>
+        <sLoc>horse</sLoc>
+        <nCount>1</nCount>
+        <dWeight>3.0</dWeight>
+        <nGearID>28</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tack and harness:halter</sName>
+        <sDesc>halter</sDesc>
+        <sLoc>horse</sLoc>
+        <nCount>1</nCount>
+        <dWeight>0.1</dWeight>
+        <nGearID>29</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tack and harness:horseshoes &amp;amp; shoeing</sName>
+        <sDesc>horse shoes</sDesc>
+        <sLoc>horse</sLoc>
+        <nCount>1</nCount>
+        <dWeight>10.0</dWeight>
+        <nGearID>30</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>tack and harness:saddle bags, large</sName>
+        <sDesc>saddle bags, large</sDesc>
+        <sLoc>horse</sLoc>
+        <nCount>1</nCount>
+        <dWeight>8.0</dWeight>
+        <nGearID>31</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>weapon:battle axe</sName>
+        <sDesc>battle axe</sDesc>
+        <sLoc>right hand</sLoc>
+        <nCount>1</nCount>
+        <dWeight>7.0</dWeight>
+        <nGearID>32</nGearID>
+        <sItemType />
+      </Gear>
+      <Gear>
+        <sName>weapon:dagger</sName>
+        <sDesc>dagger</sDesc>
+        <sLoc>scabbard</sLoc>
+        <nCount>1</nCount>
+        <dWeight>2.0</dWeight>
+        <nGearID>34</nGearID>
+        <sItemType />
+      </Gear>
+    </Inventory>
+    <Skills>
+      <Skill>
+        <sName>tasks:mundane:armor maintenance</sName>
+        <sDesc>able to perform basic maintenance on armor</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>13</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:mundane:weapon maintenance</sName>
+        <sDesc>able to perform basic maintenance on weapons</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>14</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>launguage:dwarven</sName>
+        <sDesc>skilled speaking dwarvish</sDesc>
+        <jSkillSpinner>100</jSkillSpinner>
+        <nSkillID>10</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>launguage:common</sName>
+        <sDesc>skilled speaking common</sDesc>
+        <jSkillSpinner>43</jSkillSpinner>
+        <nSkillID>12</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:sophisticated:swimming: dogpaddle</sName>
+        <sDesc>able to dog paddle</sDesc>
+        <jSkillSpinner>24</jSkillSpinner>
+        <nSkillID>15</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:sophisticated:botany</sName>
+        <sDesc>fill in description</sDesc>
+        <jSkillSpinner>23</jSkillSpinner>
+        <nSkillID>25</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:sophisticated:brewing</sName>
+        <sDesc>fill in description</sDesc>
+        <jSkillSpinner>20</jSkillSpinner>
+        <nSkillID>27</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>tasks:sophisticated:first aid suite</sName>
+        <sDesc>fill in description</sDesc>
+        <jSkillSpinner>25</jSkillSpinner>
+        <nSkillID>26</nSkillID>
+        <nSkillType>0</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>dwarf:orc and goblinoid attack bonus</sName>
+        <sDesc>+1 to attack versus orcs, half orcs goblins and hobgoblins</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>28</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>infra vision, 60ft</sName>
+        <sDesc>see in the infra spectrum for 60ft.</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>3</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>dwarf:defense bonus versus giants</sName>
+        <sDesc>Giants, trolls, ogres, ogre magi, and titans suffer -4 to hit dwarves</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>29</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>dwarf:stone/underground abilities</sName>
+        <sDesc>detect grade or slope in passage 1-5 on d6\ndetect new tunnel/passage construction 1-5 on d6\ndetect sliding/shifting walls or rooms 1-4 on d6\ndetect stonework traps, pits and deadfalls 1-3 on d6\ndetermine approximate depth underground 1-3 on d6\n</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>30</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>dwarf:magic failure</sName>
+        <sDesc>20% chance for failure of magic item when using anything but weapons, armor, shields</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>31</nSkillID>
+        <nSkillType>3</nSkillType>
+      </Skill>
+      <Skill>
+        <sName>axe bonus</sName>
+        <sDesc>+1 with any axe</sDesc>
+        <jSkillSpinner>1</jSkillSpinner>
+        <nSkillID>0</nSkillID>
+        <nSkillType>1</nSkillType>
+      </Skill>
+    </Skills>
+    <Quirks>
+      <Quirk>
+        <sName>minor personality:loud boor</sName>
+        <sDesc>look up description and update</sDesc>
+        <nQuirkID>12</nQuirkID>
+      </Quirk>
+      <Quirk>
+        <sName>major:personality:truthful</sName>
+        <sDesc>look up description and update</sDesc>
+        <nQuirkID>13</nQuirkID>
+      </Quirk>
+    </Quirks>
+  </Player>
+</PlayerFile>
+

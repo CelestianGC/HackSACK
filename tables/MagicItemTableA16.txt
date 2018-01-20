@@ -1,0 +1,25 @@
+4:Chime of Hunger:500:10000:247
+8:Chime of Interruption:500:5000:247
+11:Chime of Opening:1000:15000:247
+15:Drums of Deafening:1500:20000:251
+18:Drums of Panic:1800:25000:251
+21:Gnomish Mandolin:1000:20000:254
+24:Harp of Charming:1500:25000:255
+28:Harp of Discord:1500:20000:255
+33:Horn of Blasting:1500:15000:256
+37:Horn of Bubbles:800:10000:256
+41:Horn of Collapsing:1500:15000:256
+47:Horn of Fog:400:5000:257
+53:Horn of Goodness/Evil:750:2500:257
+57:Horn of Salutation:500:5000:257
+60:Horn of the Tritons (C, F):2000:15000:257
+64:Horn of Valhalla:800:10000:257
+68:Hurdy Gurdy of OwlBear Summoning:0:20000:257
+70:Lyre of Building:2000:30000:259
+74:Pan Flute of Luring:1500:20000:260
+78:Pan Flute of Water Dancing:1500:25000:261
+84:Pipes of Haunting:500:5000:261
+89:Pipes of Pain:800:10000:262
+94:Pipes of Sounding:800:10000:262
+98:Pipes of the Sewers:1000:15000:262
+100:GM's Choice:0:0:0

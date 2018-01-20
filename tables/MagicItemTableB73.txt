@@ -1,0 +1,6 @@
+25:quartz (10gp value)
+45:amethyst (15gp value)
+65:ruby (50gp value)
+80:emerald (70gp value)
+95:sapphire (100gp value)
+100:diamond (200gp value)

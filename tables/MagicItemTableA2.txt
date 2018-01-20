@@ -1,0 +1,62 @@
+1:Animal Control:250:400:221
+3:Attitude Adjustment:600:2000:221
+4:Clairaudience:250:400:221
+5:Clairvoyance:300:500:221
+6:Climbing:300:500:221
+9:Delusion:0:150:221
+11:Diminution:300:500:221
+13:Dragon Control:700:9000:221
+15:Elixir of Health:350:2000:221
+17:Elixir of Madness:0:0:222
+19:Elixir of Youth:500:10000:222
+20:ESP:500:850:222
+23:Extra-healing:400:800:222
+24:Fire Breath:400:4000:222
+25:Fire Breath Protection:750:1200:222
+27:Fire Resistance:250:400:222
+29:Flying:500:750:222
+31:Gaseous Form:300:400:222
+32:Giant Control:600:6000:222
+34:Giant Strength:550:1400:222
+35:Gibberish,Gnome:150:500:222
+36:Growth:250:300:222
+40:Healing:200:400:223
+41:Heroism:300:500:223
+43:Human Control:500:900:223
+45:Invisibility:250:500:223
+47:Invulnerability:350:500:223
+49:Levitation:250:400:223
+50:Longevity:500:1000:223
+51:Oil of Acid Resistance:500:5000:223
+52:Oil of Disenchantment:750:3500:223
+53:Oil of Elemental Invulnerability:500:5000:223
+54:Oil of Etherealness:600:1500:223
+55:Oil of Fiery Burning:500:4000:223
+56:Oil of Fumbling:0:1000:223
+57:Oil of Impact:750:5000:223
+59:Oil of Slipperiness:400:750:223
+60:Oil of Timelessness:500:2000:223
+61:Philter of Glibness:500:2500:223
+63:Philter of Love:200:300:224
+65:Philter of Lust:150:250:224
+66:Philter of Persuasiveness:400:850:224
+68:Philter of Stammering and Stuttering:0:1500:224
+69:Plant Control:250:300:224
+71:Poison:0:0:224
+73:Polymorph Self:200:350:224
+75:Polymorph to Gnome:650:900:224
+77:Polymorph to Insect:350:500:224
+78:Polymorph to Primate:275:400:224
+80:Polymorphing:800:1000:224
+82:Rainbow Hues:200:800:224
+85:Sleep:200:450:224
+87:Speed:200:450:224
+88:Super-heroism:450:750:224
+90:Sweet Water:200:250:224
+91:Treasure Finding:600:2000:224
+93:Undead Control:700:2500:224
+94:Ventriloquism:200:1200:225
+96:Venus Elixir:750:1200:225
+98:Vitality:300:2500:225
+99:Water Breathing:400:900:225
+100:GM's Choice:0:0:0

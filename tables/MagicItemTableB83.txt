@@ -1,0 +1,10 @@
+25:first level
+45:second level
+60:third level
+75:fourth level
+85:fifth level
+92:sixth level
+96:seventh level
+98:eight level
+99:ninth level
+100:level {1d6} and level {1d6}

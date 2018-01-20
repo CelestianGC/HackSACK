@@ -1,0 +1,14 @@
+0:red
+9:red
+18:orange
+27:yellow
+36:green
+45:blue
+54:purple
+63:pink
+72:black
+82:white
+86:geometric designs*
+90:striped*
+94:polka dot*
+100:Roll twice*

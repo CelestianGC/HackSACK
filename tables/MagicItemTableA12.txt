@@ -1,0 +1,23 @@
+4:Belt Buckle of Holding:4000:30000:242
+8:Belt Buckle of Soul Stealing:3500:35000:242
+12:Belt of Diminished Size:1500:20000:243
+14:Belt of Dragon Might:3000:40000:243
+20:Belt of Ladder Weaving:1500:2500:243
+25:Beret of Fairy-Kin:0:25000:243
+29:Collar of Iron Skin:1200:15000:248
+35:Corset of Free Action:1000:15000:248
+38:Girdle of Dwarvenkind:2500:30000:253
+42:Girdle of Femininity/Masculinity (C, T, F):1000:15000:254
+47:Girdle of Giant Strength (C, T, F):1000:25000:254
+51:Girdle of Many Pouches:800:10000:254
+56:Hat of Disguise:1000:15000:255
+61:Hat of Stupidity:0:8000:255
+64:Hat of Brilliance:15000:25000:255
+68:Helm of Comprehending Languages and Magic:1000:10000:255
+72:Helm of the Dragonfly:1750:33000:255
+77:Helm of Opposite Alignment:1000:15000:256
+81:Helm of Telepathy:2000:25000:256
+90:Helm of Underwater Action:1000:15000:256
+94:Hood of Misty Shadows:1500:25000:256
+98:Zarba's Collar of Rings:2500:30000:267
+100:GM's Choice:0:0:0

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>120. KITCHEN</jName>
+      <jRoomDescPlayer>This place is 20&amp;apos; x 30&amp;apos;, with three doors in the southern portion — east, south in the west corner, and west, A high, broad fireplace with numerous side ovens dominates the north wall. The fireplace is large enough to roast a whole ox. The room is littered with broken containers and dishes, trash of an unidentifiable sort, and pieces of wooden tables, counter tops, and the like. Several skeletons are visible, including one which appears to be that of an ogre.\n</jRoomDescPlayer>
+      <jRoomDescDM>Within the darkest recesses of the unused fireplace dwells a giant poisonous snake. It is coiled and may strike by surprise (50% chance). It has not eaten for a long time, and is very hungry. It can strike to 8 foot range, half its length, and attacks any creature coming within that range. \n\nSnake: AC 5, MV 15&amp;quot;, HD 4 + 2, hp 21, #AT 1, D1-3 + poison, SA bite = save vs. poison; take 3d6 damage if made, die if failed; attack range = 8&amp;apos; 1/2 length); XP 495 \n\nNear the ogre skeleton is a usable shortsword (its &amp;quot;dagger&amp;quot;) and a leather sack containing 84 gp. These are hidden under a small pile of nondescript debris. The ten-foot-square rooms were used for crockery storage and food storage, respectively for the south and west areas. Their contents are broken and smashed; foodstuffs are spoiled.\n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Snake, Venomous, giant</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>29</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1164</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>420</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>29</nHitPoints>
+    <nLevel>4</nLevel>
+    <nToHitRank>6</nToHitRank>
+    <sDescription>\nGiant Venomous Snake: Giant Venomous Snakes are enormous varieties\nof Venomous Snakes. Their poison causes death in one round if\nthe victim fails a save vs. poison and some snakes s t i l l cause 3-18 points\nof damage to those who make their saving throw. Giant cobras can mesmerize prey just like bird charmers. They can eat an entire goat or\na demi-human up to the size of a halfling or gnome. Some varieties of\nGiant Weasels hunt these creatures - giants who live in tropical regions\nconsider them a delicacy.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

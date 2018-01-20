@@ -1,0 +1,50 @@
+100:Foot, top::::
+104:Heel::::
+136:Toe(s)::::
+140:Foot, arch::::
+170:Ankle, inner::::
+200:Ankle, outer::::
+220:Ankle, upper/Achilles::::
+964:Shin:::::
+1006:Calf::::
+1118:Knee::::
+1132:Knee, back::::
+1216:Hamstring::::
+2000:Thigh::::
+2330:Hip:large intestine:small intestine::
+2405:Groin (Male only):bladder:small intestine::
+2435:Buttock::::
+2570:Adbomen, lower:pancreas:duodenum:kidney:small intestine
+3020:Side, lower:({1d100}) 1-50=spleen or 51=100=liver:lung::
+3110:Adbomen, upper:spleen:stomach:liver:
+3125:Back, small of:1 kidney:spinal cord::
+3155:Back, lower:{1d2} kidneys:spinal cord::
+3425:Chest:lung:heart:spinal cord:
+3455:Side, upper:lung:::
+3485:Back, upper:spinal cord:::
+3500:Back, middle upper:spinal cord:::
+3820:Armpit::::
+4300:Arm, upper outer::::
+4492:Arm, upper inner::::
+4588:Elbow::::
+4684:Inner joint::::
+5309:Forearm, back::::
+5836:Forearm, inner::::
+5908:Wrist, back::::
+5980:Wrist, front::::
+6052:Hand, back::::
+6076:Palm::::
+6220:Finger(s)::::
+7180:Shoulder, side::::
+9100:Shoulder, top::::
+9121:Neck, front:trachea:spinal cord::
+9142:Neck, back:spinal cord:::
+9373:Neck, side:trache:spinal cord::
+9653:Head, side:brain:::
+9688:Head, back lower:medulla oblongata:spinal cord::
+9768:Face, lower side:spinal cord:::
+9788:Face, lower center:brain:::
+9823:Head, back upper:brain:::
+9903:Face, upper side:brain:::
+9923:Face, upper center:brain:::
+10000:Head, top:brain:::

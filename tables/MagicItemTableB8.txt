@@ -1,0 +1,10 @@
+2:dwarves
+4:elves/half-elves
+5:gnomelings
+6:gnomes
+8:halflings
+9:half-ogres
+10:half-orcs
+16:humans
+19:humanoids (gnolls, orcs, goblins, etc)
+20:elves, half-elves and humans

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>122. CHAMBER, 20&amp;apos; x 20&amp;apos;</jName>
+      <jRoomDescPlayer>The walls of this place are of plain stone. Doors to the north and west are normal.Four heaps of bedding — rags, torn tapestries, rugs, etc. — lie by the south wall. Two stools stand near the entrance to the southeast passage. Opposite this entrance, along the wall, is a crude shelf, supporting several samples of pottery — bottles and mugs. Under it, in the northwest corner, stand four spears. \n</jRoomDescPlayer>
+      <jRoomDescDM>Encounter: Four gnolls are on guard duty here. One watches each door, one checks the passageway,and the last watches the others, taking a position in the northwest corner. A thin rope hangs down in that corner, connected to a weighted rope net. If any enemies enter, the gnolls give way to the northwest corner and grab spears, appearing to be grouping for a stand; then the rope is jerked, and the net falls. The gnolls hurl their spears at entrapped opponents, grab oil from the shelf and add them to the fray, and then uncover a small fire box with smouldering punk. This bursts aflame when the box is opened, and the gnoll hurls it into the oil to ignite it. \n\nAddtional Encounters:Though these gnolls have no orders to alert others, those in areas 121 and 123 probably (90% chance, checked for each) respond to the sounds of battle.\n\nGnolls (4): AC 5, MV 9&amp;quot;, HD 2, hp 13, 11, 9, 7, #AT 1, D 2-8 (morning star), SA thrown spears (D 1-6/1-8, ranges 1&amp;quot;/2&amp;quot;/3&amp;quot;), net trap; XP 54, 50, 46, 42\n\nIf the gnolls herein have not already used them as weapons, five flasks of oil are on the shelf, by two mugs. Four bottles are empty, and one contains wine. The largest gnoll wears a silver chain with a roughly polished carnelian (worth 125 gp). Each gnoll carries 1-4 sp, 1-4 ep, and 1-4 gp.\n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#1</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>31</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>31</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>28</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>28</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#3</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>35</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>35</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Gnoll, Standard (guard)#4</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>27</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>1516</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>65</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>27</nHitPoints>
+    <nLevel>2</nLevel>
+    <nToHitRank>4</nToHitRank>
+    <sDescription>damage by weapon\n\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>1</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

@@ -1,0 +1,12 @@
+1:azurite
+2:banded agate:
+3:blue quartz
+4:eye agate
+5:hematite
+6:lapis lazuli
+7:malachite
+8:moss agate
+9:obsidian
+10:rhodochrosite
+11:tiger eye
+12:turquoise

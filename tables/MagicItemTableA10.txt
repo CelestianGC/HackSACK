@@ -1,0 +1,25 @@
+4:Cape of Many Tapestries:1000:25000:246
+8:Cape of Shadow Weaving:1000:20000:246
+11:Cloak of Arachnida:1500:30000:247
+16:Cloak of the Bat:800:15000:247
+19:Cloak of Displacement:1500:30000:248
+27:Cloak of Elvenkind:800:10000:248
+31:Cloak of Fairy Kind:1000:20000:248
+38:Cloak of the Manta Ray:1500:20000:248
+42:Cloak of Poisonousness:1000:18000:248
+49:Cloak of Protection:1000:5000:248
+56:Cloak of Stalking:800:15000:248
+60:Dark Cloak:1500:20000:249
+62:Robe of the Archmagi (M):2000:34000:262
+65:Robe of Blending:1500:20000:262
+68:Robe of Deep Pockets:2500:35000:263
+71:Robe of Eyes (M):1500:30000:263
+73:Robe of Many Pockets:2500:40000:263
+77:Robe of Powerlessness (M):0:5000:263
+82:Robe of Scintillating Colors (C, M):1250:15000:263
+85:Robe of Shielding:1000:25000:263
+87:Robe of Shun Suspicion:2000:22000:263
+90:Robe of Stars (M):1000:20000:263
+93:Robe of Useful Items (M):1500:10000:263
+97:Robe of Vermin (M):1000:5000:263
+100:GM's Choice:0:0:0

@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<PlayerFile>
+  <Player
+   lPlayerID='1071604757125'
+   sPlayerName='Alan'
+   sCharacter='Adolf'
+   sFamilyClan=''
+   sHomeland=''
+   sGawd=''
+   sPatron=''
+   sAppearance=''
+   sBirthDate=''
+   sFamilyHistory=''
+   sHairColour=''
+   sEyeColour=''
+   sSpecialAbilities=''
+   sMiscInfo=''
+   sRace='gnome'
+   jPlayerLog=''
+   nBirthRank='10'
+   nAge='88'
+   nHeight='40'
+   nWeight='87'
+   nSocialClassIndex='6'
+   nNumberSiblings='9'
+   nHandIndex='2'
+   nAlignementIndex='7'
+   nSexIndex='0'
+   nAIP='0'
+   jSizeComboBox='2'
+   AC_NORMAL='7'
+   AC_REAR='9'
+   AC_SHIELDLESS='9'
+   AC_SUPRISED='9'
+   jHealthMax='28'
+   jHealthLabel='28'
+   jMove='6'
+   jHonor='17'
+   nTemporalHonor='0'
+   >
+         <Abilities
+         sName='Strength'
+         jAdjScore='13'
+         jAdjPercent='41'
+          >
+             <AbilityMods
+             sName='Hit Probability'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Damage Adjustment'
+             nMod='-1'
+             jMod='1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Weight Allowance'
+             nMod='-1'
+             jMod='67'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max Press'
+             nMod='-1'
+             jMod='150'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Open Doors'
+             nMod='-1'
+             jMod='7'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bend Bars/Lift Gates'
+             nMod='-1'
+             jMod='6%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Dexterity'
+         jAdjScore='16'
+         jAdjPercent='19'
+          >
+             <AbilityMods
+             sName='Defense Adjustment'
+             nMod='-1'
+             jMod='-2'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Missle Adjustment'
+             nMod='-1'
+             jMod='+3'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Constitution'
+         jAdjScore='12'
+         jAdjPercent='82'
+          >
+             <AbilityMods
+             sName='Hit Point Adjustment'
+             nMod='-1'
+             jMod='+1'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='System Shock'
+             nMod='-1'
+             jMod='80%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Ressurection Survival'
+             nMod='-1'
+             jMod='85%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Poison Save'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Immunity to Disease/Alchohol'
+             nMod='-1'
+             jMod='-30%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Regeneration'
+             nMod='-1'
+             jMod='Nil / 1 HP every day'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Intelligence'
+         jAdjScore='13'
+         jAdjPercent='36'
+          >
+             <AbilityMods
+             sName='# of Languages'
+             nMod='-1'
+             jMod='3'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Level'
+             nMod='-1'
+             jMod='6th'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Learning Ability'
+             nMod='-1'
+             jMod='55%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Max # Spells Per Level'
+             nMod='-1'
+             jMod='9'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Illusion Immunity'
+             nMod='-1'
+             jMod='-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Mishap'
+             nMod='-1'
+             jMod='0%'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Wisdom'
+         jAdjScore='12'
+         jAdjPercent='22'
+          >
+             <AbilityMods
+             sName='Magical Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Bonus Spells'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance of Spell Failure'
+             nMod='-1'
+             jMod='5%-'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Spell Immunity'
+             nMod='-1'
+             jMod='05%'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Chance to Improve Skill'
+             nMod='-1'
+             jMod='NA'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Charisma'
+         jAdjScore='12'
+         jAdjPercent='6'
+          >
+             <AbilityMods
+             sName='Max # of Henchmen/Cronies/SideKicks'
+             nMod='-1'
+             jMod='5'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Loyalty Base'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Reaction Adjustment'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Comeliness Modifier'
+             nMod='-1'
+             jMod='0'
+             >
+             </AbilityMods>
+             <AbilityMods
+             sName='Starting Honor Modifier'
+             nMod='-1'
+             jMod='+1'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Abilities
+         sName='Comeliness'
+         jAdjScore='9'
+         jAdjPercent='68'
+          >
+             <AbilityMods
+             sName='Special'
+             nMod='-1'
+             jMod='Homely looking.'
+             >
+             </AbilityMods>
+         </Abilities>
+         <Class
+         sName='Illusionist'
+         nClassindex='10'
+         nClassID='10'
+         nSaveAs='3'
+         nFightAs='3'
+         jLevel='2'
+         jEXP='2251'
+          >
+         </Class>
+         <Saves
+         sName='Paralyzation, Poison, Death Magic'
+         nSaveType='0'
+         nBaseSave='14'
+         jSave='14'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Rod, Staff, Wand'
+         nSaveType='1'
+         nBaseSave='11'
+         jSave='11'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Petrifaction, HackFrenzy, HackLust, PolyMorph'
+         nSaveType='2'
+         nBaseSave='13'
+         jSave='13'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Breath Weapon'
+         nSaveType='3'
+         nBaseSave='15'
+         jSave='15'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Apology'
+         nSaveType='4'
+         nBaseSave='17'
+         jSave='17'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Saves
+         sName='Spells'
+         nSaveType='5'
+         nBaseSave='12'
+         jSave='12'
+         jSaveMod='0'
+         jSaveOther='0'
+          >
+         </Saves>
+         <Coins
+         sName='Copper'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Silver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Electrum'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Gold'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Hardsilver'
+         jCount='0'
+          >
+         </Coins>
+         <Coins
+         sName='Platinum'
+         jCount='0'
+          >
+         </Coins>
+         <Skills
+         sName='staff: quarterstaff'
+         sDesc='Proficient with the longsword.'
+         jSkillSpinner='1'
+         nSkillID='45'
+         nSkillType='2'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:botany'
+         sDesc='fill in description'
+         jSkillSpinner='44'
+         nSkillID='25'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:mundane:weapon maintenance'
+         sDesc='able to perform basic maintenance on weapons'
+         jSkillSpinner='1'
+         nSkillID='14'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='tasks:sophisticated:read/write'
+         sDesc='can read/write'
+         jSkillSpinner='52'
+         nSkillID='43'
+         nSkillType='0'
+          >
+         </Skills>
+         <Skills
+         sName='acute (high) altertness'
+         sDesc='Almost impossible to suprise. 1 in 10 chance normally.\n\n1-8 on d10 chance of knowing when something is amiss even when sleeping.\n'
+         jSkillSpinner='1'
+         nSkillID='53'
+         nSkillType='1'
+          >
+         </Skills>
+         <Skills
+         sName='gnome:racial bonuses'
+         sDesc='infra 60ft\nsaving throw bonuse on saves vs. magic\n+1 on to-hits vs kobolds/gnomes\ngnolls, bugbears, ogres, trolls, ogre magi, giants and titains -4 to hit gnomes\n\ndetect grade or slope in passage 1-5 on d6\ndetect unsafe walls, ceilings and floors 1-7 on d10\ndetermine approx depth underground 1-4 on d6\ndetermine approx direction underground 1-3 on d6\n\n20% chance of failure when using magic items except weapons, armor, shields, illusionist items and items duplicating thief abilities (if a thief).\n'
+         jSkillSpinner='1'
+         nSkillID='54'
+         nSkillType='3'
+          >
+         </Skills>
+         <Skills
+         sName='arcane skills:arcane lore'
+         sDesc='Can read magical writings and generally tell what it&apos;s about.'
+         jSkillSpinner='22'
+         nSkillID='52'
+         nSkillType='0'
+          >
+         </Skills>
+         <Quirks
+         sName='minor physical:scar, facial'
+         sDesc='look up description and update'
+         nQuirkID='10'
+          >
+         </Quirks>
+         <Quirks
+         sName='minor:personality:obnoxious'
+         sDesc='This character is similar ro a jerk or a loud boor, but he tends ro act in annoying and disgusting ways on a frequent basis. He picks his nose in public, scrarches his private parts, burps. and tells obscene jokes. Often this person thinks he is the world&apos;s friendliest guy and generally, he is friendly, However, his behavior makes him exwemely unpopular. He loses a point of Charisma. \n'
+         nQuirkID='17'
+          >
+         </Quirks>
+  </Player>
+</PlayerFile>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BattleSheets JDOM="10b">
+  <InformationSheets>
+    <Area_Information>
+      <jName>147. ROOM, 20&amp;apos; x 20&amp;apos;</jName>
+      <jRoomDescPlayer>This plain room contains little of interest. A peg shoved between the blocks of stone on the west wall holds a robe of dull black cloth adorned with a pale brown pattern, a pair of triangles one atop the other. In the southeast corner of the room stands an old battered table with two chairs, a stool, and a bench (along its south edge) clustered around it. A cask is on the table, with some earthenware mugs and bits and pieces of food. Three torches burn in wall sconces, and eight fresh ones lie on the floor. An open cupboard in the northeast corner displays old plates, several mugs, lumpy sacks, and a string of small dried sausages. A large water barrel stands near the southwest corner, opposite the door.\n</jRoomDescPlayer>
+      <jRoomDescDM>Three bugbears are on guard in this room. They are gaolers and know nothing of the secret door in the west wall. Their master, the human turnkey (area 152), is away. They fight until they see that the situation is hopeless, and then attempt to escape or surrender. \n\nBugbears (3): AC 5, MV 9&amp;quot;, HD 3 + 1, hp 19, 17, 14, #AT 1, D 2-8 (bardiche), SA surprise 50%; XP 211, 203, 191\n\nThe bugbears wear black leather jacks adorned with a pale brown pattern of two triangles. Each carries 2-16 sp, 2-16 ep, and 2-16 gp.\n\nThe cask on the table holds two gallons of beer. The lumpy sacks in the cupboard contain only hard biscuits.\n</jRoomDescDM>
+    </Area_Information>
+  </InformationSheets>
+  <BSCreature>
+    <sCreatureName>Bugbear#1</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>35</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>144</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>175</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>35</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>5</nToHitRank>
+    <sDescription>damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts\nwill not hesitate to belch this information to their brethren and fetch\nreinforcements. Bugbear combat is tactically sound, beginning with\na war howl to distract opponents, followed by a volley of missiles and\nthen the charge into melee. Bugbears are not above a tactical retreat.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Bugbear#2</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>31</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>144</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>175</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>31</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>5</nToHitRank>
+    <sDescription>damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts\nwill not hesitate to belch this information to their brethren and fetch\nreinforcements. Bugbear combat is tactically sound, beginning with\na war howl to distract opponents, followed by a volley of missiles and\nthen the charge into melee. Bugbears are not above a tactical retreat.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+  <BSCreature>
+    <sCreatureName>Bugbear#3</sCreatureName>
+    <jACMod>0</jACMod>
+    <jHitPointLabel>40</jHitPointLabel>
+    <jNotePad />
+    <jClassSelect>4</jClassSelect>
+    <nCreatureID>144</nCreatureID>
+    <nAC>5</nAC>
+    <nACBase>5</nACBase>
+    <nEXP>175</nEXP>
+    <nHonor>-1</nHonor>
+    <nHitPoints>40</nHitPoints>
+    <nLevel>3</nLevel>
+    <nToHitRank>5</nToHitRank>
+    <sDescription>damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts\nwill not hesitate to belch this information to their brethren and fetch\nreinforcements. Bugbear combat is tactically sound, beginning with\na war howl to distract opponents, followed by a volley of missiles and\nthen the charge into melee. Bugbears are not above a tactical retreat.\n</sDescription>
+    <sSpecialAttack>N</sSpecialAttack>
+    <sSpecialDefense>N</sSpecialDefense>
+    <sMagicDefense>Normal</sMagicDefense>
+    <sPSIAttack>N</sPSIAttack>
+    <sPSIDefense>N</sPSIDefense>
+    <sHOBLocation>Unknown.</sHOBLocation>
+    <nBASENumAtks>1</nBASENumAtks>
+    <nBASEMorale>10</nBASEMorale>
+    <nBASEMove>12</nBASEMove>
+    <nBASESizeIndex>2</nBASESizeIndex>
+    <nBASEAlignmentIndex>4</nBASEAlignmentIndex>
+    <nBASEHackFactor>1</nBASEHackFactor>
+    <nFatigueFactor>10</nFatigueFactor>
+    <nCombatRounds>0</nCombatRounds>
+    <Attack>
+      <jWeaponType>0</jWeaponType>
+      <jDamageDice>1d4</jDamageDice>
+      <jToHitMod>0</jToHitMod>
+      <jTotalMod>0</jTotalMod>
+      <jModCrit>0</jModCrit>
+      <jModFumble>0</jModFumble>
+      <jModPenetration>0</jModPenetration>
+      <nWeaponSelectedID>-1</nWeaponSelectedID>
+    </Attack>
+  </BSCreature>
+</BattleSheets>
+

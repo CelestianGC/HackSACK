@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='228. PRISON ROOM'
+   jRoomDescPlayer='An outsided table and two matching chairs stand in the northeast, along the diagonal wall. A cask and several leather jacks are on the table, amongst small hunks of cheese and dried meat; some food scraps have fallen to the floor. Nearby is a barrel and a huge pot. Brackets and torches line the walls, but only 3 contain torches, none lit. A great pile of hides and skins is in the southeast corner — a bed of sorts.\n\nFour bronze-bound oaken doors, each with a heavy bar, padlock, and small barred port, mark the cells.'
+   jRoomDescDM='The gaoler, an ogre, is dozing on his bedding in the southeast corner of this area. He needs one round to awaken and rise for a fight. His assistant, a bugbear, is sitting at a table along the diagonal wall (to the northeast), drinking beer to wash down his recent repast. Neither of these humanoids is aligned with any Elemental Temple; their orders come &quot;from below&quot;, and are delivered by an ettin. The leaders of the various Temples know this and are afraid to violate the neutrality of the place. Each Elemental Temple has a cell here to hold prisoners; that of the Earth (southwest) and Air (northwest) are empty. The cells of the Water Temple (A) and Fire Temple (B) hold prisoners.\n\nThe bugbear wears a chain mail shirt, and has a purse with 3 pp, 4 gp, and 18 sp. A &quot;large dagger&quot; at his belt is a shortsword + 1, but he uses a flail in combat. The ogre is unarmored and uses a club (gaining a + 6 damage bonus, due to Strength). He carries 39 gp and 28 ep in his purse, along with the keys to the cells.\n\nBugbear: AC 3, MV 9&quot;, HD 3 + 1, hp 20, #AT 1, D 2-7 (flail), SA surprise on 1-3; XP 215 \nOgre: AC 4, MV 9&quot;, HD 4 + 1, hp 19, #AT 1, D 7-12 (club); XP 185\n\nThe cask contains beer; the barrel, water, and the pot, some sort of gruel of grain and vegetables. One skin in the ogre&apos;s bed-pile is a giant weasel pelt, worn and torn, worth 1, 200 gp. \n\nEach cell is about eight feet square; see below for prisoner descriptions (cells 228a and 228b). The prisoners of the Water Temple are planned for sacrifices to conjure up a major demon, with which they may overcome all of the other Elemental Temples once and for all. The prisoners of the Fire Temple are slated for death to gain the protection of a powerful efreeti, who may aid them against the Water Temple. Both groups will be very displeased (to say the least) if their captive sacrifices are freed. \n'
+   >
+  </BSInfo>
+  <BSInfo
+   jName='228a. CELL OF THE WATER TEMPLE'
+   jRoomDescPlayer='Player Area Description...'
+   jRoomDescDM='This cell holds four elves. If freed, they ask to be shown the route out so they can immediately return to their homeland, but express great gratitude and promise rewards for their rescuers. Two elves are normal, but two are Noble—Countess Trillahi of Celene and her consort, Sir Juffer. \n\nElves, normal (2): AC 9, MV 12&quot;, HD 1 + 1, hp 7, 6, no weapons; Dexterity 15 each; XP 21, 20\n\nCountess Tillahi of Celene: AC 6, MV 12&quot;, Level 5/4 Fighter/Magic-User, hp 22, no current weapons or spells, Dexterity 18; XP 651\n\nSir Juffer: AC 8, MV 12&quot;, Level 4/4 Cleric/ Ranger, hp 28, no current weapons, no spells castable (due to curse upon him), Dexterity 16; XP 468 \n\nRescuers are asked for their names and places of residence; each will receive 100 pp 5-8 weeks later (XP given at that time). In addition, the leader of the rescuing party will receive a suit of human-sized elfin chainmail (XP 200), and the most gallant  party member will be sent a ring crafted of unicorn horn and enchanted with permanent sympathy, affecting unicorns only (XP value 500). If the wearer becomes evil or purposely harms any unicorn, the ring drops off unnoticed and is forever lost. All ifts are directed to individuals, and cannot be redistributed.'
+   >
+  </BSInfo>
+  <BSInfo
+   jName='228b. CELL OF THE FIRE TEMPLE'
+   jRoomDescPlayer='Player Area Description...'
+   jRoomDescDM='This cell holds three human males. One is a brigand (HD 2, AL N) who was caught taking several gems and deserting, and so has been beaten and imprisoned to await sacrifice. He gladly joins adventurers in any endeavors that allow him to kill servants of the Fire Temple and bring him loot. The other two prisoners are merchants (Level 0 non-combatants) from the Nulb area.\n\nBrigand: AC 10, MV 12&quot;, Fighter 2, hp 15 S 12 I 13 W 12 D 14 Co 16 Ch 10\n'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='Ogre, Common'
+   nAC='5'
+   nACBase='5'
+   jACMod='0'
+   jHitPointLabel='42'
+   jClassSelect='4'
+   nEXP='270'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='42'
+   nLevel='4'
+   nToHitRank='6'
+   jNotePad=''
+   sDescription='Damage is 1d10 or by weapon +3 to hit +7 to damage.'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='851'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='10'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+  <BSCreature
+   sCreatureName='Bugbear'
+   nAC='5'
+   nACBase='5'
+   jACMod='0'
+   jHitPointLabel='35'
+   jClassSelect='4'
+   nEXP='175'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='35'
+   nLevel='3'
+   nToHitRank='5'
+   jNotePad=''
+   sDescription='damage 2d4 or by weapon\n\nCOMBATITACTICS: Bugbears like to ambush their foes, gaining\nsurprise 5 out of 10 times. If a party looks dangerous, Bugbear scouts will not hesitate to belch this information to their brethren and fetch reinforcements. Bugbear combat is tactically sound, beginning with a war howl to distract opponents, followed by a volley of missiles and then the charge into melee. Bugbears are not above a tactical retreat.\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='144'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='2'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

@@ -1,0 +1,4 @@
+8:silver 2d4+2 2nd level berserk fighters, use by any class
+15:brass 2d4+1 3rd level berserk fighters, use by C, F, T
+18:bronze 2d4 4th level berserk fighters, use by C, F
+20:iron 1d4+1 5th level berserk fighters, use by F only

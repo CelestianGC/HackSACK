@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXPBonusTypeList>
+  <nMaxID>34</nMaxID>
+  <EXPBonusType>
+    <sName>Cleric:Curing or Causing Wounds</sName>
+    <sDesc>Casting a spell and curing (good) or causing (evil) wounds. Set reward to number of hit points healed/caused.</sDesc>
+    <nEXPBonusID>11</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Cleric:Faithful Adherence to Alignmet</sName>
+    <sDesc>Play well within the clerics alignment. 100 EXP per level, only change reward if you want more than that.</sDesc>
+    <nEXPBonusID>14</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Cleric:Heroic spell cast</sName>
+    <sDesc>Cast a spell heroicly or heroic results. Reward is 100 ep per level.</sDesc>
+    <nEXPBonusID>16</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Cleric:Make permanent magic item</sName>
+    <sDesc>make a permanent magic item, reward is ep value of item made.</sDesc>
+    <nEXPBonusID>18</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Cleric:Make potion or scroll</sName>
+    <sDesc>make a poition or scroll. reward is ep value of scroll.</sDesc>
+    <nEXPBonusID>17</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Cleric:Raising a Character</sName>
+    <sDesc>Raising a character. Reward is EXP value of the player raised.</sDesc>
+    <nEXPBonusID>12</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Cleric:Spells cast to further ethos</sName>
+    <sDesc>spells cast that promote the clerics diety. 100 ep per spell level (set multipler to spell level)</sDesc>
+    <nEXPBonusID>15</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Fighter:CriticalHit suffered</sName>
+    <sDesc>for each time this character sufferes a critical hit. 10EP per Severity. Set reward to the severity suffered for proper reward.</sDesc>
+    <nEXPBonusID>33</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>10</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Fighter:Expert Marksmanship</sName>
+    <sDesc>3 or more critical hits w/missle weapon. 100 ep reward, which is automatically multiplied by level of player</sDesc>
+    <nEXPBonusID>8</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Fighter:Precision Cutting</sName>
+    <sDesc>3 or more critical hits w/melee weapon. 100 exp per level reward.</sDesc>
+    <nEXPBonusID>9</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Clever Idea</sName>
+    <sDesc>Player has a clever idea.(10-100 base points based on how good it is) 10-100 point reward multiplied by the average level of group.</sDesc>
+    <nEXPBonusID>5</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>true</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Defeat a Creature</sName>
+    <sDesc>Defeat creature in single combat. Set reward to creature exp value.</sDesc>
+    <nEXPBonusID>28</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>true</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Generic</sName>
+    <sDesc>general exp award, set reward/multiplyer at apply.</sDesc>
+    <nEXPBonusID>27</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>true</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Most Awesome Character Death</sName>
+    <sDesc>Most awesome character death, reward awarded posthumously.</sDesc>
+    <nEXPBonusID>1</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>300</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Most Damage Dealt in Single Blow</sName>
+    <sDesc>Most damage dealt out in a single blow. Set reward to damage value.</sDesc>
+    <nEXPBonusID>2</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>10</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:MVP Award</sName>
+    <sDesc>Most valuable player in a single session, voted on by peers. Reward is 500 exp multiplied by the group average level.\n</sDesc>
+    <nEXPBonusID>0</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>true</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>500</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Role Play Award (average)</sName>
+    <sDesc>Character has role played their character at least average. 100 exp reward per level of player.</sDesc>
+    <nEXPBonusID>4</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Role Play Award (Best)</sName>
+    <sDesc>Character has role played his character really well. 200 exp reward per level of player.</sDesc>
+    <nEXPBonusID>3</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>200</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>General:Saves Party</sName>
+    <sDesc>Player has an idea that saves the player. (100-500 points base reward) 100-500 point reward multiplied by party average level.</sDesc>
+    <nEXPBonusID>6</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>true</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Magic-User:Heroic spell cast</sName>
+    <sDesc>heroic spell cast, reward is 100 ep per level of spell cast.</sDesc>
+    <nEXPBonusID>19</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Magic-User:Ingenious Casting</sName>
+    <sDesc>spell cast ingeniously to overcome a foe or problem. 100 exp reward multiplied by level of player.</sDesc>
+    <nEXPBonusID>20</nEXPBonusID>
+    <bLevelMultiplier>true</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>0</nMultiplier>
+    <nReward>100</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Magic-User:Make permanent magical item</sName>
+    <sDesc>make permanent magical item, reward is ep value of item made</sDesc>
+    <nEXPBonusID>23</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Magic-User:Make potion or scroll</sName>
+    <sDesc>make a potion or scroll, reward is ep value of item made.</sDesc>
+    <nEXPBonusID>22</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Magic-User:Spells successfully researched</sName>
+    <sDesc>successfully research a spell, reward is 500 ep per spell level (multipler) which must be set before awarding exp.</sDesc>
+    <nEXPBonusID>21</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>500</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Thief/Assassin/Bard:Disarming trap</sName>
+    <sDesc>disarming a trap successfully, reward is equalto potential damage of trap or ep value of would-be victim.</sDesc>
+    <nEXPBonusID>25</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>1</nReward>
+  </EXPBonusType>
+  <EXPBonusType>
+    <sName>Thief/Assassin/Bard:Per ingenious of of special ability</sName>
+    <sDesc>ingenious use of special abilitie.</sDesc>
+    <nEXPBonusID>24</nEXPBonusID>
+    <bLevelMultiplier>false</bLevelMultiplier>
+    <bPartyLevelMultiplier>false</bPartyLevelMultiplier>
+    <bSplitReward>false</bSplitReward>
+    <nMultiplier>1</nMultiplier>
+    <nReward>200</nReward>
+  </EXPBonusType>
+</EXPBonusTypeList>
+

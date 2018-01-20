@@ -1,0 +1,6 @@
+4:anchor
+7:bird
+10:fan
+13:swan boat
+18:tree
+20:whip

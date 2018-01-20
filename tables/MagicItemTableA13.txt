@@ -1,0 +1,33 @@
+2:Alchemy Jug:2000:22500:240
+5:Backpack of Hefty Capacity:3500:30000:241
+13:Bag of Beans:500:10000:241
+16:Bag of Devouring:3000:35000:241
+18:Bag of Endless Storage:5500:45000:241
+20:Bag of Hefty Storage Capacity:5000:75000:241
+25:Bag of Holding:3000:35000:241
+28:Bag of Many Tomes:2000:35000:242
+30:Bag of Replication:2000:40000:242
+32:Bag of Transmuting:2500:25000:242
+35:Bag of Tricks:1500:20000:242
+37:Beaker of Plentiful Potions:1500:15000:242
+39:Bolt of the Month Pouch:1000:5000:243
+42:Buford's Everfull Purse:0:40000:246
+46:Chest of Massive Volume:2500:22500:247
+50:Decanter of Endless Water:1000:10000:249
+52:Efreeti Bottle:4000:55000:252
+57:Eversmoking Bottle:500:5000:252
+60:Fanny Pack of Holding:1000:9500:252
+63:Flask of Curses:1200:8000:252
+66:Flask of Ever-Flowing (blank):1500:15000:252
+68:Frikey's Flask of Interminable Appeals:1000:5000:253
+70:Hewitt's Handy Haversack:2000:20000:256
+73:Iron Flask:1800:10500:258
+76:Never-Empty Flask of Healing:1500:40000:260
+81:Never-Empty Mead Tankard:1500:10000:260
+84:Never-Full Cargo Pouch:3000:55000:260
+86:Portable Hole:2000:35500:262
+89:Pouch of Accessibility:1500:15000:262
+92:Pouch of Plenty:0:18500:262
+95:Saddlebags of Hefty Capacity:4000:55000:264
+98:Waterskin of Daze and Confusion:1000:10000:266
+100:GM's Choice:0:0:0

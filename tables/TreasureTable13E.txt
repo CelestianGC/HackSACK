@@ -1,0 +1,12 @@
+1:amber
+2:alexandrite
+3:amethyst
+4:chrysoberyl
+5:coral
+6:garnet
+7:jade
+8:jet
+9:pearl
+10:spinel
+11:tourmaline
+12:zircon

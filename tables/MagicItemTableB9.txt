@@ -1,0 +1,4 @@
+1:air
+2:earth
+3:fire
+4:water

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='230. GARBAGE ROOM'
+   jRoomDescPlayer='This plastered and painted chamber, probably a secluded place for relaxation when the Temple was in its heyday, is now filled with rubbish. The room is a heap of rotting, stinking garbage, offal, dung, and who knows what else; bones and skulls are visible here and there. Part of a bronze-bound coffer of some sort can be seen near the middle of a large pile of refuse in the center of the room.'
+   jRoomDescDM='An otyugh lurks here, because the eating is good (with occasional fresh appetizers, when wandering creatures become too curious). It awaits at the center of the large central pile, and attacks if anyone goes beyond four feet of the entrance. \n\nOtyugh: AC 3, MV 6 &quot;, HD 6, hp 32, #AT 3, D 1-8/1-8/2-5, SA disease, SD never surprised; XP 956 \n\nThe bugbears to the north (area 231-233) know of this monster and avoid it, having already lost one of their number to its appetite. Being a good garbage disposal as well, they do not wish to kill it.\n\nThe coffer contains a scroll of seven magic-user spells: friends, magic missile, knock, mirror image, web, slow, rary&apos;s mnemonic enhancer. Under the central &quot;nest&quot; of the otyugh is a gold platter (worth 300 gp), 10-40 of each coin type (cp, sp, ep, gp, pp), and a platinum bracelet (worth 1, 000 gp) set with four opals (each worth 1, 000 gp). '
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='Otyugh'
+   nAC='3'
+   nACBase='3'
+   jACMod='0'
+   jHitPointLabel='52'
+   jClassSelect='4'
+   nEXP='650'
+   nHonor='-1'
+   lAttacks='3'
+   nHitPoints='52'
+   nLevel='7'
+   nToHitRank='9'
+   jNotePad=''
+   sDescription='Special Attack:Must make a constition check when seeing or begin vomiting. Opponents struck can be grappled and constricted for an additional 2d4 damage per round. The bite can strike these grappled opponents at +2 to hit. Pcs with 18 or greater strength can automatically break the creatures grip while others must make a successful open doors roll. The bite of the creature is 90% likely to infect the victim with a debilitating, 70% fatal, 20% hilarious and 10% embarassing.\n\nSpecial Defense: Never Suprised.\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='895'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='8'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='0'
+       jNumDice='1'
+       jDiceSides='8'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='1'
+       jNumDice='1'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>

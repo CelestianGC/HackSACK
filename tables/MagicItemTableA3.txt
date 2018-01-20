@@ -1,0 +1,36 @@
+3:1,{1d4}:0:0
+5:1,{1d6}:0:0
+7:1,{1d8+1},{1d6+1}:0:0
+9:2,{1d4}:0:0
+11:2,{1d8+1},{1d6+1}:0:0
+13:3,{1d4}:0:0
+15:3,{1d8+1},{1d6+1}:0:0
+17:4,{1d6}:0:0
+19:4,{1d8},{1d6}:0:0
+21:5,{1d6}:0:0
+23:5,{1d8},{1d6}:0:0
+25:6,{1d6}:0:0
+27:6,{1d6+2},{1d4+2}:0:0
+29:7,{1d8}:0:0
+31:7,{1d8+1},{1d6+1}:0:0
+33:7,{1d6+3},{1d4+3}:0:0
+36:Protection - Acid:1500:7500:226
+39:Protection - Cold:1000:5000:226
+41:Protection - Demons:1500:7500:226
+43:Protection - Devils:1500:7500:226
+46:Protection - Dragon Breath:1000:5000:226
+49:Protection - Electricity:500:2500:226
+53:Protection - Elementals:500:2500:226
+56:Protection - Fire:1000:5000:226
+59:Protection - Gas:1000:5000:226
+62:Protection - Lycanthropes:500:2500:226
+65:Protection - Magic:1000:5000:226
+68:Protection - Petrification:1000:5000:226
+71:Protection - Plants:500:2500:226
+74:Protection - Poison:500:2500:226
+77:Protection - Possession:1000:5000:226
+80:Protection - Undead:750:3750:226
+84:Protection - Water:750:2750:226
+91:Cursed:0:0:0
+95:Stupendous Scroll of Briefs and Writs:1000:5000:226
+100:GM's Choice:0:0:0

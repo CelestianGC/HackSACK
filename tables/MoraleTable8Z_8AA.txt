@@ -1,0 +1,12 @@
+npc, 25% of party dead/fleeing:15:B
+npc, leader falls or appears down:10:B
+npc, 50% of party dead/fleeing:15:B
+npc leader obviously dead/fleeing:25:B
+npc chieftain present:-10:B
+npcs inflicting casualties w/o receiving any:-20:B
+npc, each ally slain:10:#
+npc deaths w/o killing any enemies:10:B
+npc out number/classed by 3 or more to 1:20:B
+npc, each ally deserting:15:#
+each player/enemy deserting:-5:#
+each player/enemy slain:-10:#

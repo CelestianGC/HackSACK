@@ -1,0 +1,26 @@
+3:albino scoria
+9:black
+12:blue, horny ridged
+17:blue, spiny backed blue ridge
+24:blue, spiny, horned
+30:brass
+33:bronze
+36:cloud
+39:copper,slag-scaled
+45:copper,standard
+48:gold
+51:green
+54:mist
+57:mottled
+63:onyx
+66:red crested, amber bellied
+69:red, standard
+72:shadow
+75:silver
+77:slag-scaled titanium
+80:speckled
+86:spiny
+92:swack iron
+98:white
+99:evil-aligned dragon
+100:good-aligned dragon

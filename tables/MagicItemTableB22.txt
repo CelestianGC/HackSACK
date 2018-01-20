@@ -1,0 +1,2 @@
+90:normal
+100:vampiric regeneration

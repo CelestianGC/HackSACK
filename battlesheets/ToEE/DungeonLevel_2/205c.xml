@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<BattleSheets>
+<InformationSheets>
+  <BSInfo
+   jName='205c. WESTERN SIDE ROOM'
+   jRoomDescPlayer='The western side room is furnished similarly to the main room. It contains a large bed, two small side tables, a round table with four chairs, a stand with basin, ewer, and a small copper box, a wardrobe, and a brass brazier filled with brightly glowing coals and giving off wisps of sulphurous-smelling incense. A large brass chest with a heavy lock is at the foot of the bed. \n'
+   jRoomDescDM='This is the private chamber of the human Prefect Alrrem, chief cleric of the Fire Temple, who is here writing another ultimatum to Romag (area 137). Alrem knows that the priests of the Water Temple are close to forcing the servants of the Air Temple to align against him. His written message states, thus far, &quot;Your rewards will be great if you bend your knee to Fire. Bring all of your forces here to me now, and swear fealty. If you fail to heed this advice... &quot; Alrrem is desparate, for his faction (having lost power when it led the Temple to defeat) now has few adherents and no particular strength in troops; he needs the forces being gathered by the Earth Temple to counter those of the Air and Water Temples. Alrrem wears a robe of deep crimson with a purple lining and gold trim; it has gold skulls on front, back, and sleeves. His gold fire symbol (on golden chain) is set with a nice ruby (jewelry value 2, 500 gp). He has a scroll of three spells in a tube at his belt (dispel magic, flame strike, tongues), and carries 5 gp, 38 pp, and 4 zircons (worth 50 gp each) in his purse. He wears magical chain mail and shield, and carries two hammers — one normal (carried as a spell component) and one hammer +2.\n\nPrefect Alrrem: AC 0 (chain +2 &amp; shield + 1), MV 12 &quot;, Level 5 Cleric, hp 31, #AT 1, D 4-7 (hammer + 2), Dexterity 16 (-2 AC bonus included), SA spells; XP 520 \nFirst level: command, cure light wounds, light, resist cold, sanctuary\nSecond level: hold person, know alignment, resist fire, silence 15&apos; radius, spiritual hammer\nThird level: cause blindness, prayer \n\nThe chest holds clothing, a suit of normal chain mail armor, a normal mace, and a sack containing 100 gp. The top of the copper box is inlaid with sardonyx, and the whole is worth 150 gp. It holds rare herbs worth 200 gp. The wardrobe holds a red silk robe with golden skulls on its back and sleeves, and with the eight-pointed fire symbol piqued on its front in garnets (worth a total of 3, 000 gp).\n'
+   >
+  </BSInfo>
+</InformationSheets>
+  <BSCreature
+   sCreatureName='npc:Prefect cleric 5'
+   nAC='0'
+   nACBase='0'
+   jACMod='0'
+   jHitPointLabel='40'
+   jClassSelect='1'
+   nEXP='650'
+   nHonor='-1'
+   lAttacks='1'
+   nHitPoints='40'
+   nLevel='5'
+   nToHitRank='4'
+   jNotePad=''
+   sDescription='Prefect Alrrem: AC 0 (chain +2 &amp; shield + 1), MV 12 &quot;, Level 5 Cleric, hp 31, #AT\n1, D 1d4+1(+2) (hammer + 2), Dexterity 16 (-2 AC bonus included), SA spells; XP 520\n\nFirst level: command, cure light wounds, light, resist cold, sanctuary\n\nSecond level: hold person, know alignment, resist fire, silence 15&apos; radius, spiritual hammer\n\nThird level: cause blindness, prayer\n'
+   sSpecialAttack='N'
+   sSpecialDefense='N'
+   sMagicDefense='Normal'
+   sPSIAttack='N'
+   sPSIDefense='N'
+   nBASENumAtks='1'
+   nBASEMorale='10'
+   nBASEMove='12'
+   nBASESizeIndex='2'
+   nBASEAlignmentIndex='4'
+   nBASEHackFactor='1'
+   nFatigueFactor='10'
+   nCombatRounds='0'
+   nCreatureID='1550'
+   >
+     <Attack
+       jWeaponType='0'
+       jToHitMod='0'
+       jPerDiceMod='0'
+       jTotalMod='3'
+       jNumDice='1'
+       jDiceSides='4'
+       jModPenetration='0'
+       jModFumble='0'
+       jModCrit='0'
+     >
+     </Attack>
+  </BSCreature>
+</BattleSheets>
